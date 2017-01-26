@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.5, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="800px" height="600px" viewBox="0 0 800 600" style="enable-background:new 0 0 800 600;" xml:space="preserve">
+<style type="text/css">
+<![CDATA[
+	.st0{fill:#989898;stroke:#010101;stroke-miterlimit:10;}
+	.st1{fill:#FFFFFF;stroke:#010101;stroke-miterlimit:10;}
+]]>
+</style>
+<g id="background">
+	<rect y="580" class="st1" width="800" height="20"/>
+	<rect x="490" y="500" class="st1" width="20" height="80"/>
+	<rect x="290" y="500" class="st1" width="20" height="80"/>
+	<rect x="250" y="490" class="st1" width="300" height="20"/>
+</g>
+<g id="bricks">
+	
+		<rect id="special_1_" x="311.8" y="232.3" transform="matrix(0.9999 -1.562548e-02 1.562548e-02 0.9999 -3.8998 5.5284)" class="st0" width="80" height="40"/>
+	<rect x="401.5" y="448.1" class="st1" width="80" height="40"/>
+	
+		<rect x="332.9" y="274.2" transform="matrix(0.9999 1.254868e-02 -1.254868e-02 0.9999 3.7216 -4.6561)" class="st1" width="80" height="40"/>
+	
+		<rect x="296.6" y="170.2" transform="matrix(-6.353498e-03 -1 1 -6.353498e-03 148.5698 528.0052)" class="st1" width="80" height="40"/>
+	
+		<rect x="290.2" y="423.4" transform="matrix(0.3796 -0.9252 0.9252 0.3796 -205.3765 580.6396)" class="st1" width="80" height="40"/>
+	
+		<rect x="337.3" y="422.7" transform="matrix(0.3796 -0.9252 0.9252 0.3796 -175.426 623.7228)" class="st1" width="80" height="40"/>
+	
+		<rect x="303.7" y="340.6" transform="matrix(0.3796 -0.9252 0.9252 0.3796 -120.3586 541.6952)" class="st1" width="80" height="40"/>
+	
+		<rect x="351.7" y="340.5" transform="matrix(0.3796 -0.9252 0.9252 0.3796 -90.5402 586.0516)" class="st1" width="80" height="40"/>
+	
+		<rect x="256" y="344.6" transform="matrix(0.3796 -0.9252 0.9252 0.3796 -153.6258 500.0576)" class="st1" width="80" height="40"/>
+	<rect x="499" y="366.1" class="st1" width="80" height="40"/>
+	
+		<rect x="393.1" y="386.2" transform="matrix(7.327000e-05 -1 1 7.327000e-05 26.9346 839.2773)" class="st1" width="80" height="40"/>
+	
+		<rect x="510" y="304.6" transform="matrix(7.327000e-05 -1 1 7.327000e-05 225.3908 874.545)" class="st1" width="80" height="40"/>
+	
+		<rect x="500" y="428.1" transform="matrix(7.327000e-05 -1 1 7.327000e-05 91.8623 988.0692)" class="st1" width="80" height="40"/>
+	
+		<rect x="234.5" y="428.1" transform="matrix(7.327000e-05 -1 1 7.327000e-05 -173.5763 722.6102)" class="st1" width="80" height="40"/>
+</g>
+</svg>

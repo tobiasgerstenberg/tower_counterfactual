@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<head>
+	<link rel='stylesheet' href='style_debug.css'>
+	<script src="js/canvas-to-blob.js"></script>
+	<script src="js/FileSaver.js"></script>
+	<script>
+		//functions that call things in brick_interface.js
+
+		function setNoiseParams() {
+			document.getElementById('game-frame').contentWindow.setNoiseParams(
+				document.getElementById('noiseType').value,
+				document.getElementById('noiseLevel').value,
+				document.getElementById('fricVal').value,
+				document.getElementById('fricVar').value
+			)
+		}
+		
+		function saveData() {
+			document.getElementById('game-frame').contentWindow.saveOneData();
+		}
+
+		function removeBrick() {
+			document.getElementById('game-frame').contentWindow.removeBrick(
+				document.getElementById('noiseType').value,
+				document.getElementById('noiseLevel').value,
+				document.getElementById('fricVal').value,
+				document.getElementById('fricVar').value
+			);
+		}
+
+		function takeScreenshot() {
+			var canvas = document.getElementById('game-frame').contentWindow.document.getElementById("c"); 
+			canvas.toBlob(function(blob){
+				saveAs(blob,"screenshot.png");
+			}, "image/png;base64");
+		}
+
+		function start(type) {
+			setNoiseParams();
+			if (type == 'animate') {
+				document.getElementById('game-frame').contentWindow.animate();
+			} else if (type == 'high') {
+				document.getElementById('game-frame').contentWindow.animateHigh();
+			} else {
+				document.getElementById('game-frame').contentWindow.sample(
+					document.getElementById("numSamples").value,
+					document.getElementById("numRepetitions").value
+				);
+			}
+		}
+
+		function load() {
+			document.getElementById('game-frame').contentWindow.loadClip(
+				document.getElementById("clipNumber").value
+			); 
+		}
+
+		function loadRemove() {
+			setNoiseParams();
+			document.getElementById('game-frame').contentWindow.loadRemoveClip(
+				document.getElementById("clipNumber").value
+			); 
+		}
+
+		function saveLoad() {
+			var x = document.getElementById("idnums").value.split(/[ ,]+/);
+			document.getElementById('game-frame').contentWindow.loadAndSave(x);
+		}
+
+		function clickBricks() {
+			document.getElementById('game-frame').contentWindow.clickBricks();
+		}
+		function changeGravity() {
+			document.getElementById('game-frame').contentWindow.changeGravity(
+				document.getElementById('grav').checked
+			);
+		}
+		function changeAngle() {
+			document.getElementById('game-frame').contentWindow.changeAngle(
+				document.getElementById('brickAngle').value
+			)
+		}
+	</script>
+</head>
+
+<body>
+	<div id="game">
+		<iframe src="physics_world.html" width=800 height=600 id="game-frame"></iframe>
+	</div>
+	<button type="button" onClick="start('animate')">Animate</button>
+	<button type="button" onClick="removeBrick()">Remove brick</button>
+	<select id='noiseType'>
+		<option value='dxy-local-above'>dxy-local-above</option>
+		<option value='torque-local-above'>torque-local-above</option>
+		<option value='dxy-local'>dxy-local</option>
+		<option value='dx-local'>dx-local</option>
+		<option value='dx-local-above'>dx-local-above</option>
+		<option value='dxy-global'>dxy-global</option>
+		<!--option value='torque-brick'>Brick Torque</option-->
+		<option value='torque-local'>torque-local</option>
+		<option value='torque-global'>torque-global</option>
+		<option value='impulse-local'>impulse-local</option>
+		<option value='impulse-local-above'>impulse-local-above</option>
+		<option value='impulse-local-above-extended'>impulse-local-above-extended</option>
+		<option value='impulse-global'>impulse-global</option>
+	</select>
+	Noise level
+	<input type='text' id='noiseLevel' value='0'>
+	Friction value
+	<input type='text' id='fricVal' value='0.5'>
+	Friction variance
+	<input type='text' id='fricVar' value='0'>
+	<br>
+	<!--button type="button" onClick="start('high')">High</button-->
+	<button type="button" onClick="clickBricks()">Brickmaker</button>
+	<button type="button" onClick="saveData()">Save data</button>
+	<button type="button" onClick="takeScreenshot()">Screenshot</button>
+	Gravity <input id='grav' type="checkbox" onClick="changeGravity()" checked>
+	Angle <input type="number" id = "brickAngle" onChange="changeAngle()" min="0" value='0'>
+	<br>
+	<button type="button" onClick="load()">Load</button>
+	<button type="button" onClick="loadRemove()">Load + Remove</button>
+	<!--Load Type
+	<select id='loadType'>
+		<option value='initial'>initial</option>
+		<option value='final'>final</option>
+		<option value='snapshot'>snapshot</option>
+	</select>-->
+	ID
+	<input type="text" id="clipNumber">
+
+	<br>
+	<br>
+	<button type="button" onClick="start('simulate')">Simulate</button>
+	#samples
+	<input type="number" name="samples" id = "numSamples" min="1" value='10'>
+	#repetitions
+	<input type="number" name="repetitions" id="numRepetitions" min="1" max="100" value='20'>
+	
+	<br>
+	<button type='button' onClick="saveLoad()">Save Images</button>
+	<input type="text" id="idnums">
+	
+	<br>
+	<h1>Documentation</h1>
+	<ol>
+		<li>To reset the box and animate an example, click <button type="button" onClick="start('animate')">Animate</button>. You can change the noise/friction applied to the bricks upon grey brick removal and click <button type="button" onClick="removeBrick()">Remove brick</button>.</li>
+		<li>To simulate multiple examples (without animation) and save the results as stimuli samples, click <button type="button" onClick="start('simulate')">Simulate</button> and input how many samples you'd like, as well how many repetitions to perform per setup. The noise/friction parameters near <button type="button" onClick="start('animate')">Animate</button> will be used.</li>
+		<li>Use <button type="button" onClick="clickBricks()">Brickmaker</button> to create your own brick list, and then save the data from the iframe with the <button type="button" onClick="saveData()">Save data</button> and <button type="button" onClick="takeScreenshot()">Screenshot</button> buttons! <b>To properly set the angle, make sure to click outside the textbox for the update to register</b>.
+		<li>(optional) Save the data from the current iframe snapshot with <button type="button" onClick="saveData()">Save data</button>.</li>
+		<li>(optional) Take a screenshot of the current iframe with <button type="button" onClick="takeScreenshot()">Screenshot</button>.</li>
+		<li>(optional) Load a snapshot with <button type="button" onClick="load()">Load</button>; "snapshot" refers to data saved with the <button type="button" onClick="saveData()">Save data</button> button, and "initial" and "final" refer to data saved with the <button type="button" onClick="start('simulate')">Simulate</button> button.</li>
+		<li>Load and take screenshots for many different initial/final pairs with <button type='button' onClick="saveLoad()">Save Images</button>. List the IDs for the relevant scenes, separated by commas or whitespace!</li>
+	</ol>
+		
+</body>
+</html>
+
+

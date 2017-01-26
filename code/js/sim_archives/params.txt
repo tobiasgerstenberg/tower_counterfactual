@@ -1,0 +1,130 @@
+----13
+data_source2, but with gaussian noise variance
+
+
+
+----12
+data_source, but with gaussian noise variance
+
+
+
+----11
+
+#!/bin/bash
+
+if [ ! -d "simulations" ]; then
+	mkdir simulations
+fi
+
+trial=0
+
+if [ $# -gt 0 ]; then
+	trial=$1
+fi
+echo \#!/bin/bash > run_open.sh
+
+#noiseType=(torque-local-above dxy-local dx-local-above impulse-local impulse-local-above impulse-global)
+noiseType=(impulse-global impulse-local impulse-local-above-extended)
+sims=100
+fric=0.5
+
+for type in ${noiseType[@]}; do
+	for level in `seq 0.1 0.1 15`; do
+		#for fric in `seq 0.5 0.1 0.5`; do
+			echo sbatch --mem=1000 -n 2 bash2node.sh $type $level $fric $trial $sims >> run_open.sh
+		#done
+	done
+done
+
+chmod +x run_open.sh
+
+
+
+
+----10
+
+#!/bin/bash
+
+mv run.sh run_backup.sh
+
+if [ ! -d "simulations" ]; then
+	mkdir simulations
+fi
+
+echo \#!/bin/bash > run.sh
+
+#noiseType=(torque-local-above dxy-local dx-local-above impulse-local impulse-local-above impulse-global)
+noiseType=(impulse-global impulse-local-above impulse-local-above-extended)
+trial=0
+sims=100
+fric=0.5
+
+for type in ${noiseType[@]}; do
+	for level in `seq 0.1 0.1 15`; do
+		#for fric in `seq 0.5 0.1 0.5`; do
+			echo sbatch --mem=1000 -n 2 bash2node.sh $type $level $fric $trial $sims >> run.sh
+		#done
+	done
+done
+
+chmod +x run.sh
+
+
+
+----9
+
+#!/bin/bash
+
+mv run.sh run_backup.sh
+
+if [ ! -d "simulations" ]; then
+	mkdir simulations
+fi
+
+echo \#!/bin/bash > run.sh
+
+#noiseType=(torque-local-above dxy-local dx-local-above impulse-local impulse-local-above impulse-global)
+noiseType=(impulse-global impulse-local-above impulse-local-above-extended)
+trial=0
+sims=100
+
+for type in ${noiseType[@]}; do
+	for level in `seq 3.5 0.15 8`; do
+		for fric in `seq 0.1 0.1 0.7`; do
+			echo sbatch --mem=1000 -n 2 bash2node.sh $type $level $fric $trial $sims >> run.sh
+		done
+	done
+done
+
+chmod +x run.sh
+
+
+
+----8
+
+#!/bin/bash
+
+mv run.sh run_backup.sh
+
+if [ ! -d "simulations" ]; then
+	mkdir simulations
+fi
+
+echo \#!/bin/bash > run.sh
+
+#noiseType=(torque-local-above dxy-local dx-local-above impulse-local impulse-local-above impulse-global)
+noiseType=(impulse-local-above impulse-local-above-extended)
+trial=0
+sims=100
+
+for type in ${noiseType[@]}; do
+	for level in `seq 2 0.15 5.9`; do
+		for fric in `seq 0.1 0.1 0.7`; do
+			echo sbatch --mem=1000 -n 2 bash2node.sh $type $level $fric $trial $sims >> run.sh
+		done
+	done
+done
+
+echo cp jobs.sh ./simulations/params.txt >> run.sh
+
+chmod +x run.sh

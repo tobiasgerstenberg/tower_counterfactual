@@ -1,0 +1,3673 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  21 JAN 2017 18:29
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**towers_summary.tex
+(./towers_summary.tex
+LaTeX2e <2014/05/01>
+Babel <3.9k> and hyphenation patterns for 78 languages loaded.
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/tocloft/tocloft.sty
+Package: tocloft 2013/05/02 v2.3f parameterised ToC, etc., typesetting
+Package tocloft Info: The document has section divisions on input line 44.
+\cftparskip=\skip43
+\cftbeforetoctitleskip=\skip44
+\cftaftertoctitleskip=\skip45
+\cftbeforepartskip=\skip46
+\cftpartnumwidth=\skip47
+\cftpartindent=\skip48
+\cftbeforesecskip=\skip49
+\cftsecindent=\skip50
+\cftsecnumwidth=\skip51
+\cftbeforesubsecskip=\skip52
+\cftsubsecindent=\skip53
+\cftsubsecnumwidth=\skip54
+\cftbeforesubsubsecskip=\skip55
+\cftsubsubsecindent=\skip56
+\cftsubsubsecnumwidth=\skip57
+\cftbeforeparaskip=\skip58
+\cftparaindent=\skip59
+\cftparanumwidth=\skip60
+\cftbeforesubparaskip=\skip61
+\cftsubparaindent=\skip62
+\cftsubparanumwidth=\skip63
+\cftbeforeloftitleskip=\skip64
+\cftafterloftitleskip=\skip65
+\cftbeforefigskip=\skip66
+\cftfigindent=\skip67
+\cftfignumwidth=\skip68
+\c@lofdepth=\count87
+\c@lotdepth=\count88
+\cftbeforelottitleskip=\skip69
+\cftafterlottitleskip=\skip70
+\cftbeforetabskip=\skip71
+\cfttabindent=\skip72
+\cfttabnumwidth=\skip73
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/05/08 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count89
+\Gm@cntv=\count90
+\c@Gm@tempcnt=\count91
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@layoutwidth=\dimen107
+\Gm@layoutheight=\dimen108
+\Gm@layouthoffset=\dimen109
+\Gm@layoutvoffset=\dimen110
+\Gm@dimlist=\toks15
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count92
+))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/04/25 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+\Gin@req@height=\dimen111
+\Gin@req@width=\dimen112
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/was/gensymb.sty
+Package: gensymb 2003/07/02 v1.0 (WaS)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2011/12/15 v2.10.0 Sectioning titles
+\ttl@box=\box26
+\beforetitleunit=\skip74
+\aftertitleunit=\skip75
+\ttl@plus=\dimen113
+\ttl@minus=\dimen114
+\ttl@toksa=\toks16
+\titlewidth=\dimen115
+\titlewidthlast=\dimen116
+\titlewidthfirst=\dimen117
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/apacite/apacite.sty
+Package: apacite 2013/07/21 v6.03 APA citation
+\c@BibCnt=\count93
+\bibleftmargin=\skip76
+\bibindent=\skip77
+\bibparsep=\skip78
+\bibitemsep=\skip79
+\biblabelsep=\skip80
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip81
+\bibsep=\skip82
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count94
+)
+LaTeX Info: Redefining \BBA on input line 24.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/tools/array.sty
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen118
+\extrarowheight=\dimen119
+\NC@list=\toks17
+\extratabsurround=\skip83
+\backup@length=\skip84
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.te
+x
+\pgfutil@everybye=\toks18
+\pgfutil@tempdima=\dimen120
+\pgfutil@tempdimb=\dimen121
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-li
+sts.tex))
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box27
+(/usr/local/texlive/2014/texmf-dist/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+Package: pgfrcs 2013/12/20 v3.0.0 (rcs-revision 1.28)
+))
+Package: pgf 2013/12/18 v3.0.0 (rcs-revision 1.14)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2013/11/30 v3.0.0 (rcs-revision 1.47)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks19
+\pgfkeys@temptoks=\toks20
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.c
+ode.tex
+\pgfkeys@tmptoks=\toks21
+))
+\pgf@x=\dimen122
+\pgf@y=\dimen123
+\pgf@xa=\dimen124
+\pgf@ya=\dimen125
+\pgf@xb=\dimen126
+\pgf@yb=\dimen127
+\pgf@xc=\dimen128
+\pgf@yc=\dimen129
+\w@pgf@writea=\write3
+\r@pgf@reada=\read1
+\c@pgf@counta=\count95
+\c@pgf@countb=\count96
+\c@pgf@countc=\count97
+\c@pgf@countd=\count98
+\t@pgf@toka=\toks22
+\t@pgf@tokb=\toks23
+\t@pgf@tokc=\toks24
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.d
+ef
+File: pgfsys-pdftex.def 2013/07/18  (rcs-revision 1.33)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-p
+df.def
+File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
+)))
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.
+code.tex
+File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
+\pgfsyssoftpath@smallbuffer@items=\count99
+\pgfsyssoftpath@bigbuffer@items=\count100
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.
+code.tex
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+))
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2010/04/11 v3.0.0 (rcs-revision 1.7)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen130
+\pgfmath@count=\count101
+\pgfmath@box=\box28
+\pgfmath@toks=\toks25
+\pgfmath@stack@operand=\toks26
+\pgfmath@stack@operation=\toks27
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.
+tex
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic
+.code.tex)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigo
+nometric.code.tex)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.rando
+m.code.tex)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.compa
+rison.code.tex)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.
+code.tex)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round
+.code.tex)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.
+code.tex)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integ
+erarithmetics.code.tex)))
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count102
+))
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.co
+de.tex
+File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
+\pgf@picminx=\dimen131
+\pgf@picmaxx=\dimen132
+\pgf@picminy=\dimen133
+\pgf@picmaxy=\dimen134
+\pgf@pathminx=\dimen135
+\pgf@pathmaxx=\dimen136
+\pgf@pathminy=\dimen137
+\pgf@pathmaxy=\dimen138
+\pgf@xx=\dimen139
+\pgf@xy=\dimen140
+\pgf@yx=\dimen141
+\pgf@yy=\dimen142
+\pgf@zx=\dimen143
+\pgf@zy=\dimen144
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconst
+ruct.code.tex
+File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
+\pgf@path@lastx=\dimen145
+\pgf@path@lasty=\dimen146
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage
+.code.tex
+File: pgfcorepathusage.code.tex 2013/12/13  (rcs-revision 1.23)
+\pgf@shorten@end@additional=\dimen147
+\pgf@shorten@start@additional=\dimen148
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.co
+de.tex
+File: pgfcorescopes.code.tex 2013/10/09  (rcs-revision 1.44)
+\pgfpic=\box29
+\pgf@hbox=\box30
+\pgf@layerbox@main=\box31
+\pgf@picture@serial@count=\count103
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicst
+ate.code.tex
+File: pgfcoregraphicstate.code.tex 2013/09/19  (rcs-revision 1.11)
+\pgflinewidth=\dimen149
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransform
+ations.code.tex
+File: pgfcoretransformations.code.tex 2013/10/10  (rcs-revision 1.17)
+\pgf@pt@x=\dimen150
+\pgf@pt@y=\dimen151
+\pgf@pt@temp=\dimen152
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.cod
+e.tex
+File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.c
+ode.tex
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathproce
+ssing.code.tex
+File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.co
+de.tex
+File: pgfcorearrows.code.tex 2013/11/07  (rcs-revision 1.40)
+\pgfarrowsep=\dimen153
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.cod
+e.tex
+File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
+\pgf@max=\dimen154
+\pgf@sys@shading@range@num=\count104
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.cod
+e.tex
+File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.
+code.tex
+File: pgfcoreexternal.code.tex 2013/07/15  (rcs-revision 1.20)
+\pgfexternal@startupbox=\box32
+))
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.co
+de.tex
+File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretranspare
+ncy.code.tex
+File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.
+code.tex
+File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
+)))
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.cod
+e.tex
+File: pgfmoduleshapes.code.tex 2013/10/31  (rcs-revision 1.34)
+\pgfnodeparttextbox=\box33
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.
+tex
+File: pgfmoduleplot.code.tex 2013/07/31  (rcs-revision 1.12)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
+-0-65.sty
+Package: pgfcomp-version-0-65 2007/07/03 v3.0.0 (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen155
+\pgf@nodesepend=\dimen156
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
+-1-18.sty
+Package: pgfcomp-version-1-18 2007/07/23 v3.0.0 (rcs-revision 1.1)
+))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)
+) (/usr/local/texlive/2014/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2013/12/13 v3.0.0 (rcs-revision 1.25)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen157
+\pgffor@skip=\dimen158
+\pgffor@stack=\toks28
+\pgffor@toks=\toks29
+))
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.cod
+e.tex
+Package: tikz 2013/12/13 v3.0.0 (rcs-revision 1.142)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothan
+dlers.code.tex
+File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.0 (rcs-revision 1.20)
+\pgf@plot@mark@count=\count105
+\pgfplotmarksize=\dimen159
+)
+\tikz@lastx=\dimen160
+\tikz@lasty=\dimen161
+\tikz@lastxsaved=\dimen162
+\tikz@lastysaved=\dimen163
+\tikzleveldistance=\dimen164
+\tikzsiblingdistance=\dimen165
+\tikz@figbox=\box34
+\tikz@figbox@bg=\box35
+\tikz@tempbox=\box36
+\tikz@tempbox@bg=\box37
+\tikztreelevel=\count106
+\tikznumberofchildren=\count107
+\tikznumberofcurrentchild=\count108
+\tikz@fig@count=\count109
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.cod
+e.tex
+File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
+\pgfmatrixcurrentrow=\count110
+\pgfmatrixcurrentcolumn=\count111
+\pgf@matrix@numberofcolumns=\count112
+)
+\tikz@expandcount=\count113
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.0 (rcs-revision 1.2)
+)))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/natbib/bibentry.sty
+Package: bibentry 2007/10/30 1.5 (PWD)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/subfig/subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 57.
+\captionmargin=\dimen166
+\captionmargin@=\dimen167
+\captionwidth=\dimen168
+\caption@tempdima=\dimen169
+\caption@indent=\dimen170
+\caption@parindent=\dimen171
+\caption@hangindent=\dimen172
+)
+\c@ContinuedFloat=\count114
+)
+\c@KVtest=\count115
+\sf@farskip=\skip85
+\sf@captopadj=\dimen173
+\sf@capskip=\skip86
+\sf@nearskip=\skip87
+\c@subfigure=\count116
+\c@subfigure@save=\count117
+\c@subtable=\count118
+\c@subtable@save=\count119
+\sf@top=\skip88
+\sf@bottom=\skip89
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/todonotes/todonotes.sty
+Package: todonotes 2012/07/25 .dtx Todonotes source and documentation.
+Package: todonotes 2012/07/25
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/05/09 v2.6d package option processing (HA)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+\XKV@toks=\toks30
+\XKV@tempa@toks=\toks31
+\XKV@depth=\count120
+File: xkeyval.tex 2014/05/09 v2.6d key=value parser (HA)
+))
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarypositioning.code.tex
+File: tikzlibrarypositioning.code.tex 2008/10/06 v3.0.0 (rcs-revision 1.7)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count121
+\calc@Bcount=\count122
+\calc@Adimen=\dimen174
+\calc@Bdimen=\dimen175
+\calc@Askip=\skip90
+\calc@Bskip=\skip91
+LaTeX Info: Redefining \setlength on input line 75.
+LaTeX Info: Redefining \addtolength on input line 76.
+\calc@Ccount=\count123
+\calc@Cskip=\skip92
+)
+\c@@todonotes@numberoftodonotes=\count124
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen176
+\lightrulewidth=\dimen177
+\cmidrulewidth=\dimen178
+\belowrulesep=\dimen179
+\belowbottomsep=\dimen180
+\aboverulesep=\dimen181
+\abovetopsep=\dimen182
+\cmidrulesep=\dimen183
+\cmidrulekern=\dimen184
+\defaultaddspace=\dimen185
+\@cmidla=\count125
+\@cmidlb=\count126
+\@aboverulesep=\dimen186
+\@belowrulesep=\dimen187
+\@thisruleclass=\count127
+\@lastruleclass=\count128
+\@thisrulewidth=\dimen188
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/ctable/ctable.sty
+Package: ctable 2014/04/25 v1.29 ctable package for \ flexible typesetting of t
+able and figure floats using key/value directives
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2014/05/13 v2.10 `tabularx' package (DPC)
+\TX@col@width=\dimen189
+\TX@old@table=\dimen190
+\TX@old@col=\dimen191
+\TX@target=\dimen192
+\TX@delta=\dimen193
+\TX@cols=\count129
+\TX@ftn=\toks32
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/rotating/rotating.sty
+Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
+\c@r@tfl@t=\count130
+\rotFPtop=\skip93
+\rotFPbot=\skip94
+\rot@float@box=\box38
+\rot@mess@toks=\toks33
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/transparent.sty
+Package: transparent 2007/01/08 v1.0 Transparency via pdfTeX's color stack (HO)
+
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+))
+\@ctblframesep=\dimen194
+\@defaultctblframesep=\dimen195
+\@ctblframerule=\dimen196
+\@defaultctblframerule=\dimen197
+\@ctblwidth=\dimen198
+\@defaultctblwidth=\dimen199
+\@ctblcaptionskip=\dimen200
+\@defaultctblcaptionskip=\dimen201
+\@ctblmaxwidth=\dimen202
+\@defaultctblmaxwidth=\dimen203
+\@ctblmincapwidth=\dimen204
+\@defaultctblmincapwidth=\dimen205
+\@ctblfooterwidth=\dimen206
+\@defaultctblfooterwidth=\dimen207
+\@ctblw=\dimen208
+\@ctblfloatwidth=\dimen209
+\@ctbloldsep=\dimen210
+\@ctbloldrule=\dimen211
+\ctbl@t=\box39
+\@ctblcurftwidth=\dimen212
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/subfloat/subfloat.sty
+Package: subfloat 2003/08/21 version 2.14
+
+Package `subfloat', Version 2.14 of 2003/08/21.
+\c@subfloatfiguremax=\count131
+\c@subfloattablemax=\count132
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2011/09/28 v3.5.2 Customized lists
+\labelindent=\skip95
+\enit@outerparindent=\dimen213
+\enit@toks=\toks34
+\enit@inbox=\box40
+\enitdp@description=\count133
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/multirow/multirow.sty
+\bigstrutjot=\dimen214
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/breakurl/breakurl.sty
+Package: breakurl 2013/04/10 v1.40 Breakable hyperref URLs
+
+
+Package breakurl Warning: You are using breakurl while processing via pdflatex.
+
+(breakurl)                \burl will be just a synonym of \url.
+(breakurl)                 on input line 48.
+
+) (/usr/local/texlive/2014/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen215
+\WF@size=\dimen216
+\c@WF@wrappedlines=\count134
+\WF@box=\box41
+\WF@everypar=\toks35
+Package: wrapfig 2003/01/31  v 3.6
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count135
+\float@exts=\toks36
+\float@box=\box42
+\@float@everytoks=\toks37
+\@floatcapt=\box43
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip96
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks38
+\ex@=\dimen217
+))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen218
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count136
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count137
+\leftroot@=\count138
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count139
+\DOTSCASE@=\count140
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box44
+\strutbox@=\box45
+\big@size=\dimen219
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count141
+\c@MaxMatrixCols=\count142
+\dotsspace@=\muskip10
+\c@parentequation=\count143
+\dspbrk@lvl=\count144
+\tag@help=\toks39
+\row@=\count145
+\column@=\count146
+\maxfields@=\count147
+\andhelp@=\toks40
+\eqnshift@=\dimen220
+\alignsep@=\dimen221
+\tagshift@=\dimen222
+\tagwidth@=\dimen223
+\totwidth@=\dimen224
+\lineht@=\dimen225
+\@envbody=\toks41
+\multlinegap=\skip97
+\multlinetaggap=\skip98
+\mathdisplay@stack=\toks42
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2012/05/28 v1.2 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+)
+\@linkdim=\dimen226
+\Hy@linkcounter=\count148
+\Hy@pagecounter=\count149
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count150
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4443.
+Package hyperref Info: Link nesting OFF on input line 4448.
+Package hyperref Info: Hyper index ON on input line 4451.
+Package hyperref Info: Plain pages OFF on input line 4458.
+Package hyperref Info: Backreferencing OFF on input line 4463.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4688.
+\c@Hy@tempcnt=\count151
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5041.
+\XeTeXLinkMargin=\dimen227
+\Fld@menulength=\count152
+\Field@Width=\dimen228
+\Fld@charsize=\dimen229
+Package hyperref Info: Hyper figures OFF on input line 6295.
+Package hyperref Info: Link nesting OFF on input line 6300.
+Package hyperref Info: Hyper index ON on input line 6303.
+Package hyperref Info: backreferencing OFF on input line 6310.
+Package hyperref Info: Link coloring OFF on input line 6315.
+Package hyperref Info: Link coloring with OCG OFF on input line 6320.
+Package hyperref Info: PDF/A mode OFF on input line 6325.
+LaTeX Info: Redefining \ref on input line 6365.
+LaTeX Info: Redefining \pageref on input line 6369.
+\Hy@abspage=\count153
+\c@Item=\count154
+\c@Hfootnote=\count155
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
+\Fld@listcount=\count156
+\c@bookmark@seq@number=\count157
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip99
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 48.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/pifont.sty
+Package: pifont 2005/04/12 PSNFSS-v9.2a Pi font support (SPQR) 
+LaTeX Font Info:    Try loading font information for U+pzd on input line 63.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/upzd.fd
+File: upzd.fd 2001/06/04 font definitions for U/pzd.
+)
+LaTeX Font Info:    Try loading font information for U+psy on input line 64.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/upsy.fd
+File: upsy.fd 2001/06/04 font definitions for U/psy.
+))
+(./towers_summary.aux)
+\openout1 = `towers_summary.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=469.75502pt
+* \textheight=650.43001pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=59.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/local/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count158
+\scratchdimen=\dimen230
+\scratchbox=\box46
+\nofMPsegments=\count159
+\nofMParguments=\count160
+\everyMPshowfont=\toks43
+\MPscratchCnt=\count161
+\MPscratchDim=\dimen231
+\MPnumerator=\count162
+\makeMPintoPDFobject=\count163
+\everyMPtoPDFconversion=\toks44
+) (/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Info: Redefining \celsius on input line 96.
+Package gensymb Info: Faking symbols for \degree and \celsius on input line 96.
+
+
+
+Package gensymb Warning: Not defining \perthousand.
+
+LaTeX Info: Redefining \ohm on input line 96.
+Package gensymb Info: Using \Omega for \ohm on input line 96.
+
+Package gensymb Warning: Not defining \micro.
+
+\c@maskedRefs=\count164
+(/usr/local/texlive/2014/texmf-dist/tex/latex/apacite/english.apc
+File: english.apc 2013/07/21 v6.03 apacite language file
+LaTeX Info: Redefining \BPBI on input line 129.
+LaTeX Info: Redefining \BHBI on input line 130.
+)
+ABD: EveryShipout initializing macros
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: rotating package is loaded.
+Package caption Info: wrapfig package is loaded.
+Package caption Info: End \AtBeginDocument code.
+
+
+Package ctable Warning:  Transparency disabled: incompatible with tikz package 
+ on input line 96.
+
+\AtBeginShipoutBox=\box47
+Package hyperref Info: Link coloring ON on input line 96.
+(/usr/local/texlive/2014/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count165
+)
+LaTeX Info: Redefining \ref on input line 96.
+LaTeX Info: Redefining \pageref on input line 96.
+LaTeX Info: Redefining \nameref on input line 96.
+
+(./towers_summary.out) (./towers_summary.out)
+\@outlinefile=\write4
+\openout4 = `towers_summary.out'.
+
+ (./towers_summary.toc)
+\tf@toc=\write5
+\openout5 = `towers_summary.toc'.
+
+ [1
+
+{/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+<../../figures/plots/selected_bricks/exp5_freq_trial_1.png, id=62, 803.0pt x 60
+2.25pt>
+File: ../../figures/plots/selected_bricks/exp5_freq_trial_1.png Graphic file (t
+ype png)
+ <use ../../figures/plots/selected_bricks/exp5_freq_trial_1.png>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_freq_trial_1.
+png used on input line 1317.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+
+<../../figures/plots/selected_bricks/exp5_freq_trial_2.png, id=64, 803.0pt x 60
+2.25pt>
+File: ../../figures/plots/selected_bricks/exp5_freq_trial_2.png Graphic file (t
+ype png)
+ <use ../../figures/plots/selected_bricks/exp5_freq_trial_2.png>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_freq_trial_2.
+png used on input line 1319.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+
+<../../figures/plots/selected_bricks/exp5_freq_trial_3.png, id=65, 803.0pt x 60
+2.25pt>
+File: ../../figures/plots/selected_bricks/exp5_freq_trial_3.png Graphic file (t
+ype png)
+ <use ../../figures/plots/selected_bricks/exp5_freq_trial_3.png>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_freq_trial_3.
+png used on input line 1321.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+
+<../../figures/plots/selected_bricks/exp5_freq_trial_4.png, id=66, 803.0pt x 60
+2.25pt>
+File: ../../figures/plots/selected_bricks/exp5_freq_trial_4.png Graphic file (t
+ype png)
+ <use ../../figures/plots/selected_bricks/exp5_freq_trial_4.png>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_freq_trial_4.
+png used on input line 1323.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+
+<../../figures/plots/selected_bricks/exp5_freq_trial_5.png, id=67, 803.0pt x 60
+2.25pt>
+File: ../../figures/plots/selected_bricks/exp5_freq_trial_5.png Graphic file (t
+ype png)
+ <use ../../figures/plots/selected_bricks/exp5_freq_trial_5.png>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_freq_trial_5.
+png used on input line 1325.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+
+<../../figures/plots/selected_bricks/exp5_freq_trial_6.png, id=68, 803.0pt x 60
+2.25pt>
+File: ../../figures/plots/selected_bricks/exp5_freq_trial_6.png Graphic file (t
+ype png)
+ <use ../../figures/plots/selected_bricks/exp5_freq_trial_6.png>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_freq_trial_6.
+png used on input line 1327.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+
+<../../figures/plots/selected_bricks/exp5_freq_trial_7.png, id=69, 803.0pt x 60
+2.25pt>
+File: ../../figures/plots/selected_bricks/exp5_freq_trial_7.png Graphic file (t
+ype png)
+ <use ../../figures/plots/selected_bricks/exp5_freq_trial_7.png>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_freq_trial_7.
+png used on input line 1329.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+
+<../../figures/plots/selected_bricks/exp5_freq_trial_8.png, id=70, 803.0pt x 60
+2.25pt>
+File: ../../figures/plots/selected_bricks/exp5_freq_trial_8.png Graphic file (t
+ype png)
+ <use ../../figures/plots/selected_bricks/exp5_freq_trial_8.png>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_freq_trial_8.
+png used on input line 1338.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+
+<../../figures/plots/selected_bricks/exp5_freq_trial_9.png, id=71, 803.0pt x 60
+2.25pt>
+File: ../../figures/plots/selected_bricks/exp5_freq_trial_9.png Graphic file (t
+ype png)
+ <use ../../figures/plots/selected_bricks/exp5_freq_trial_9.png>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_freq_trial_9.
+png used on input line 1340.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+
+<../../figures/plots/selected_bricks/exp5_freq_trial_10.png, id=72, 803.0pt x 6
+02.25pt>
+File: ../../figures/plots/selected_bricks/exp5_freq_trial_10.png Graphic file (
+type png)
+ <use ../../figures/plots/selected_bricks/exp5_freq_trial_10.png>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_freq_trial_10
+.png used on input line 1342.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+
+<../../figures/plots/selected_bricks/exp5_freq_trial_11.png, id=73, 803.0pt x 6
+02.25pt>
+File: ../../figures/plots/selected_bricks/exp5_freq_trial_11.png Graphic file (
+type png)
+ <use ../../figures/plots/selected_bricks/exp5_freq_trial_11.png>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_freq_trial_11
+.png used on input line 1344.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+
+<../../figures/plots/selected_bricks/exp5_freq_trial_12.png, id=74, 803.0pt x 6
+02.25pt>
+File: ../../figures/plots/selected_bricks/exp5_freq_trial_12.png Graphic file (
+type png)
+ <use ../../figures/plots/selected_bricks/exp5_freq_trial_12.png>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_freq_trial_12
+.png used on input line 1346.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+
+<../../figures/plots/selected_bricks/exp5_freq_trial_13.png, id=75, 803.0pt x 6
+02.25pt>
+File: ../../figures/plots/selected_bricks/exp5_freq_trial_13.png Graphic file (
+type png)
+ <use ../../figures/plots/selected_bricks/exp5_freq_trial_13.png>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_freq_trial_13
+.png used on input line 1348.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+
+<../../figures/plots/selected_bricks/exp5_freq_trial_14.png, id=76, 803.0pt x 6
+02.25pt>
+File: ../../figures/plots/selected_bricks/exp5_freq_trial_14.png Graphic file (
+type png)
+ <use ../../figures/plots/selected_bricks/exp5_freq_trial_14.png>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_freq_trial_14
+.png used on input line 1350.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+
+<../../figures/plots/selected_bricks/exp5_freq_trial_15.png, id=77, 803.0pt x 6
+02.25pt>
+File: ../../figures/plots/selected_bricks/exp5_freq_trial_15.png Graphic file (
+type png)
+ <use ../../figures/plots/selected_bricks/exp5_freq_trial_15.png>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_freq_trial_15
+.png used on input line 1359.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+
+<../../figures/plots/selected_bricks/exp5_freq_trial_16.png, id=78, 803.0pt x 6
+02.25pt>
+File: ../../figures/plots/selected_bricks/exp5_freq_trial_16.png Graphic file (
+type png)
+ <use ../../figures/plots/selected_bricks/exp5_freq_trial_16.png>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_freq_trial_16
+.png used on input line 1361.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+
+<../../figures/plots/selected_bricks/exp5_freq_trial_17.png, id=79, 803.0pt x 6
+02.25pt>
+File: ../../figures/plots/selected_bricks/exp5_freq_trial_17.png Graphic file (
+type png)
+ <use ../../figures/plots/selected_bricks/exp5_freq_trial_17.png>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_freq_trial_17
+.png used on input line 1363.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+
+<../../figures/plots/selected_bricks/exp5_freq_trial_18.png, id=80, 803.0pt x 6
+02.25pt>
+File: ../../figures/plots/selected_bricks/exp5_freq_trial_18.png Graphic file (
+type png)
+ <use ../../figures/plots/selected_bricks/exp5_freq_trial_18.png>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_freq_trial_18
+.png used on input line 1365.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+
+<../../figures/plots/selected_bricks/exp5_freq_trial_19.png, id=81, 803.0pt x 6
+02.25pt>
+File: ../../figures/plots/selected_bricks/exp5_freq_trial_19.png Graphic file (
+type png)
+ <use ../../figures/plots/selected_bricks/exp5_freq_trial_19.png>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_freq_trial_19
+.png used on input line 1367.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+
+<../../figures/plots/selected_bricks/exp5_freq_trial_20.png, id=82, 803.0pt x 6
+02.25pt>
+File: ../../figures/plots/selected_bricks/exp5_freq_trial_20.png Graphic file (
+type png)
+ <use ../../figures/plots/selected_bricks/exp5_freq_trial_20.png>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_freq_trial_20
+.png used on input line 1369.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+
+<../../figures/plots/selected_bricks/exp5_freq_trial_21.png, id=83, 803.0pt x 6
+02.25pt>
+File: ../../figures/plots/selected_bricks/exp5_freq_trial_21.png Graphic file (
+type png)
+ <use ../../figures/plots/selected_bricks/exp5_freq_trial_21.png>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_freq_trial_21
+.png used on input line 1371.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+
+<../../figures/plots/selected_bricks/exp5_freq_trial_22.png, id=84, 803.0pt x 6
+02.25pt>
+File: ../../figures/plots/selected_bricks/exp5_freq_trial_22.png Graphic file (
+type png)
+ <use ../../figures/plots/selected_bricks/exp5_freq_trial_22.png>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_freq_trial_22
+.png used on input line 1380.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+
+<../../figures/plots/selected_bricks/exp5_freq_trial_23.png, id=85, 803.0pt x 6
+02.25pt>
+File: ../../figures/plots/selected_bricks/exp5_freq_trial_23.png Graphic file (
+type png)
+ <use ../../figures/plots/selected_bricks/exp5_freq_trial_23.png>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_freq_trial_23
+.png used on input line 1382.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+
+<../../figures/plots/selected_bricks/exp5_freq_trial_24.png, id=86, 803.0pt x 6
+02.25pt>
+File: ../../figures/plots/selected_bricks/exp5_freq_trial_24.png Graphic file (
+type png)
+ <use ../../figures/plots/selected_bricks/exp5_freq_trial_24.png>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_freq_trial_24
+.png used on input line 1384.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+
+<../../figures/plots/selected_bricks/exp5_freq_trial_25.png, id=87, 803.0pt x 6
+02.25pt>
+File: ../../figures/plots/selected_bricks/exp5_freq_trial_25.png Graphic file (
+type png)
+ <use ../../figures/plots/selected_bricks/exp5_freq_trial_25.png>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_freq_trial_25
+.png used on input line 1386.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+
+<../../figures/plots/selected_bricks/exp5_freq_trial_26.png, id=88, 803.0pt x 6
+02.25pt>
+File: ../../figures/plots/selected_bricks/exp5_freq_trial_26.png Graphic file (
+type png)
+ <use ../../figures/plots/selected_bricks/exp5_freq_trial_26.png>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_freq_trial_26
+.png used on input line 1388.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+
+<../../figures/plots/selected_bricks/exp5_freq_trial_27.png, id=89, 803.0pt x 6
+02.25pt>
+File: ../../figures/plots/selected_bricks/exp5_freq_trial_27.png Graphic file (
+type png)
+ <use ../../figures/plots/selected_bricks/exp5_freq_trial_27.png>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_freq_trial_27
+.png used on input line 1390.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+
+<../../figures/plots/selected_bricks/exp5_freq_trial_28.png, id=90, 803.0pt x 6
+02.25pt>
+File: ../../figures/plots/selected_bricks/exp5_freq_trial_28.png Graphic file (
+type png)
+ <use ../../figures/plots/selected_bricks/exp5_freq_trial_28.png>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_freq_trial_28
+.png used on input line 1392.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+
+<../../figures/plots/selected_bricks/exp5_freq_trial_29.png, id=91, 803.0pt x 6
+02.25pt>
+File: ../../figures/plots/selected_bricks/exp5_freq_trial_29.png Graphic file (
+type png)
+ <use ../../figures/plots/selected_bricks/exp5_freq_trial_29.png>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_freq_trial_29
+.png used on input line 1401.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+
+<../../figures/plots/selected_bricks/exp5_freq_trial_30.png, id=92, 803.0pt x 6
+02.25pt>
+File: ../../figures/plots/selected_bricks/exp5_freq_trial_30.png Graphic file (
+type png)
+ <use ../../figures/plots/selected_bricks/exp5_freq_trial_30.png>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_freq_trial_30
+.png used on input line 1403.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+
+<../../figures/plots/selected_bricks/exp5_freq_trial_31.png, id=93, 803.0pt x 6
+02.25pt>
+File: ../../figures/plots/selected_bricks/exp5_freq_trial_31.png Graphic file (
+type png)
+ <use ../../figures/plots/selected_bricks/exp5_freq_trial_31.png>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_freq_trial_31
+.png used on input line 1405.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+
+<../../figures/plots/selected_bricks/exp5_freq_trial_32.png, id=94, 803.0pt x 6
+02.25pt>
+File: ../../figures/plots/selected_bricks/exp5_freq_trial_32.png Graphic file (
+type png)
+ <use ../../figures/plots/selected_bricks/exp5_freq_trial_32.png>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_freq_trial_32
+.png used on input line 1407.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+
+<../../figures/plots/selected_bricks/exp5_freq_trial_33.png, id=95, 803.0pt x 6
+02.25pt>
+File: ../../figures/plots/selected_bricks/exp5_freq_trial_33.png Graphic file (
+type png)
+ <use ../../figures/plots/selected_bricks/exp5_freq_trial_33.png>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_freq_trial_33
+.png used on input line 1409.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+
+<../../figures/plots/selected_bricks/exp5_freq_trial_34.png, id=96, 803.0pt x 6
+02.25pt>
+File: ../../figures/plots/selected_bricks/exp5_freq_trial_34.png Graphic file (
+type png)
+ <use ../../figures/plots/selected_bricks/exp5_freq_trial_34.png>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_freq_trial_34
+.png used on input line 1411.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+
+<../../figures/plots/selected_bricks/exp5_freq_trial_35.png, id=97, 803.0pt x 6
+02.25pt>
+File: ../../figures/plots/selected_bricks/exp5_freq_trial_35.png Graphic file (
+type png)
+ <use ../../figures/plots/selected_bricks/exp5_freq_trial_35.png>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_freq_trial_35
+.png used on input line 1413.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+
+<../../figures/plots/selected_bricks/exp5_freq_trial_36.png, id=98, 803.0pt x 6
+02.25pt>
+File: ../../figures/plots/selected_bricks/exp5_freq_trial_36.png Graphic file (
+type png)
+ <use ../../figures/plots/selected_bricks/exp5_freq_trial_36.png>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_freq_trial_36
+.png used on input line 1422.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+
+<../../figures/plots/selected_bricks/exp5_freq_trial_37.png, id=99, 803.0pt x 6
+02.25pt>
+File: ../../figures/plots/selected_bricks/exp5_freq_trial_37.png Graphic file (
+type png)
+ <use ../../figures/plots/selected_bricks/exp5_freq_trial_37.png>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_freq_trial_37
+.png used on input line 1424.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+
+<../../figures/plots/selected_bricks/exp5_freq_trial_38.png, id=100, 803.0pt x 
+602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_freq_trial_38.png Graphic file (
+type png)
+ <use ../../figures/plots/selected_bricks/exp5_freq_trial_38.png>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_freq_trial_38
+.png used on input line 1426.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+
+<../../figures/plots/selected_bricks/exp5_freq_trial_39.png, id=101, 803.0pt x 
+602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_freq_trial_39.png Graphic file (
+type png)
+ <use ../../figures/plots/selected_bricks/exp5_freq_trial_39.png>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_freq_trial_39
+.png used on input line 1428.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+
+<../../figures/plots/selected_bricks/exp5_freq_trial_40.png, id=102, 803.0pt x 
+602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_freq_trial_40.png Graphic file (
+type png)
+ <use ../../figures/plots/selected_bricks/exp5_freq_trial_40.png>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_freq_trial_40
+.png used on input line 1430.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+
+<../../figures/plots/selected_bricks/exp5_freq_trial_41.png, id=103, 803.0pt x 
+602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_freq_trial_41.png Graphic file (
+type png)
+ <use ../../figures/plots/selected_bricks/exp5_freq_trial_41.png>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_freq_trial_41
+.png used on input line 1432.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+
+<../../figures/plots/selected_bricks/exp5_freq_trial_42.png, id=104, 803.0pt x 
+602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_freq_trial_42.png Graphic file (
+type png)
+ <use ../../figures/plots/selected_bricks/exp5_freq_trial_42.png>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_freq_trial_42
+.png used on input line 1434.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+
+[2
+
+ <../../figures/plots/selected_bricks/exp5_freq_trial_1.png> <../../figures/plo
+ts/selected_bricks/exp5_freq_trial_2.png> <../../figures/plots/selected_bricks/
+exp5_freq_trial_3.png> <../../figures/plots/selected_bricks/exp5_freq_trial_4.p
+ng> <../../figures/plots/selected_bricks/exp5_freq_trial_5.png> <../../figures/
+plots/selected_bricks/exp5_freq_trial_6.png> <../../figures/plots/selected_bric
+ks/exp5_freq_trial_7.png> <../../figures/plots/selected_bricks/exp5_freq_trial_
+8.png> <../../figures/plots/selected_bricks/exp5_freq_trial_9.png> <../../figur
+es/plots/selected_bricks/exp5_freq_trial_10.png> <../../figures/plots/selected_
+bricks/exp5_freq_trial_11.png> <../../figures/plots/selected_bricks/exp5_freq_t
+rial_12.png> <../../figures/plots/selected_bricks/exp5_freq_trial_13.png> <../.
+./figures/plots/selected_bricks/exp5_freq_trial_14.png> <../../figures/plots/se
+lected_bricks/exp5_freq_trial_15.png> <../../figures/plots/selected_bricks/exp5
+_freq_trial_16.png> <../../figures/plots/selected_bricks/exp5_freq_trial_17.png
+> <../../figures/plots/selected_bricks/exp5_freq_trial_18.png> <../../figures/p
+lots/selected_bricks/exp5_freq_trial_19.png> <../../figures/plots/selected_bric
+ks/exp5_freq_trial_20.png> <../../figures/plots/selected_bricks/exp5_freq_trial
+_21.png> <../../figures/plots/selected_bricks/exp5_freq_trial_22.png> <../../fi
+gures/plots/selected_bricks/exp5_freq_trial_23.png> <../../figures/plots/select
+ed_bricks/exp5_freq_trial_24.png> <../../figures/plots/selected_bricks/exp5_fre
+q_trial_25.png> <../../figures/plots/selected_bricks/exp5_freq_trial_26.png> <.
+./../figures/plots/selected_bricks/exp5_freq_trial_27.png> <../../figures/plots
+/selected_bricks/exp5_freq_trial_28.png> <../../figures/plots/selected_bricks/e
+xp5_freq_trial_29.png> <../../figures/plots/selected_bricks/exp5_freq_trial_30.
+png> <../../figures/plots/selected_bricks/exp5_freq_trial_31.png> <../../figure
+s/plots/selected_bricks/exp5_freq_trial_32.png> <../../figures/plots/selected_b
+ricks/exp5_freq_trial_33.png> <../../figures/plots/selected_bricks/exp5_freq_tr
+ial_34.png> <../../figures/plots/selected_bricks/exp5_freq_trial_35.png> <../..
+/figures/plots/selected_bricks/exp5_freq_trial_36.png> <../../figures/plots/sel
+ected_bricks/exp5_freq_trial_37.png> <../../figures/plots/selected_bricks/exp5_
+freq_trial_38.png> <../../figures/plots/selected_bricks/exp5_freq_trial_39.png>
+ <../../figures/plots/selected_bricks/exp5_freq_trial_40.png> <../../figures/pl
+ots/selected_bricks/exp5_freq_trial_41.png> <../../figures/plots/selected_brick
+s/exp5_freq_trial_42.png>]pdfTeX warning (ext4): destination with the same iden
+tifier (name{subfigure.1.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1446 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.4_0.5
+_trial_1.png, id=200, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.
+4_0.5_trial_1.png Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.4
+_0.5_trial_1.png>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-local
+-above-extended_10.4_0.5_trial_1.png used on input line 1446.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.2
+}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1448 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.4_0.5
+_trial_2.png, id=201, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.
+4_0.5_trial_2.png Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.4
+_0.5_trial_2.png>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-local
+-above-extended_10.4_0.5_trial_2.png used on input line 1448.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.3
+}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1450 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.4_0.5
+_trial_3.png, id=202, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.
+4_0.5_trial_3.png Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.4
+_0.5_trial_3.png>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-local
+-above-extended_10.4_0.5_trial_3.png used on input line 1450.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.4
+}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1452 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.4_0.5
+_trial_4.png, id=203, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.
+4_0.5_trial_4.png Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.4
+_0.5_trial_4.png>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-local
+-above-extended_10.4_0.5_trial_4.png used on input line 1452.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.5
+}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1454 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.4_0.5
+_trial_5.png, id=204, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.
+4_0.5_trial_5.png Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.4
+_0.5_trial_5.png>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-local
+-above-extended_10.4_0.5_trial_5.png used on input line 1454.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.6
+}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1456 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.4_0.5
+_trial_6.png, id=205, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.
+4_0.5_trial_6.png Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.4
+_0.5_trial_6.png>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-local
+-above-extended_10.4_0.5_trial_6.png used on input line 1456.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.7
+}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1458 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.4_0.5
+_trial_7.png, id=206, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.
+4_0.5_trial_7.png Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.4
+_0.5_trial_7.png>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-local
+-above-extended_10.4_0.5_trial_7.png used on input line 1458.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.8
+}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1467 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.4_0.5
+_trial_8.png, id=207, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.
+4_0.5_trial_8.png Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.4
+_0.5_trial_8.png>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-local
+-above-extended_10.4_0.5_trial_8.png used on input line 1467.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.9
+}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1469 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.4_0.5
+_trial_9.png, id=208, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.
+4_0.5_trial_9.png Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.4
+_0.5_trial_9.png>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-local
+-above-extended_10.4_0.5_trial_9.png used on input line 1469.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.1
+0}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1471 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.4_0.5
+_trial_10.png, id=209, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.
+4_0.5_trial_10.png Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.4
+_0.5_trial_10.png>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-local
+-above-extended_10.4_0.5_trial_10.png used on input line 1471.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.1
+1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1473 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.4_0.5
+_trial_11.png, id=210, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.
+4_0.5_trial_11.png Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.4
+_0.5_trial_11.png>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-local
+-above-extended_10.4_0.5_trial_11.png used on input line 1473.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.1
+2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1475 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.4_0.5
+_trial_12.png, id=211, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.
+4_0.5_trial_12.png Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.4
+_0.5_trial_12.png>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-local
+-above-extended_10.4_0.5_trial_12.png used on input line 1475.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.1
+3}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1477 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.4_0.5
+_trial_13.png, id=212, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.
+4_0.5_trial_13.png Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.4
+_0.5_trial_13.png>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-local
+-above-extended_10.4_0.5_trial_13.png used on input line 1477.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.1
+4}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1479 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.4_0.5
+_trial_14.png, id=213, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.
+4_0.5_trial_14.png Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.4
+_0.5_trial_14.png>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-local
+-above-extended_10.4_0.5_trial_14.png used on input line 1479.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.1
+5}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1488 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.4_0.5
+_trial_15.png, id=214, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.
+4_0.5_trial_15.png Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.4
+_0.5_trial_15.png>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-local
+-above-extended_10.4_0.5_trial_15.png used on input line 1488.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.1
+6}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1490 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.4_0.5
+_trial_16.png, id=215, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.
+4_0.5_trial_16.png Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.4
+_0.5_trial_16.png>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-local
+-above-extended_10.4_0.5_trial_16.png used on input line 1490.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.1
+7}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1492 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.4_0.5
+_trial_17.png, id=216, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.
+4_0.5_trial_17.png Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.4
+_0.5_trial_17.png>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-local
+-above-extended_10.4_0.5_trial_17.png used on input line 1492.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.1
+8}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1494 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.4_0.5
+_trial_18.png, id=217, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.
+4_0.5_trial_18.png Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.4
+_0.5_trial_18.png>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-local
+-above-extended_10.4_0.5_trial_18.png used on input line 1494.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.1
+9}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1496 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.4_0.5
+_trial_19.png, id=218, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.
+4_0.5_trial_19.png Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.4
+_0.5_trial_19.png>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-local
+-above-extended_10.4_0.5_trial_19.png used on input line 1496.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.2
+0}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1498 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.4_0.5
+_trial_20.png, id=219, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.
+4_0.5_trial_20.png Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.4
+_0.5_trial_20.png>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-local
+-above-extended_10.4_0.5_trial_20.png used on input line 1498.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.2
+1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1500 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.4_0.5
+_trial_21.png, id=220, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.
+4_0.5_trial_21.png Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.4
+_0.5_trial_21.png>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-local
+-above-extended_10.4_0.5_trial_21.png used on input line 1500.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.2
+2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1509 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.4_0.5
+_trial_22.png, id=221, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.
+4_0.5_trial_22.png Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.4
+_0.5_trial_22.png>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-local
+-above-extended_10.4_0.5_trial_22.png used on input line 1509.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.2
+3}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1511 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.4_0.5
+_trial_23.png, id=222, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.
+4_0.5_trial_23.png Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.4
+_0.5_trial_23.png>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-local
+-above-extended_10.4_0.5_trial_23.png used on input line 1511.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.2
+4}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1513 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.4_0.5
+_trial_24.png, id=223, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.
+4_0.5_trial_24.png Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.4
+_0.5_trial_24.png>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-local
+-above-extended_10.4_0.5_trial_24.png used on input line 1513.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.2
+5}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1515 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.4_0.5
+_trial_25.png, id=224, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.
+4_0.5_trial_25.png Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.4
+_0.5_trial_25.png>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-local
+-above-extended_10.4_0.5_trial_25.png used on input line 1515.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.2
+6}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1517 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.4_0.5
+_trial_26.png, id=225, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.
+4_0.5_trial_26.png Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.4
+_0.5_trial_26.png>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-local
+-above-extended_10.4_0.5_trial_26.png used on input line 1517.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.2
+7}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1519 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.4_0.5
+_trial_27.png, id=226, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.
+4_0.5_trial_27.png Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.4
+_0.5_trial_27.png>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-local
+-above-extended_10.4_0.5_trial_27.png used on input line 1519.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.2
+8}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1521 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.4_0.5
+_trial_28.png, id=227, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.
+4_0.5_trial_28.png Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.4
+_0.5_trial_28.png>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-local
+-above-extended_10.4_0.5_trial_28.png used on input line 1521.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.2
+9}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1530 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.4_0.5
+_trial_29.png, id=228, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.
+4_0.5_trial_29.png Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.4
+_0.5_trial_29.png>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-local
+-above-extended_10.4_0.5_trial_29.png used on input line 1530.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.3
+0}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1532 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.4_0.5
+_trial_30.png, id=229, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.
+4_0.5_trial_30.png Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.4
+_0.5_trial_30.png>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-local
+-above-extended_10.4_0.5_trial_30.png used on input line 1532.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.3
+1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1534 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.4_0.5
+_trial_31.png, id=230, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.
+4_0.5_trial_31.png Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.4
+_0.5_trial_31.png>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-local
+-above-extended_10.4_0.5_trial_31.png used on input line 1534.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.3
+2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1536 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.4_0.5
+_trial_32.png, id=231, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.
+4_0.5_trial_32.png Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.4
+_0.5_trial_32.png>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-local
+-above-extended_10.4_0.5_trial_32.png used on input line 1536.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.3
+3}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1538 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.4_0.5
+_trial_33.png, id=232, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.
+4_0.5_trial_33.png Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.4
+_0.5_trial_33.png>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-local
+-above-extended_10.4_0.5_trial_33.png used on input line 1538.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.3
+4}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1540 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.4_0.5
+_trial_34.png, id=233, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.
+4_0.5_trial_34.png Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.4
+_0.5_trial_34.png>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-local
+-above-extended_10.4_0.5_trial_34.png used on input line 1540.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.3
+5}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1542 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.4_0.5
+_trial_35.png, id=234, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.
+4_0.5_trial_35.png Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.4
+_0.5_trial_35.png>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-local
+-above-extended_10.4_0.5_trial_35.png used on input line 1542.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.3
+6}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1551 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.4_0.5
+_trial_36.png, id=235, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.
+4_0.5_trial_36.png Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.4
+_0.5_trial_36.png>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-local
+-above-extended_10.4_0.5_trial_36.png used on input line 1551.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.3
+7}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1553 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.4_0.5
+_trial_37.png, id=236, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.
+4_0.5_trial_37.png Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.4
+_0.5_trial_37.png>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-local
+-above-extended_10.4_0.5_trial_37.png used on input line 1553.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.3
+8}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1555 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.4_0.5
+_trial_38.png, id=237, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.
+4_0.5_trial_38.png Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.4
+_0.5_trial_38.png>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-local
+-above-extended_10.4_0.5_trial_38.png used on input line 1555.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.3
+9}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1557 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.4_0.5
+_trial_39.png, id=238, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.
+4_0.5_trial_39.png Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.4
+_0.5_trial_39.png>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-local
+-above-extended_10.4_0.5_trial_39.png used on input line 1557.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.4
+0}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1559 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.4_0.5
+_trial_40.png, id=239, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.
+4_0.5_trial_40.png Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.4
+_0.5_trial_40.png>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-local
+-above-extended_10.4_0.5_trial_40.png used on input line 1559.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.4
+1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1561 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.4_0.5
+_trial_41.png, id=240, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.
+4_0.5_trial_41.png Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.4
+_0.5_trial_41.png>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-local
+-above-extended_10.4_0.5_trial_41.png used on input line 1561.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.4
+2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1563 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.4_0.5
+_trial_42.png, id=241, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.
+4_0.5_trial_42.png Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.4
+_0.5_trial_42.png>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-local
+-above-extended_10.4_0.5_trial_42.png used on input line 1563.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+ [3
+
+ <../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.4_0.
+5_trial_1.png> <../../figures/plots/selected_bricks/exp5_impulse-local-above-ex
+tended_10.4_0.5_trial_2.png> <../../figures/plots/selected_bricks/exp5_impulse-
+local-above-extended_10.4_0.5_trial_3.png> <../../figures/plots/selected_bricks
+/exp5_impulse-local-above-extended_10.4_0.5_trial_4.png> <../../figures/plots/s
+elected_bricks/exp5_impulse-local-above-extended_10.4_0.5_trial_5.png> <../../f
+igures/plots/selected_bricks/exp5_impulse-local-above-extended_10.4_0.5_trial_6
+.png> <../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10
+.4_0.5_trial_7.png> <../../figures/plots/selected_bricks/exp5_impulse-local-abo
+ve-extended_10.4_0.5_trial_8.png> <../../figures/plots/selected_bricks/exp5_imp
+ulse-local-above-extended_10.4_0.5_trial_9.png> <../../figures/plots/selected_b
+ricks/exp5_impulse-local-above-extended_10.4_0.5_trial_10.png> <../../figures/p
+lots/selected_bricks/exp5_impulse-local-above-extended_10.4_0.5_trial_11.png> <
+../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.4_0.5_
+trial_12.png> <../../figures/plots/selected_bricks/exp5_impulse-local-above-ext
+ended_10.4_0.5_trial_13.png> <../../figures/plots/selected_bricks/exp5_impulse-
+local-above-extended_10.4_0.5_trial_14.png> <../../figures/plots/selected_brick
+s/exp5_impulse-local-above-extended_10.4_0.5_trial_15.png> <../../figures/plots
+/selected_bricks/exp5_impulse-local-above-extended_10.4_0.5_trial_16.png> <../.
+./figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.4_0.5_tria
+l_17.png> <../../figures/plots/selected_bricks/exp5_impulse-local-above-extende
+d_10.4_0.5_trial_18.png> <../../figures/plots/selected_bricks/exp5_impulse-loca
+l-above-extended_10.4_0.5_trial_19.png> <../../figures/plots/selected_bricks/ex
+p5_impulse-local-above-extended_10.4_0.5_trial_20.png> <../../figures/plots/sel
+ected_bricks/exp5_impulse-local-above-extended_10.4_0.5_trial_21.png> <../../fi
+gures/plots/selected_bricks/exp5_impulse-local-above-extended_10.4_0.5_trial_22
+.png> <../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10
+.4_0.5_trial_23.png> <../../figures/plots/selected_bricks/exp5_impulse-local-ab
+ove-extended_10.4_0.5_trial_24.png> <../../figures/plots/selected_bricks/exp5_i
+mpulse-local-above-extended_10.4_0.5_trial_25.png> <../../figures/plots/selecte
+d_bricks/exp5_impulse-local-above-extended_10.4_0.5_trial_26.png> <../../figure
+s/plots/selected_bricks/exp5_impulse-local-above-extended_10.4_0.5_trial_27.png
+> <../../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.4_0
+.5_trial_28.png> <../../figures/plots/selected_bricks/exp5_impulse-local-above-
+extended_10.4_0.5_trial_29.png> <../../figures/plots/selected_bricks/exp5_impul
+se-local-above-extended_10.4_0.5_trial_30.png> <../../figures/plots/selected_br
+icks/exp5_impulse-local-above-extended_10.4_0.5_trial_31.png> <../../figures/pl
+ots/selected_bricks/exp5_impulse-local-above-extended_10.4_0.5_trial_32.png> <.
+./../figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.4_0.5_t
+rial_33.png> <../../figures/plots/selected_bricks/exp5_impulse-local-above-exte
+nded_10.4_0.5_trial_34.png> <../../figures/plots/selected_bricks/exp5_impulse-l
+ocal-above-extended_10.4_0.5_trial_35.png> <../../figures/plots/selected_bricks
+/exp5_impulse-local-above-extended_10.4_0.5_trial_36.png> <../../figures/plots/
+selected_bricks/exp5_impulse-local-above-extended_10.4_0.5_trial_37.png> <../..
+/figures/plots/selected_bricks/exp5_impulse-local-above-extended_10.4_0.5_trial
+_38.png> <../../figures/plots/selected_bricks/exp5_impulse-local-above-extended
+_10.4_0.5_trial_39.png> <../../figures/plots/selected_bricks/exp5_impulse-local
+-above-extended_10.4_0.5_trial_40.png> <../../figures/plots/selected_bricks/exp
+5_impulse-local-above-extended_10.4_0.5_trial_41.png> <../../figures/plots/sele
+cted_bricks/exp5_impulse-local-above-extended_10.4_0.5_trial_42.png>]pdfTeX war
+ning (ext4): destination with the same identifier (name{subfigure.1.1}) has bee
+n already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1575 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_1.png, id
+=294, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_1.pn
+g Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_1.png
+>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-local
+_7.2_0.5_trial_1.png used on input line 1575.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.2
+}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1577 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_2.png, id
+=295, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_2.pn
+g Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_2.png
+>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-local
+_7.2_0.5_trial_2.png used on input line 1577.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.3
+}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1579 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_3.png, id
+=296, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_3.pn
+g Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_3.png
+>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-local
+_7.2_0.5_trial_3.png used on input line 1579.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.4
+}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1581 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_4.png, id
+=297, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_4.pn
+g Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_4.png
+>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-local
+_7.2_0.5_trial_4.png used on input line 1581.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.5
+}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1583 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_5.png, id
+=298, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_5.pn
+g Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_5.png
+>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-local
+_7.2_0.5_trial_5.png used on input line 1583.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.6
+}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1585 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_6.png, id
+=299, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_6.pn
+g Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_6.png
+>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-local
+_7.2_0.5_trial_6.png used on input line 1585.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.7
+}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1587 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_7.png, id
+=300, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_7.pn
+g Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_7.png
+>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-local
+_7.2_0.5_trial_7.png used on input line 1587.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.8
+}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1596 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_8.png, id
+=301, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_8.pn
+g Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_8.png
+>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-local
+_7.2_0.5_trial_8.png used on input line 1596.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.9
+}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1598 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_9.png, id
+=302, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_9.pn
+g Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_9.png
+>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-local
+_7.2_0.5_trial_9.png used on input line 1598.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.1
+0}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1600 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_10.png, i
+d=303, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_10.p
+ng Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_10.pn
+g>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-local
+_7.2_0.5_trial_10.png used on input line 1600.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.1
+1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1602 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_11.png, i
+d=304, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_11.p
+ng Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_11.pn
+g>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-local
+_7.2_0.5_trial_11.png used on input line 1602.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.1
+2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1604 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_12.png, i
+d=305, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_12.p
+ng Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_12.pn
+g>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-local
+_7.2_0.5_trial_12.png used on input line 1604.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.1
+3}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1606 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_13.png, i
+d=306, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_13.p
+ng Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_13.pn
+g>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-local
+_7.2_0.5_trial_13.png used on input line 1606.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.1
+4}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1608 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_14.png, i
+d=307, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_14.p
+ng Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_14.pn
+g>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-local
+_7.2_0.5_trial_14.png used on input line 1608.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.1
+5}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1617 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_15.png, i
+d=308, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_15.p
+ng Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_15.pn
+g>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-local
+_7.2_0.5_trial_15.png used on input line 1617.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.1
+6}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1619 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_16.png, i
+d=309, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_16.p
+ng Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_16.pn
+g>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-local
+_7.2_0.5_trial_16.png used on input line 1619.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.1
+7}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1621 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_17.png, i
+d=310, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_17.p
+ng Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_17.pn
+g>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-local
+_7.2_0.5_trial_17.png used on input line 1621.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.1
+8}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1623 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_18.png, i
+d=311, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_18.p
+ng Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_18.pn
+g>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-local
+_7.2_0.5_trial_18.png used on input line 1623.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.1
+9}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1625 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_19.png, i
+d=312, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_19.p
+ng Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_19.pn
+g>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-local
+_7.2_0.5_trial_19.png used on input line 1625.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.2
+0}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1627 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_20.png, i
+d=313, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_20.p
+ng Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_20.pn
+g>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-local
+_7.2_0.5_trial_20.png used on input line 1627.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.2
+1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1629 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_21.png, i
+d=314, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_21.p
+ng Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_21.pn
+g>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-local
+_7.2_0.5_trial_21.png used on input line 1629.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.2
+2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1638 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_22.png, i
+d=315, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_22.p
+ng Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_22.pn
+g>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-local
+_7.2_0.5_trial_22.png used on input line 1638.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.2
+3}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1640 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_23.png, i
+d=316, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_23.p
+ng Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_23.pn
+g>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-local
+_7.2_0.5_trial_23.png used on input line 1640.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.2
+4}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1642 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_24.png, i
+d=317, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_24.p
+ng Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_24.pn
+g>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-local
+_7.2_0.5_trial_24.png used on input line 1642.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.2
+5}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1644 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_25.png, i
+d=318, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_25.p
+ng Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_25.pn
+g>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-local
+_7.2_0.5_trial_25.png used on input line 1644.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.2
+6}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1646 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_26.png, i
+d=319, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_26.p
+ng Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_26.pn
+g>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-local
+_7.2_0.5_trial_26.png used on input line 1646.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.2
+7}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1648 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_27.png, i
+d=320, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_27.p
+ng Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_27.pn
+g>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-local
+_7.2_0.5_trial_27.png used on input line 1648.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.2
+8}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1650 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_28.png, i
+d=321, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_28.p
+ng Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_28.pn
+g>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-local
+_7.2_0.5_trial_28.png used on input line 1650.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.2
+9}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1659 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_29.png, i
+d=322, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_29.p
+ng Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_29.pn
+g>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-local
+_7.2_0.5_trial_29.png used on input line 1659.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.3
+0}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1661 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_30.png, i
+d=323, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_30.p
+ng Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_30.pn
+g>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-local
+_7.2_0.5_trial_30.png used on input line 1661.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.3
+1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1663 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_31.png, i
+d=324, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_31.p
+ng Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_31.pn
+g>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-local
+_7.2_0.5_trial_31.png used on input line 1663.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.3
+2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1665 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_32.png, i
+d=325, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_32.p
+ng Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_32.pn
+g>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-local
+_7.2_0.5_trial_32.png used on input line 1665.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.3
+3}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1667 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_33.png, i
+d=326, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_33.p
+ng Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_33.pn
+g>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-local
+_7.2_0.5_trial_33.png used on input line 1667.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.3
+4}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1669 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_34.png, i
+d=327, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_34.p
+ng Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_34.pn
+g>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-local
+_7.2_0.5_trial_34.png used on input line 1669.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.3
+5}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1671 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_35.png, i
+d=328, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_35.p
+ng Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_35.pn
+g>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-local
+_7.2_0.5_trial_35.png used on input line 1671.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.3
+6}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1680 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_36.png, i
+d=329, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_36.p
+ng Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_36.pn
+g>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-local
+_7.2_0.5_trial_36.png used on input line 1680.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.3
+7}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1682 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_37.png, i
+d=330, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_37.p
+ng Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_37.pn
+g>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-local
+_7.2_0.5_trial_37.png used on input line 1682.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.3
+8}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1684 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_38.png, i
+d=331, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_38.p
+ng Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_38.pn
+g>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-local
+_7.2_0.5_trial_38.png used on input line 1684.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.3
+9}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1686 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_39.png, i
+d=332, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_39.p
+ng Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_39.pn
+g>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-local
+_7.2_0.5_trial_39.png used on input line 1686.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.4
+0}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1688 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_40.png, i
+d=333, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_40.p
+ng Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_40.pn
+g>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-local
+_7.2_0.5_trial_40.png used on input line 1688.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.4
+1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1690 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_41.png, i
+d=334, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_41.p
+ng Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_41.pn
+g>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-local
+_7.2_0.5_trial_41.png used on input line 1690.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.4
+2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1692 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_42.png, i
+d=335, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_42.p
+ng Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_42.pn
+g>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-local
+_7.2_0.5_trial_42.png used on input line 1692.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+ [4
+
+ <../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_1.png> <
+../../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_2.png> <..
+/../figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_3.png> <../.
+./figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_4.png> <../../
+figures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_5.png> <../../fi
+gures/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_6.png> <../../figu
+res/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_7.png> <../../figure
+s/plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_8.png> <../../figures/
+plots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_9.png> <../../figures/pl
+ots/selected_bricks/exp5_impulse-local_7.2_0.5_trial_10.png> <../../figures/plo
+ts/selected_bricks/exp5_impulse-local_7.2_0.5_trial_11.png> <../../figures/plot
+s/selected_bricks/exp5_impulse-local_7.2_0.5_trial_12.png> <../../figures/plots
+/selected_bricks/exp5_impulse-local_7.2_0.5_trial_13.png> <../../figures/plots/
+selected_bricks/exp5_impulse-local_7.2_0.5_trial_14.png> <../../figures/plots/s
+elected_bricks/exp5_impulse-local_7.2_0.5_trial_15.png> <../../figures/plots/se
+lected_bricks/exp5_impulse-local_7.2_0.5_trial_16.png> <../../figures/plots/sel
+ected_bricks/exp5_impulse-local_7.2_0.5_trial_17.png> <../../figures/plots/sele
+cted_bricks/exp5_impulse-local_7.2_0.5_trial_18.png> <../../figures/plots/selec
+ted_bricks/exp5_impulse-local_7.2_0.5_trial_19.png> <../../figures/plots/select
+ed_bricks/exp5_impulse-local_7.2_0.5_trial_20.png> <../../figures/plots/selecte
+d_bricks/exp5_impulse-local_7.2_0.5_trial_21.png> <../../figures/plots/selected
+_bricks/exp5_impulse-local_7.2_0.5_trial_22.png> <../../figures/plots/selected_
+bricks/exp5_impulse-local_7.2_0.5_trial_23.png> <../../figures/plots/selected_b
+ricks/exp5_impulse-local_7.2_0.5_trial_24.png> <../../figures/plots/selected_br
+icks/exp5_impulse-local_7.2_0.5_trial_25.png> <../../figures/plots/selected_bri
+cks/exp5_impulse-local_7.2_0.5_trial_26.png> <../../figures/plots/selected_bric
+ks/exp5_impulse-local_7.2_0.5_trial_27.png> <../../figures/plots/selected_brick
+s/exp5_impulse-local_7.2_0.5_trial_28.png> <../../figures/plots/selected_bricks
+/exp5_impulse-local_7.2_0.5_trial_29.png> <../../figures/plots/selected_bricks/
+exp5_impulse-local_7.2_0.5_trial_30.png> <../../figures/plots/selected_bricks/e
+xp5_impulse-local_7.2_0.5_trial_31.png> <../../figures/plots/selected_bricks/ex
+p5_impulse-local_7.2_0.5_trial_32.png> <../../figures/plots/selected_bricks/exp
+5_impulse-local_7.2_0.5_trial_33.png> <../../figures/plots/selected_bricks/exp5
+_impulse-local_7.2_0.5_trial_34.png> <../../figures/plots/selected_bricks/exp5_
+impulse-local_7.2_0.5_trial_35.png> <../../figures/plots/selected_bricks/exp5_i
+mpulse-local_7.2_0.5_trial_36.png> <../../figures/plots/selected_bricks/exp5_im
+pulse-local_7.2_0.5_trial_37.png> <../../figures/plots/selected_bricks/exp5_imp
+ulse-local_7.2_0.5_trial_38.png> <../../figures/plots/selected_bricks/exp5_impu
+lse-local_7.2_0.5_trial_39.png> <../../figures/plots/selected_bricks/exp5_impul
+se-local_7.2_0.5_trial_40.png> <../../figures/plots/selected_bricks/exp5_impuls
+e-local_7.2_0.5_trial_41.png> <../../figures/plots/selected_bricks/exp5_impulse
+-local_7.2_0.5_trial_42.png>]pdfTeX warning (ext4): destination with the same i
+dentifier (name{subfigure.1.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1704 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_1.png, i
+d=389, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_1.p
+ng Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_1.pn
+g>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-globa
+l_3.6_0.5_trial_1.png used on input line 1704.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.2
+}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1706 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_2.png, i
+d=390, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_2.p
+ng Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_2.pn
+g>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-globa
+l_3.6_0.5_trial_2.png used on input line 1706.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.3
+}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1708 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_3.png, i
+d=391, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_3.p
+ng Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_3.pn
+g>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-globa
+l_3.6_0.5_trial_3.png used on input line 1708.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.4
+}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1710 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_4.png, i
+d=392, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_4.p
+ng Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_4.pn
+g>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-globa
+l_3.6_0.5_trial_4.png used on input line 1710.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.5
+}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1712 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_5.png, i
+d=393, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_5.p
+ng Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_5.pn
+g>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-globa
+l_3.6_0.5_trial_5.png used on input line 1712.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.6
+}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1714 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_6.png, i
+d=394, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_6.p
+ng Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_6.pn
+g>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-globa
+l_3.6_0.5_trial_6.png used on input line 1714.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.7
+}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1716 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_7.png, i
+d=395, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_7.p
+ng Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_7.pn
+g>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-globa
+l_3.6_0.5_trial_7.png used on input line 1716.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.8
+}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1725 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_8.png, i
+d=396, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_8.p
+ng Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_8.pn
+g>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-globa
+l_3.6_0.5_trial_8.png used on input line 1725.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.9
+}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1727 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_9.png, i
+d=397, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_9.p
+ng Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_9.pn
+g>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-globa
+l_3.6_0.5_trial_9.png used on input line 1727.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.1
+0}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1729 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_10.png, 
+id=398, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_10.
+png Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_10.p
+ng>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-globa
+l_3.6_0.5_trial_10.png used on input line 1729.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.1
+1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1731 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_11.png, 
+id=399, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_11.
+png Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_11.p
+ng>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-globa
+l_3.6_0.5_trial_11.png used on input line 1731.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.1
+2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1733 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_12.png, 
+id=400, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_12.
+png Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_12.p
+ng>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-globa
+l_3.6_0.5_trial_12.png used on input line 1733.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.1
+3}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1735 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_13.png, 
+id=401, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_13.
+png Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_13.p
+ng>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-globa
+l_3.6_0.5_trial_13.png used on input line 1735.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.1
+4}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1737 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_14.png, 
+id=402, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_14.
+png Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_14.p
+ng>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-globa
+l_3.6_0.5_trial_14.png used on input line 1737.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.1
+5}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1746 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_15.png, 
+id=403, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_15.
+png Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_15.p
+ng>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-globa
+l_3.6_0.5_trial_15.png used on input line 1746.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.1
+6}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1748 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_16.png, 
+id=404, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_16.
+png Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_16.p
+ng>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-globa
+l_3.6_0.5_trial_16.png used on input line 1748.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.1
+7}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1750 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_17.png, 
+id=405, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_17.
+png Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_17.p
+ng>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-globa
+l_3.6_0.5_trial_17.png used on input line 1750.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.1
+8}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1752 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_18.png, 
+id=406, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_18.
+png Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_18.p
+ng>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-globa
+l_3.6_0.5_trial_18.png used on input line 1752.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.1
+9}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1754 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_19.png, 
+id=407, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_19.
+png Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_19.p
+ng>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-globa
+l_3.6_0.5_trial_19.png used on input line 1754.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.2
+0}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1756 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_20.png, 
+id=408, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_20.
+png Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_20.p
+ng>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-globa
+l_3.6_0.5_trial_20.png used on input line 1756.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.2
+1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1758 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_21.png, 
+id=409, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_21.
+png Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_21.p
+ng>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-globa
+l_3.6_0.5_trial_21.png used on input line 1758.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.2
+2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1767 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_22.png, 
+id=410, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_22.
+png Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_22.p
+ng>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-globa
+l_3.6_0.5_trial_22.png used on input line 1767.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.2
+3}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1769 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_23.png, 
+id=411, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_23.
+png Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_23.p
+ng>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-globa
+l_3.6_0.5_trial_23.png used on input line 1769.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.2
+4}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1771 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_24.png, 
+id=412, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_24.
+png Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_24.p
+ng>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-globa
+l_3.6_0.5_trial_24.png used on input line 1771.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.2
+5}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1773 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_25.png, 
+id=413, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_25.
+png Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_25.p
+ng>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-globa
+l_3.6_0.5_trial_25.png used on input line 1773.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.2
+6}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1775 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_26.png, 
+id=414, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_26.
+png Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_26.p
+ng>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-globa
+l_3.6_0.5_trial_26.png used on input line 1775.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.2
+7}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1777 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_27.png, 
+id=415, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_27.
+png Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_27.p
+ng>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-globa
+l_3.6_0.5_trial_27.png used on input line 1777.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.2
+8}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1779 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_28.png, 
+id=416, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_28.
+png Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_28.p
+ng>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-globa
+l_3.6_0.5_trial_28.png used on input line 1779.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.2
+9}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1788 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_29.png, 
+id=417, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_29.
+png Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_29.p
+ng>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-globa
+l_3.6_0.5_trial_29.png used on input line 1788.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.3
+0}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1790 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_30.png, 
+id=418, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_30.
+png Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_30.p
+ng>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-globa
+l_3.6_0.5_trial_30.png used on input line 1790.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.3
+1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1792 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_31.png, 
+id=419, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_31.
+png Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_31.p
+ng>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-globa
+l_3.6_0.5_trial_31.png used on input line 1792.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.3
+2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1794 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_32.png, 
+id=420, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_32.
+png Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_32.p
+ng>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-globa
+l_3.6_0.5_trial_32.png used on input line 1794.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.3
+3}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1796 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_33.png, 
+id=421, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_33.
+png Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_33.p
+ng>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-globa
+l_3.6_0.5_trial_33.png used on input line 1796.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.3
+4}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1798 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_34.png, 
+id=422, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_34.
+png Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_34.p
+ng>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-globa
+l_3.6_0.5_trial_34.png used on input line 1798.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.3
+5}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1800 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_35.png, 
+id=423, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_35.
+png Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_35.p
+ng>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-globa
+l_3.6_0.5_trial_35.png used on input line 1800.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.3
+6}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1809 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_36.png, 
+id=424, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_36.
+png Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_36.p
+ng>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-globa
+l_3.6_0.5_trial_36.png used on input line 1809.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.3
+7}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1811 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_37.png, 
+id=425, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_37.
+png Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_37.p
+ng>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-globa
+l_3.6_0.5_trial_37.png used on input line 1811.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.3
+8}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1813 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_38.png, 
+id=426, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_38.
+png Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_38.p
+ng>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-globa
+l_3.6_0.5_trial_38.png used on input line 1813.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.3
+9}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1815 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_39.png, 
+id=427, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_39.
+png Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_39.p
+ng>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-globa
+l_3.6_0.5_trial_39.png used on input line 1815.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.4
+0}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1817 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_40.png, 
+id=428, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_40.
+png Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_40.p
+ng>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-globa
+l_3.6_0.5_trial_40.png used on input line 1817.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.4
+1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1819 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_41.png, 
+id=429, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_41.
+png Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_41.p
+ng>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-globa
+l_3.6_0.5_trial_41.png used on input line 1819.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.4
+2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1821 \subfloat
+                [][]{\includegraphics[width=0.14\columnwidth]{{{exp5_impulse...
+
+<../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_42.png, 
+id=430, 803.0pt x 602.25pt>
+File: ../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_42.
+png Graphic file (type png)
+
+<use ../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_42.p
+ng>
+Package pdftex.def Info: ../../figures/plots/selected_bricks/exp5_impulse-globa
+l_3.6_0.5_trial_42.png used on input line 1821.
+(pdftex.def)             Requested size: 65.76541pt x 49.32048pt.
+ [5
+
+ <../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_1.png> 
+<../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_2.png> <
+../../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_3.png> <.
+./../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_4.png> <..
+/../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_5.png> <../
+../figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_6.png> <../.
+./figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_7.png> <../..
+/figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_8.png> <../../
+figures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_9.png> <../../f
+igures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_10.png> <../../f
+igures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_11.png> <../../f
+igures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_12.png> <../../f
+igures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_13.png> <../../f
+igures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_14.png> <../../f
+igures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_15.png> <../../f
+igures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_16.png> <../../f
+igures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_17.png> <../../f
+igures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_18.png> <../../f
+igures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_19.png> <../../f
+igures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_20.png> <../../f
+igures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_21.png> <../../f
+igures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_22.png> <../../f
+igures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_23.png> <../../f
+igures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_24.png> <../../f
+igures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_25.png> <../../f
+igures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_26.png> <../../f
+igures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_27.png> <../../f
+igures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_28.png> <../../f
+igures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_29.png> <../../f
+igures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_30.png> <../../f
+igures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_31.png> <../../f
+igures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_32.png> <../../f
+igures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_33.png> <../../f
+igures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_34.png> <../../f
+igures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_35.png> <../../f
+igures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_36.png> <../../f
+igures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_37.png> <../../f
+igures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_38.png> <../../f
+igures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_39.png> <../../f
+igures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_40.png> <../../f
+igures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_41.png> <../../f
+igures/plots/selected_bricks/exp5_impulse-global_3.6_0.5_trial_42.png>]
+[6
+
+] [7]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 2164.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 2164.
+ (./towers_summary.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 2164.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 2164.
+
+Package rerunfilecheck Info: File `towers_summary.out' has not changed.
+(rerunfilecheck)             Checksum: 6B6930A7A5BFD50B01F5C132119999A2;615.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 2164.
+ ) 
+Here is how much of TeX's memory you used:
+ 20697 strings out of 493117
+ 422639 string characters out of 6135433
+ 453335 words of memory out of 5000000
+ 23495 multiletter control sequences out of 15000+600000
+ 10166 words of font info for 36 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 55i,10n,85p,506b,505s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
+usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></us
+r/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb>
+Output written on towers_summary.pdf (7 pages, 25078498 bytes).
+PDF statistics:
+ 579 PDF objects out of 1000 (max. 8388607)
+ 226 compressed objects within 3 object streams
+ 123 named destinations out of 1000 (max. 500000)
+ 925 words of extra memory for PDF output out of 10000 (max. 10000000)
+

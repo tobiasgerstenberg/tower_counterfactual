@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.5, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="800px" height="600px" viewBox="0 0 800 600" style="enable-background:new 0 0 800 600;" xml:space="preserve">
+<style type="text/css">
+<![CDATA[
+	.st0{fill:#989898;stroke:#010101;stroke-miterlimit:10;}
+	.st1{fill:#FFFFFF;stroke:#010101;stroke-miterlimit:10;}
+]]>
+</style>
+<g id="background">
+	<rect y="580" class="st1" width="800" height="20"/>
+	<rect x="490" y="500" class="st1" width="20" height="80"/>
+	<rect x="290" y="500" class="st1" width="20" height="80"/>
+	<rect x="250" y="490" class="st1" width="300" height="20"/>
+</g>
+<g id="bricks">
+	<rect x="490" y="446.6" class="st1" width="80" height="40"/>
+	<rect x="504.6" y="196.2" class="st1" width="40" height="80"/>
+	<rect x="229.3" y="236.2" class="st1" width="40" height="80"/>
+	
+		<rect x="484.6" y="279.1" transform="matrix(0.9999 -1.677174e-02 1.677174e-02 0.9999 -4.9432 8.8412)" class="st1" width="80" height="40"/>
+	<rect id="special_1_" x="353.9" y="446.6" class="st0" width="80" height="40"/>
+	
+		<rect x="347.4" y="299.8" transform="matrix(3.964263e-02 0.9992 -0.9992 3.964263e-02 691.63 -79.9872)" class="st1" width="80" height="40"/>
+	<rect x="233.9" y="362.9" class="st1" width="40" height="80"/>
+	
+		<rect x="504.6" y="113" transform="matrix(-0.9999 -1.108448e-02 1.108448e-02 -0.9999 1047.4321 311.7926)" class="st1" width="40" height="80"/>
+	<rect x="473.9" y="402.9" class="st1" width="80" height="40"/>
+	<rect x="345.9" y="383" transform="matrix(1.635745e-03 1 -1 1.635745e-03 788.201 16.41)" class="st1" width="80" height="40"/>
+	<rect x="205.1" y="446.6" class="st1" width="80" height="40"/>
+	<rect x="211.7" y="193.2" class="st1" width="80" height="40"/>
+	<rect x="211.7" y="319.8" class="st1" width="80" height="40"/>
+	<rect x="219" y="149.1" class="st1" width="80" height="40"/>
+	
+		<rect x="484.6" y="342.8" transform="matrix(1.162141e-02 0.9999 -0.9999 1.162141e-02 881.245 -166.0367)" class="st1" width="80" height="40"/>
+</g>
+</svg>

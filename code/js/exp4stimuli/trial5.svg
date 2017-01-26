@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.5, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="800px" height="600px" viewBox="0 0 800 600" enable-background="new 0 0 800 600" xml:space="preserve">
+<g id="background">
+	<rect y="580" fill="#FFFFFF" stroke="#010101" stroke-miterlimit="10" width="800" height="20"/>
+	<rect x="490" y="500" fill="#FFFFFF" stroke="#010101" stroke-miterlimit="10" width="20" height="80"/>
+	<rect x="290" y="500" fill="#FFFFFF" stroke="#010101" stroke-miterlimit="10" width="20" height="80"/>
+	<rect x="250" y="490" fill="#FFFFFF" stroke="#010101" stroke-miterlimit="10" width="300" height="20"/>
+</g>
+<g id="bricks">
+	
+		<rect x="500.995" y="286.012" transform="matrix(-0.9999 -0.0161 0.0161 -0.9999 1036.6758 660.3746)" fill="#FFFFFF" stroke="#010101" stroke-miterlimit="10" width="40.002" height="80.005"/>
+	<rect x="518" y="448.1" fill="#FFFFFF" stroke="#010101" stroke-miterlimit="10" width="80" height="40"/>
+	
+		<rect x="490.587" y="387.32" transform="matrix(0.0133 -0.9999 0.9999 0.0133 116.2486 932.4431)" fill="#FFFFFF" stroke="#010101" stroke-miterlimit="10" width="79.997" height="40"/>
+	
+		<rect id="special" x="421.909" y="366.74" transform="matrix(-0.9999 -0.0162 0.0162 -0.9999 917.4984 780.9136)" fill="#FFFFFF" stroke="#010101" stroke-miterlimit="10" width="80.006" height="40.002"/>
+	
+		<rect x="513.533" y="204.904" transform="matrix(-0.9999 -0.0161 0.0161 -0.9999 1063.0552 498.3724)" fill="#FFFFFF" stroke="#010101" stroke-miterlimit="10" width="40.001" height="80.005"/>
+	
+		<rect x="453.232" y="285.512" transform="matrix(-0.9999 -0.0161 0.0161 -0.9999 941.1647 658.6057)" fill="#FFFFFF" stroke="#010101" stroke-miterlimit="10" width="40.002" height="80.005"/>
+	
+		<rect x="463.73" y="204.907" transform="matrix(-0.9999 -0.0161 0.0161 -0.9999 963.4551 497.575)" fill="#FFFFFF" stroke="#010101" stroke-miterlimit="10" width="40.001" height="80.004"/>
+	
+		<rect x="501.012" y="144.179" transform="matrix(0.0055 -1 1 0.0055 333.9739 704.1728)" fill="#FFFFFF" stroke="#010101" stroke-miterlimit="10" width="40.002" height="80.002"/>
+	
+		<rect x="423.072" y="428.071" transform="matrix(7.327000e-05 -1 1 7.327000e-05 14.9675 911.1102)" fill="#FFFFFF" stroke="#010101" stroke-miterlimit="10" width="80" height="40"/>
+	
+		<rect x="266.963" y="427.984" transform="matrix(7.327000e-05 -1 1 7.327000e-05 -141.043 754.9144)" fill="#FFFFFF" stroke="#010101" stroke-miterlimit="10" width="80" height="40"/>
+	
+		<rect x="196.869" y="346.976" transform="matrix(7.327000e-05 -1 1 7.327000e-05 -130.1243 603.8184)" fill="#FFFFFF" stroke="#010101" stroke-miterlimit="10" width="80" height="40"/>
+	
+		<rect x="213.873" y="428.071" transform="matrix(7.327000e-05 -1 1 7.327000e-05 -194.2169 701.9105)" fill="#FFFFFF" stroke="#010101" stroke-miterlimit="10" width="80" height="40"/>
+	
+		<rect x="279.023" y="346.745" transform="matrix(0.0055 -1 1 0.0055 -89.3632 683.6367)" fill="#FFFFFF" stroke="#010101" stroke-miterlimit="10" width="40.002" height="80.002"/>
+	
+		<rect x="261.865" y="305.48" transform="matrix(7.327000e-05 -1 1 7.327000e-05 -23.6369 627.3214)" fill="#FFFFFF" stroke="#010101" stroke-miterlimit="10" width="80" height="40"/>
+	
+		<rect x="218.912" y="261.672" transform="matrix(0.5513 -0.8343 0.8343 0.5513 -118.8273 342.397)" fill="#FFFFFF" stroke="#010101" stroke-miterlimit="10" width="80" height="40"/>
+</g>
+</svg>

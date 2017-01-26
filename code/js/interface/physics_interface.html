@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<head>
+	<link rel='stylesheet' href='style.css'>
+	<script src="js/canvas-to-blob.js"></script>
+	<script src="js/FileSaver.js"></script>
+	<link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+	<script src="main.js"></script>
+</head>
+
+<body>
+	<h1>brick counterfactual simulator</h1>
+	<div id="game">
+		<iframe src="physics_world.html" width=800 height=600 id="game-frame"></iframe>
+	</div>
+	<br>
+	<table class='options'>
+		<tr>
+			<td>experiment</td>
+			<td>
+				<div class='exp-buttons experiment'>
+					<div class='exp-button' id='exp1'>1</div>
+					<div class='exp-button' id='exp2'>2</div>
+				</div>
+			</td>
+		</tr>
+		<tr>
+			<td>noise type</td>
+			<td>
+			<div class='exp-buttons noise'>
+				<div class='exp-button' id='impulse-local'>local</div>
+				<div class='exp-button' id='impulse-global'>global</div>
+				<div class='exp-button' id='impulse-local-above-extended'>above</div>
+			</div>
+			</td>
+		</tr>
+		<tr>
+			<td>noise level</td>
+			<td>
+				<input type="range" id="noise-level" value=5.0 max=15.0 step=0.1> <span id='level-num'>5</span>
+			</td>
+		</tr>
+		<tr>
+			<td>trial no.</td>
+			<td>
+				<input onblur="this.value = minmax(this.value, 1, 42)" id="trial-num" placeholder="1" value="1" min="1" max="42" type="number"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style='color:#999; font-size:14pt'>[choose 1 - 42]</span>
+			</td>
+		</tr>
+	</table>
+	<!-- <button type="button" onClick="start('animate')">Animate</button>
+	<button type="button" onClick="removeBrick()">Remove brick</button> -->
+<!-- 	<select id='noiseType'>
+		<option value='dxy-local-above'>dxy-local-above</option>
+		<option value='torque-local-above'>torque-local-above</option>
+		<option value='dxy-local'>dxy-local</option>
+		<option value='dx-local'>dx-local</option>
+		<option value='dx-local-above'>dx-local-above</option>
+		<option value='dxy-global'>dxy-global</option>
+		<option value='torque-brick'>Brick Torque</option>
+		<option value='torque-local'>torque-local</option>
+		<option value='torque-global'>torque-global</option>
+		<option value='impulse-local'>impulse-local</option>
+		<option value='impulse-local-above'>impulse-local-above</option>
+		<option value='impulse-local-above-extended'>impulse-above-extended</option>
+		<option value='impulse-global'>impulse-global</option>
+	</select> -->
+	<br>
+	<div class='exp-buttons run'>
+		<div class='exp-button' id='load'>just load</div>
+		<div class='exp-button' id='load-remove'>load + remove</div>
+	</div>
+	<br>
+	<!-- Press <span class='code'>l</span> to load and animate, <span class='code'>s</span> to screenshot, and <span class='code'>d</span> to save data. -->
+
+	<!-- Friction value
+	<input type='text' id='fricVal' value='0.5'>
+	Friction variance
+	<input type='text' id='fricVar' value='0'>
+	<br> -->
+	<!--button type="button" onClick="start('high')">High</button-->
+	<!-- <button type="button" onClick="clickBricks()">Brickmaker</button> -->
+	
+	<!-- Gravity <input id='grav' type="checkbox" onClick="changeGravity()" checked>
+	Angle <input type="number" id = "brickAngle" onChange="changeAngle()" min="0" value='0'>
+	 -->
+<!-- 	<br>
+	<button type="button" onClick="load()">Load</button>
+	<button type="button" onClick="loadRemove()">Load + Remove</button>
+	<br>
+	<button type="button" onClick="saveData()">Save data</button>
+	<button type="button" onClick="takeScreenshot()">Screenshot</button> -->
+	<!--Load Type
+	<select id='loadType'>
+		<option value='initial'>initial</option>
+		<option value='final'>final</option>
+		<option value='snapshot'>snapshot</option>
+	</select>-->
+	
+	<!-- <button type="button" onClick="start('simulate')">Simulate</button>
+	#samples
+	<input type="number" name="samples" id = "numSamples" min="1" value='10'>
+	#repetitions
+	<input type="number" name="repetitions" id="numRepetitions" min="1" max="100" value='20'>
+	 -->
+	<!-- <br>
+	<button type='button' onClick="saveLoad()">Save Images</button>
+	<input type="text" id="idnums"> -->
+	
+<!-- 	<br>
+	<h1>Documentation</h1>
+	<ol>
+		<li>To reset the box and animate an example, click <button type="button" onClick="start('animate')">Animate</button>. You can change the noise/friction applied to the bricks upon grey brick removal and click <button type="button" onClick="removeBrick()">Remove brick</button>.</li>
+		<li>To simulate multiple examples (without animation) and save the results as stimuli samples, click <button type="button" onClick="start('simulate')">Simulate</button> and input how many samples you'd like, as well how many repetitions to perform per setup. The noise/friction parameters near <button type="button" onClick="start('animate')">Animate</button> will be used.</li>
+		<li>Use <button type="button" onClick="clickBricks()">Brickmaker</button> to create your own brick list, and then save the data from the iframe with the <button type="button" onClick="saveData()">Save data</button> and <button type="button" onClick="takeScreenshot()">Screenshot</button> buttons! <b>To properly set the angle, make sure to click outside the textbox for the update to register</b>.
+		<li>(optional) Save the data from the current iframe snapshot with <button type="button" onClick="saveData()">Save data</button>.</li>
+		<li>(optional) Take a screenshot of the current iframe with <button type="button" onClick="takeScreenshot()">Screenshot</button>.</li>
+		<li>(optional) Load a snapshot with <button type="button" onClick="load()">Load</button>; "snapshot" refers to data saved with the <button type="button" onClick="saveData()">Save data</button> button, and "initial" and "final" refer to data saved with the <button type="button" onClick="start('simulate')">Simulate</button> button.</li>
+		<li>Load and take screenshots for many different initial/final pairs with <button type='button' onClick="saveLoad()">Save Images</button>. List the IDs for the relevant scenes, separated by commas or whitespace!</li>
+	</ol> -->
+		
+</body>
+</html>
+
+

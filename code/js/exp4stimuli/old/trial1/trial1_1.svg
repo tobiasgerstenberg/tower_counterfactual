@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 800 600" style="enable-background:new 0 0 800 600;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;}
+	.st1{fill:#999999;stroke:#000000;stroke-miterlimit:10;}
+</style>
+<g id="background">
+	<rect y="580" class="st0" width="800" height="20"/>
+	<rect x="490" y="500" class="st0" width="20" height="80"/>
+	<rect x="290" y="500" class="st0" width="20" height="80"/>
+	<rect x="250" y="490" class="st0" width="300" height="20"/>
+</g>
+<g id="bricks">
+	<rect x="247.3" y="447.5" class="st0" width="80" height="40"/>
+	<rect x="505.5" y="279.5" class="st0" width="40" height="80"/>
+	<rect x="284.5" y="322.5" class="st0" width="40" height="80"/>
+	<rect x="242" y="280" class="st0" width="80" height="40"/>
+	<rect x="480.5" y="447.5" class="st0" width="80" height="40"/>
+	<rect x="472.5" y="362.5" class="st0" width="80" height="40"/>
+	<rect id="special_1_" x="241" y="322.5" class="st1" width="40" height="80"/>
+	<rect x="504.5" y="196.5" class="st0" width="40" height="80"/>
+	<rect x="482.3" y="154.1" class="st0" width="80" height="40"/>
+	<rect x="463.5" y="405.5" class="st0" width="80" height="40"/>
+	<rect x="260" y="404.5" class="st0" width="80" height="40"/>
+</g>
+</svg>

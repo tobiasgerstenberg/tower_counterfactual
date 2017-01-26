@@ -1,0 +1,78 @@
+You are testing trial5
+You have 15 bricks in your SVG.
+Your stimulus (after settling) has 15 bricks.
+Simulating mode 0
+none	0.0
+impulse-local	4.77
+impulse-global	6.19
+impulse-local-above-extended	6.04
+Simulating mode 1
+none	0.0
+impulse-local	6.18
+impulse-global	7.28
+impulse-local-above-extended	5.22
+Simulating mode 2
+none	5.0
+impulse-local	4.99
+impulse-global	7.65
+impulse-local-above-extended	5.93
+Simulating mode 3
+none	6.0
+impulse-local	5.0
+impulse-global	7.8
+impulse-local-above-extended	6.01
+Simulating mode 4
+none	1.0
+impulse-local	5.27
+impulse-global	6.48
+impulse-local-above-extended	1.44
+Simulating mode 5
+none	0.0
+impulse-local	5.39
+impulse-global	6.5
+impulse-local-above-extended	3.41
+Simulating mode 6
+none	0.0
+impulse-local	4.51
+impulse-global	5.81
+impulse-local-above-extended	1.52
+Simulating mode 7
+none	0.0
+impulse-local	2.18
+impulse-global	6.31
+impulse-local-above-extended	0.0
+Simulating mode 8
+none	0.0
+impulse-local	0.72
+impulse-global	6.87
+impulse-local-above-extended	6.07
+Simulating mode 9
+none	3.0
+impulse-local	2.88
+impulse-global	6.33
+impulse-local-above-extended	4.44
+Simulating mode 10
+none	1.0
+impulse-local	1.65
+impulse-global	5.46
+impulse-local-above-extended	0.89
+Simulating mode 11
+none	2.0
+impulse-local	2.4
+impulse-global	6.04
+impulse-local-above-extended	2.97
+Simulating mode 12
+none	3.0
+impulse-local	2.67
+impulse-global	6.32
+impulse-local-above-extended	3.74
+Simulating mode 13
+none	4.0
+impulse-local	2.71
+impulse-global	5.89
+impulse-local-above-extended	1.62
+Simulating mode 14
+none	0.0
+impulse-local	1.82
+impulse-global	5.75
+impulse-local-above-extended	0.0

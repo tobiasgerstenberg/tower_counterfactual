@@ -1,0 +1,1616 @@
+[2016-11-18 14:19:57 -0500] [17626] [DEBUG] Current configuration:
+  proxy_protocol: False
+  worker_connections: 1000
+  statsd_host: None
+  max_requests_jitter: 0
+  post_fork: <function post_fork at 0x10c811050>
+  pythonpath: None
+  enable_stdio_inheritance: False
+  worker_class: sync
+  ssl_version: 3
+  suppress_ragged_eofs: True
+  syslog: False
+  syslog_facility: user
+  when_ready: <function when_ready at 0x10c809cf8>
+  pre_fork: <function pre_fork at 0x10c809e60>
+  cert_reqs: 0
+  preload_app: False
+  keepalive: 2
+  accesslog: None
+  group: 20
+  graceful_timeout: 30
+  do_handshake_on_connect: False
+  spew: False
+  workers: 9
+  proc_name: psiturk_experiment_server
+  sendfile: None
+  pidfile: None
+  umask: 0
+  on_reload: <function on_reload at 0x10c809b90>
+  pre_exec: <function pre_exec at 0x10c8115f0>
+  worker_tmp_dir: None
+  post_worker_init: <function post_worker_init at 0x10c8111b8>
+  limit_request_fields: 100
+  on_exit: <function on_exit at 0x10c811c80>
+  config: None
+  secure_scheme_headers: {'X-FORWARDED-PROTOCOL': 'ssl', 'X-FORWARDED-PROTO': 'https', 'X-FORWARDED-SSL': 'on'}
+  proxy_allow_ips: ['127.0.0.1']
+  pre_request: <function pre_request at 0x10c811758>
+  post_request: <function post_request at 0x10c811848>
+  user: 501
+  forwarded_allow_ips: ['127.0.0.1']
+  worker_int: <function worker_int at 0x10c811320>
+  threads: 1
+  max_requests: 0
+  limit_request_line: 4094
+  access_log_format: %(h)s %(l)s %(u)s %(t)s "%(r)s" %(s)s %(b)s "%(f)s" "%(a)s"
+  certfile: None
+  worker_exit: <function worker_exit at 0x10c8119b0>
+  chdir: /Users/tobi/Dropbox (MIT)/work/projects/towers/code/javascript/Experiment_3
+  paste: None
+  default_proc_name: gunicorn
+  errorlog: server.log
+  loglevel: debug
+  logconfig: None
+  syslog_addr: unix:///var/run/syslog
+  syslog_prefix: None
+  daemon: False
+  ciphers: TLSv1
+  on_starting: <function on_starting at 0x10c809a28>
+  worker_abort: <function worker_abort at 0x10c811488>
+  bind: ['0.0.0.0:22362']
+  raw_env: []
+  reload: False
+  check_config: False
+  limit_request_field_size: 8190
+  nworkers_changed: <function nworkers_changed at 0x10c811b18>
+  timeout: 30
+  ca_certs: None
+  django_settings: None
+  tmp_upload_dir: None
+  keyfile: None
+  backlog: 2048
+  logger_class: gunicorn.glogging.Logger
+  statsd_prefix: 
+[2016-11-18 14:19:57 -0500] [17626] [INFO] Starting gunicorn 19.4.5
+[2016-11-18 14:19:57 -0500] [17626] [DEBUG] Arbiter booted
+[2016-11-18 14:19:57 -0500] [17626] [INFO] Listening at: http://0.0.0.0:22362 (17626)
+[2016-11-18 14:19:57 -0500] [17626] [INFO] Using worker: sync
+[2016-11-18 14:19:57 -0500] [17630] [INFO] Booting worker with pid: 17630
+[2016-11-18 14:19:57 -0500] [17631] [INFO] Booting worker with pid: 17631
+[2016-11-18 14:19:57 -0500] [17632] [INFO] Booting worker with pid: 17632
+[2016-11-18 14:19:57 -0500] [17633] [INFO] Booting worker with pid: 17633
+[2016-11-18 14:19:57 -0500] [17634] [INFO] Booting worker with pid: 17634
+[2016-11-18 14:19:57 -0500] [17635] [INFO] Booting worker with pid: 17635
+[2016-11-18 14:19:57 -0500] [17636] [INFO] Booting worker with pid: 17636
+[2016-11-18 14:19:57 -0500] [17637] [INFO] Booting worker with pid: 17637
+[2016-11-18 14:19:57 -0500] [17638] [INFO] Booting worker with pid: 17638
+[2016-11-18 14:19:57 -0500] [17626] [DEBUG] 9 workers
+2016-11-18 14:19:58,975 Hmm... it seems no custom code (custom.py) associated                     with this project.
+2016-11-18 14:19:58,975 Hmm... it seems no custom code (custom.py) associated                     with this project.
+2016-11-18 14:19:58,983 /Users/tobi/psiturk/psiturkvn/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2016-11-18 14:19:58,983 /Users/tobi/psiturk/psiturkvn/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+[2016-11-18 14:19:58 -0500] [17631] [DEBUG] Closing connection. 
+2016-11-18 14:19:59,012 Hmm... it seems no custom code (custom.py) associated                     with this project.
+2016-11-18 14:19:59,016 /Users/tobi/psiturk/psiturkvn/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2016-11-18 14:19:59,113 Hmm... it seems no custom code (custom.py) associated                     with this project.
+2016-11-18 14:19:59,125 /Users/tobi/psiturk/psiturkvn/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2016-11-18 14:19:59,211 Hmm... it seems no custom code (custom.py) associated                     with this project.
+2016-11-18 14:19:59,212 Hmm... it seems no custom code (custom.py) associated                     with this project.
+2016-11-18 14:19:59,216 /Users/tobi/psiturk/psiturkvn/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2016-11-18 14:19:59,216 /Users/tobi/psiturk/psiturkvn/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2016-11-18 14:19:59,262 Hmm... it seems no custom code (custom.py) associated                     with this project.
+2016-11-18 14:19:59,265 /Users/tobi/psiturk/psiturkvn/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2016-11-18 14:19:59,267 Hmm... it seems no custom code (custom.py) associated                     with this project.
+2016-11-18 14:19:59,271 /Users/tobi/psiturk/psiturkvn/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2016-11-18 14:19:59,274 Hmm... it seems no custom code (custom.py) associated                     with this project.
+2016-11-18 14:19:59,277 /Users/tobi/psiturk/psiturkvn/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+[2016-11-18 14:20:02 -0500] [17637] [DEBUG] Closing connection. 
+[2016-11-18 14:20:02 -0500] [17631] [DEBUG] Closing connection. 
+[2016-11-18 14:20:03 -0500] [17637] [DEBUG] Closing connection. 
+[2016-11-18 14:20:03 -0500] [17631] [DEBUG] GET /ad
+[2016-11-18 14:20:05 -0500] [17638] [DEBUG] GET /consent
+[2016-11-18 14:20:05 -0500] [17635] [DEBUG] GET /static/js/utils.js
+[2016-11-18 14:20:05 -0500] [17636] [DEBUG] GET /static/css/general.css
+[2016-11-18 14:20:07 -0500] [17632] [DEBUG] GET /exp
+2016-11-18 14:20:07,133 Accessing /exp: debugVPQV4Y debugARR59Z debugIOWNOE 
+2016-11-18 14:20:07,145 given Counter({(0, 0): 0}) chose (0, 0)
+[2016-11-18 14:20:07 -0500] [17638] [DEBUG] GET /static/lib/jquery.min.js
+[2016-11-18 14:20:07 -0500] [17631] [DEBUG] GET /static/lib/underscore-min.js
+[2016-11-18 14:20:07 -0500] [17636] [DEBUG] GET /static/lib/seedrandom.js
+[2016-11-18 14:20:07 -0500] [17635] [DEBUG] GET /static/lib/backbone-min.js
+[2016-11-18 14:20:07 -0500] [17637] [DEBUG] GET /static/js/config.js
+[2016-11-18 14:20:07 -0500] [17633] [DEBUG] GET /static/js/task.js
+[2016-11-18 14:20:07 -0500] [17638] [DEBUG] GET /static/css/jquery-ui.min.css
+[2016-11-18 14:20:07 -0500] [17631] [DEBUG] GET /static/lib/jquery-ui.min.js
+[2016-11-18 14:20:07 -0500] [17636] [DEBUG] GET /static/lib/mustache.js
+[2016-11-18 14:20:07 -0500] [17634] [DEBUG] GET /static/js/psiturk.js
+[2016-11-18 14:20:07 -0500] [17638] [DEBUG] GET /static/json/stim.json
+[2016-11-18 14:20:07 -0500] [17636] [DEBUG] GET /sync/debugIOWNOE%3AdebugARR59Z
+2016-11-18 14:20:07,584 GET /sync route with id: debugIOWNOE:debugARR59Z
+[2016-11-18 14:20:07 -0500] [17636] [DEBUG] GET /trial.html
+[2016-11-18 14:20:07 -0500] [17636] [DEBUG] GET /submit.html
+[2016-11-18 14:20:07 -0500] [17636] [DEBUG] GET /physics_world.html
+[2016-11-18 14:20:07 -0500] [17636] [DEBUG] GET /static/images/stimuli/example_tower.png
+[2016-11-18 14:20:07 -0500] [17633] [DEBUG] GET /static/images/stimuli/example_tower_selected.png
+[2016-11-18 14:20:57 -0500] [17633] [DEBUG] GET /exp
+2016-11-18 14:20:57,334 Accessing /exp: debugVPQV4Y debugARR59Z debugIOWNOE 
+[2016-11-18 14:20:57 -0500] [17632] [DEBUG] GET /static/lib/seedrandom.js
+[2016-11-18 14:20:57 -0500] [17636] [DEBUG] GET /static/lib/jquery.min.js
+[2016-11-18 14:20:57 -0500] [17635] [DEBUG] GET /static/lib/underscore-min.js
+[2016-11-18 14:20:57 -0500] [17630] [DEBUG] GET /static/lib/backbone-min.js
+[2016-11-18 14:20:57 -0500] [17633] [DEBUG] GET /static/lib/mustache.js
+[2016-11-18 14:20:57 -0500] [17637] [DEBUG] GET /static/lib/jquery-ui.min.js
+[2016-11-18 14:20:57 -0500] [17635] [DEBUG] GET /static/css/jquery-ui.min.css
+[2016-11-18 14:20:57 -0500] [17636] [DEBUG] GET /static/css/general.css
+[2016-11-18 14:20:57 -0500] [17632] [DEBUG] GET /static/js/config.js
+[2016-11-18 14:20:57 -0500] [17630] [DEBUG] GET /static/js/utils.js
+[2016-11-18 14:20:57 -0500] [17633] [DEBUG] GET /static/js/task.js
+[2016-11-18 14:20:57 -0500] [17637] [DEBUG] GET /static/js/psiturk.js
+[2016-11-18 14:20:58 -0500] [17632] [DEBUG] GET /static/json/stim.json
+[2016-11-18 14:20:58 -0500] [17632] [DEBUG] GET /sync/debugIOWNOE%3AdebugARR59Z
+2016-11-18 14:20:58,032 GET /sync route with id: debugIOWNOE:debugARR59Z
+[2016-11-18 14:20:58 -0500] [17632] [DEBUG] GET /trial.html
+[2016-11-18 14:20:58 -0500] [17632] [DEBUG] GET /submit.html
+[2016-11-18 14:20:58 -0500] [17630] [DEBUG] GET /physics_world.html
+[2016-11-18 14:20:58 -0500] [17630] [DEBUG] GET /static/images/stimuli/example_tower.png
+[2016-11-18 14:20:58 -0500] [17632] [DEBUG] GET /static/images/stimuli/example_tower_selected.png
+[2016-11-18 14:20:58 -0500] [17632] [DEBUG] GET /favicon.ico
+[2016-11-18 14:20:59 -0500] [17632] [DEBUG] GET /physics_world.html
+[2016-11-18 14:20:59 -0500] [17632] [DEBUG] GET /static/lib/canvas-toBlob.js
+[2016-11-18 14:20:59 -0500] [17630] [DEBUG] GET /static/lib/Box2dWeb-2.1.a.3.js
+[2016-11-18 14:20:59 -0500] [17638] [DEBUG] GET /static/lib/brick_interface_exp.js
+[2016-11-18 14:20:59 -0500] [17637] [DEBUG] GET /static/lib/ivank.js
+[2016-11-18 14:20:59 -0500] [17636] [DEBUG] GET /static/lib/FileSaver.js
+[2016-11-18 14:20:59 -0500] [17631] [DEBUG] GET /static/lib/jquery-1.10.2.js
+[2016-11-18 14:21:02 -0500] [17631] [DEBUG] GET /static/images/stimuli/snapshot_0.json
+[2016-11-18 14:21:02 -0500] [17631] [DEBUG] GET /static/images/wallpaper.png
+[2016-11-18 14:21:02 -0500] [17633] [DEBUG] GET /static/images/brick.png
+[2016-11-18 14:21:02 -0500] [17634] [DEBUG] GET /static/images/ground.png
+[2016-11-18 14:21:02 -0500] [17632] [DEBUG] GET /static/images/table_leg.png
+[2016-11-18 14:21:02 -0500] [17635] [DEBUG] GET /static/images/table_top.png
+[2016-11-18 14:21:09 -0500] [17634] [DEBUG] GET /static/images/stimuli/snapshot_1.json
+[2016-11-18 14:21:15 -0500] [17637] [DEBUG] GET /static/images/stimuli/snapshot_2.json
+[2016-11-18 14:21:22 -0500] [17631] [DEBUG] GET /static/images/stimuli/snapshot_3.json
+[2016-11-18 14:21:28 -0500] [17634] [DEBUG] GET /static/images/stimuli/snapshot_4.json
+[2016-11-18 14:21:32 -0500] [17637] [DEBUG] GET /physics_world2.html
+[2016-11-18 14:21:32 -0500] [17637] [DEBUG] GET /static/lib/Box2dWeb-2.1.a.3.js
+[2016-11-18 14:21:32 -0500] [17634] [DEBUG] GET /static/lib/ivank.js
+[2016-11-18 14:21:32 -0500] [17630] [DEBUG] GET /static/lib/canvas-toBlob.js
+[2016-11-18 14:21:32 -0500] [17632] [DEBUG] GET /static/lib/FileSaver.js
+[2016-11-18 14:21:32 -0500] [17633] [DEBUG] GET /static/lib/jquery-1.10.2.js
+[2016-11-18 14:21:32 -0500] [17638] [DEBUG] GET /static/lib/brick_interface_exp.js
+[2016-11-18 14:21:32 -0500] [17638] [DEBUG] GET /static/json/stimuli/16.json
+[2016-11-18 14:21:32 -0500] [17636] [DEBUG] GET /static/images/wallpaper.png
+[2016-11-18 14:21:32 -0500] [17632] [DEBUG] GET /static/images/ground.png
+[2016-11-18 14:21:32 -0500] [17633] [DEBUG] GET /static/images/table_leg.png
+[2016-11-18 14:21:32 -0500] [17630] [DEBUG] GET /static/images/table_top.png
+[2016-11-18 14:21:32 -0500] [17636] [DEBUG] GET /static/images/brick.png
+[2016-11-18 14:21:32 -0500] [17636] [DEBUG] GET /static/images/brick_special.png
+[2016-11-18 14:21:52 -0500] [17636] [DEBUG] GET /static/images/brick_filter.png
+[2016-11-18 14:22:02 -0500] [17634] [DEBUG] GET /physics_world2.html
+[2016-11-18 14:22:02 -0500] [17634] [DEBUG] GET /static/lib/Box2dWeb-2.1.a.3.js
+[2016-11-18 14:22:02 -0500] [17630] [DEBUG] GET /static/lib/ivank.js
+[2016-11-18 14:22:02 -0500] [17632] [DEBUG] GET /static/lib/canvas-toBlob.js
+[2016-11-18 14:22:02 -0500] [17633] [DEBUG] GET /static/lib/FileSaver.js
+[2016-11-18 14:22:02 -0500] [17638] [DEBUG] GET /static/lib/jquery-1.10.2.js
+[2016-11-18 14:22:02 -0500] [17636] [DEBUG] GET /static/lib/brick_interface_exp.js
+[2016-11-18 14:22:02 -0500] [17633] [DEBUG] GET /static/json/stimuli/38.json
+[2016-11-18 14:22:03 -0500] [17631] [DEBUG] GET /static/images/wallpaper.png
+[2016-11-18 14:22:03 -0500] [17638] [DEBUG] GET /static/images/table_leg.png
+[2016-11-18 14:22:03 -0500] [17636] [DEBUG] GET /static/images/ground.png
+[2016-11-18 14:22:03 -0500] [17632] [DEBUG] GET /static/images/table_top.png
+[2016-11-18 14:22:03 -0500] [17638] [DEBUG] GET /static/images/brick_special.png
+[2016-11-18 14:22:03 -0500] [17636] [DEBUG] GET /static/images/brick.png
+[2016-11-18 14:23:47 -0500] [17635] [DEBUG] GET /consent
+[2016-11-18 14:23:47 -0500] [17637] [DEBUG] GET /static/js/utils.js
+[2016-11-18 14:23:47 -0500] [17635] [DEBUG] GET /static/css/general.css
+[2016-11-18 14:23:48 -0500] [17636] [DEBUG] GET /exp
+2016-11-18 14:23:48,901 Accessing /exp: debugVPQV4Y debugARR59Z debugIOWNOE 
+[2016-11-18 14:23:48 -0500] [17636] [DEBUG] GET /static/lib/seedrandom.js
+[2016-11-18 14:23:48 -0500] [17637] [DEBUG] GET /static/lib/jquery.min.js
+[2016-11-18 14:23:48 -0500] [17634] [DEBUG] GET /static/lib/backbone-min.js
+[2016-11-18 14:23:48 -0500] [17635] [DEBUG] GET /static/lib/underscore-min.js
+[2016-11-18 14:23:48 -0500] [17630] [DEBUG] GET /static/lib/jquery-ui.min.js
+[2016-11-18 14:23:48 -0500] [17633] [DEBUG] GET /static/css/jquery-ui.min.css
+[2016-11-18 14:23:48 -0500] [17636] [DEBUG] GET /static/lib/mustache.js
+[2016-11-18 14:23:48 -0500] [17635] [DEBUG] GET /static/js/config.js
+[2016-11-18 14:23:48 -0500] [17634] [DEBUG] GET /static/js/psiturk.js
+[2016-11-18 14:23:48 -0500] [17630] [DEBUG] GET /static/js/task.js
+[2016-11-18 14:23:49 -0500] [17635] [DEBUG] GET /static/json/stim.json
+[2016-11-18 14:23:49 -0500] [17632] [DEBUG] GET /sync/debugIOWNOE%3AdebugARR59Z
+2016-11-18 14:23:49,206 GET /sync route with id: debugIOWNOE:debugARR59Z
+[2016-11-18 14:23:49 -0500] [17633] [DEBUG] GET /trial.html
+[2016-11-18 14:23:49 -0500] [17631] [DEBUG] GET /submit.html
+[2016-11-18 14:23:49 -0500] [17633] [DEBUG] GET /physics_world.html
+[2016-11-18 14:23:49 -0500] [17635] [DEBUG] GET /static/images/stimuli/example_tower.png
+[2016-11-18 14:23:49 -0500] [17630] [DEBUG] GET /static/images/stimuli/example_tower_selected.png
+[2016-11-18 14:24:42 -0500] [17631] [DEBUG] Closing connection. 
+[2016-11-18 14:24:43 -0500] [17635] [DEBUG] Closing connection. 
+[2016-11-18 14:24:43 -0500] [17636] [DEBUG] Closing connection. 
+[2016-11-18 14:24:43 -0500] [17635] [DEBUG] GET /ppid
+[2016-11-18 14:24:43 -0500] [17634] [INFO] Parent changed, shutting down: <Worker 17634>
+[2016-11-18 14:24:43 -0500] [17632] [INFO] Parent changed, shutting down: <Worker 17632>
+[2016-11-18 14:24:43 -0500] [17633] [INFO] Parent changed, shutting down: <Worker 17633>
+[2016-11-18 14:24:43 -0500] [17630] [INFO] Parent changed, shutting down: <Worker 17630>
+[2016-11-18 14:24:43 -0500] [17635] [DEBUG] Closing connection. 
+[2016-11-18 14:24:43 -0500] [17634] [INFO] Worker exiting (pid: 17634)
+[2016-11-18 14:24:43 -0500] [17630] [INFO] Worker exiting (pid: 17630)
+[2016-11-18 14:24:43 -0500] [17633] [INFO] Worker exiting (pid: 17633)
+[2016-11-18 14:24:43 -0500] [17632] [INFO] Worker exiting (pid: 17632)
+[2016-11-18 14:24:43 -0500] [17635] [INFO] Parent changed, shutting down: <Worker 17635>
+[2016-11-18 14:24:43 -0500] [17635] [INFO] Worker exiting (pid: 17635)
+[2016-11-18 14:24:44 -0500] [17638] [INFO] Parent changed, shutting down: <Worker 17638>
+[2016-11-18 14:24:44 -0500] [17636] [DEBUG] Closing connection. 
+[2016-11-18 14:24:44 -0500] [17638] [INFO] Worker exiting (pid: 17638)
+[2016-11-18 14:24:44 -0500] [17636] [INFO] Parent changed, shutting down: <Worker 17636>
+[2016-11-18 14:24:44 -0500] [17636] [INFO] Worker exiting (pid: 17636)
+[2016-11-18 14:24:44 -0500] [17637] [INFO] Parent changed, shutting down: <Worker 17637>
+[2016-11-18 14:24:44 -0500] [17631] [DEBUG] Closing connection. 
+[2016-11-18 14:24:44 -0500] [17637] [INFO] Worker exiting (pid: 17637)
+[2016-11-18 14:24:44 -0500] [17631] [INFO] Parent changed, shutting down: <Worker 17631>
+[2016-11-18 14:24:44 -0500] [17631] [INFO] Worker exiting (pid: 17631)
+[2016-11-18 14:24:45 -0500] [18043] [DEBUG] Current configuration:
+  proxy_protocol: False
+  worker_connections: 1000
+  statsd_host: None
+  max_requests_jitter: 0
+  post_fork: <function post_fork at 0x10b674050>
+  pythonpath: None
+  enable_stdio_inheritance: False
+  worker_class: sync
+  ssl_version: 3
+  suppress_ragged_eofs: True
+  syslog: False
+  syslog_facility: user
+  when_ready: <function when_ready at 0x10b66ccf8>
+  pre_fork: <function pre_fork at 0x10b66ce60>
+  cert_reqs: 0
+  preload_app: False
+  keepalive: 2
+  accesslog: None
+  group: 20
+  graceful_timeout: 30
+  do_handshake_on_connect: False
+  spew: False
+  workers: 9
+  proc_name: psiturk_experiment_server
+  sendfile: None
+  pidfile: None
+  umask: 0
+  on_reload: <function on_reload at 0x10b66cb90>
+  pre_exec: <function pre_exec at 0x10b6745f0>
+  worker_tmp_dir: None
+  post_worker_init: <function post_worker_init at 0x10b6741b8>
+  limit_request_fields: 100
+  on_exit: <function on_exit at 0x10b674c80>
+  config: None
+  secure_scheme_headers: {'X-FORWARDED-PROTOCOL': 'ssl', 'X-FORWARDED-PROTO': 'https', 'X-FORWARDED-SSL': 'on'}
+  proxy_allow_ips: ['127.0.0.1']
+  pre_request: <function pre_request at 0x10b674758>
+  post_request: <function post_request at 0x10b674848>
+  user: 501
+  forwarded_allow_ips: ['127.0.0.1']
+  worker_int: <function worker_int at 0x10b674320>
+  threads: 1
+  max_requests: 0
+  limit_request_line: 4094
+  access_log_format: %(h)s %(l)s %(u)s %(t)s "%(r)s" %(s)s %(b)s "%(f)s" "%(a)s"
+  certfile: None
+  worker_exit: <function worker_exit at 0x10b6749b0>
+  chdir: /Users/tobi/Dropbox (MIT)/work/projects/towers/code/javascript/Experiment_3
+  paste: None
+  default_proc_name: gunicorn
+  errorlog: server.log
+  loglevel: debug
+  logconfig: None
+  syslog_addr: unix:///var/run/syslog
+  syslog_prefix: None
+  daemon: False
+  ciphers: TLSv1
+  on_starting: <function on_starting at 0x10b66ca28>
+  worker_abort: <function worker_abort at 0x10b674488>
+  bind: ['0.0.0.0:22362']
+  raw_env: []
+  reload: False
+  check_config: False
+  limit_request_field_size: 8190
+  nworkers_changed: <function nworkers_changed at 0x10b674b18>
+  timeout: 30
+  ca_certs: None
+  django_settings: None
+  tmp_upload_dir: None
+  keyfile: None
+  backlog: 2048
+  logger_class: gunicorn.glogging.Logger
+  statsd_prefix: 
+[2016-11-18 14:24:45 -0500] [18043] [INFO] Starting gunicorn 19.4.5
+[2016-11-18 14:24:45 -0500] [18043] [DEBUG] Arbiter booted
+[2016-11-18 14:24:45 -0500] [18043] [INFO] Listening at: http://0.0.0.0:22362 (18043)
+[2016-11-18 14:24:45 -0500] [18043] [INFO] Using worker: sync
+[2016-11-18 14:24:45 -0500] [18047] [INFO] Booting worker with pid: 18047
+[2016-11-18 14:24:45 -0500] [18048] [INFO] Booting worker with pid: 18048
+[2016-11-18 14:24:45 -0500] [18049] [INFO] Booting worker with pid: 18049
+[2016-11-18 14:24:45 -0500] [18050] [INFO] Booting worker with pid: 18050
+[2016-11-18 14:24:45 -0500] [18051] [INFO] Booting worker with pid: 18051
+[2016-11-18 14:24:45 -0500] [18052] [INFO] Booting worker with pid: 18052
+[2016-11-18 14:24:45 -0500] [18053] [INFO] Booting worker with pid: 18053
+[2016-11-18 14:24:45 -0500] [18054] [INFO] Booting worker with pid: 18054
+[2016-11-18 14:24:45 -0500] [18055] [INFO] Booting worker with pid: 18055
+[2016-11-18 14:24:45 -0500] [18043] [DEBUG] 9 workers
+2016-11-18 14:24:47,069 Hmm... it seems no custom code (custom.py) associated                     with this project.
+2016-11-18 14:24:47,075 /Users/tobi/psiturk/psiturkvn/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2016-11-18 14:24:47,207 Hmm... it seems no custom code (custom.py) associated                     with this project.
+[2016-11-18 14:24:47 -0500] [18047] [DEBUG] Closing connection. 
+2016-11-18 14:24:47,212 /Users/tobi/psiturk/psiturkvn/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2016-11-18 14:24:47,274 Hmm... it seems no custom code (custom.py) associated                     with this project.
+2016-11-18 14:24:47,278 /Users/tobi/psiturk/psiturkvn/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2016-11-18 14:24:47,296 Hmm... it seems no custom code (custom.py) associated                     with this project.
+2016-11-18 14:24:47,297 Hmm... it seems no custom code (custom.py) associated                     with this project.
+2016-11-18 14:24:47,301 /Users/tobi/psiturk/psiturkvn/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2016-11-18 14:24:47,301 /Users/tobi/psiturk/psiturkvn/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2016-11-18 14:24:47,323 Hmm... it seems no custom code (custom.py) associated                     with this project.
+2016-11-18 14:24:47,327 /Users/tobi/psiturk/psiturkvn/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2016-11-18 14:24:47,350 Hmm... it seems no custom code (custom.py) associated                     with this project.
+2016-11-18 14:24:47,355 /Users/tobi/psiturk/psiturkvn/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2016-11-18 14:24:47,373 Hmm... it seems no custom code (custom.py) associated                     with this project.
+2016-11-18 14:24:47,377 /Users/tobi/psiturk/psiturkvn/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2016-11-18 14:24:47,383 Hmm... it seems no custom code (custom.py) associated                     with this project.
+2016-11-18 14:24:47,386 /Users/tobi/psiturk/psiturkvn/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+[2016-11-18 14:53:39 -0500] [26975] [DEBUG] Current configuration:
+  proxy_protocol: False
+  worker_connections: 1000
+  statsd_host: None
+  max_requests_jitter: 0
+  post_fork: <function post_fork at 0x10a91c8c0>
+  pythonpath: None
+  enable_stdio_inheritance: False
+  worker_class: sync
+  ssl_version: 3
+  suppress_ragged_eofs: True
+  syslog: False
+  syslog_facility: user
+  when_ready: <function when_ready at 0x10a91c5f0>
+  pre_fork: <function pre_fork at 0x10a91c758>
+  cert_reqs: 0
+  preload_app: False
+  keepalive: 2
+  accesslog: None
+  group: 20
+  graceful_timeout: 30
+  do_handshake_on_connect: False
+  spew: False
+  workers: 17
+  proc_name: psiturk_experiment_server
+  sendfile: None
+  pidfile: None
+  umask: 0
+  on_reload: <function on_reload at 0x10a91c488>
+  pre_exec: <function pre_exec at 0x10a91ce60>
+  worker_tmp_dir: None
+  post_worker_init: <function post_worker_init at 0x10a91ca28>
+  limit_request_fields: 100
+  on_exit: <function on_exit at 0x10a992050>
+  config: None
+  secure_scheme_headers: {'X-FORWARDED-PROTOCOL': 'ssl', 'X-FORWARDED-PROTO': 'https', 'X-FORWARDED-SSL': 'on'}
+  proxy_allow_ips: ['127.0.0.1']
+  pre_request: <function pre_request at 0x10a922050>
+  post_request: <function post_request at 0x10a922140>
+  user: 501
+  forwarded_allow_ips: ['127.0.0.1']
+  worker_int: <function worker_int at 0x10a91cb90>
+  threads: 1
+  max_requests: 0
+  limit_request_line: 0
+  access_log_format: %(h)s %(l)s %(u)s %(t)s "%(r)s" %(s)s %(b)s "%(f)s" "%(a)s"
+  certfile: None
+  worker_exit: <function worker_exit at 0x10a9222a8>
+  chdir: /Users/liang/Dropbox (MIT)/towers/code/javascript/Experiment_3
+  paste: None
+  default_proc_name: gunicorn
+  errorlog: server.log
+  loglevel: debug
+  logconfig: None
+  syslog_addr: unix:///var/run/syslog
+  syslog_prefix: None
+  daemon: False
+  ciphers: TLSv1
+  on_starting: <function on_starting at 0x10a91c320>
+  worker_abort: <function worker_abort at 0x10a91ccf8>
+  bind: ['0.0.0.0:22362']
+  raw_env: []
+  reload: False
+  check_config: False
+  limit_request_field_size: 8190
+  nworkers_changed: <function nworkers_changed at 0x10a922410>
+  timeout: 30
+  ca_certs: None
+  django_settings: None
+  tmp_upload_dir: None
+  keyfile: None
+  backlog: 2048
+  logger_class: gunicorn.glogging.Logger
+  statsd_prefix: 
+[2016-11-18 14:53:39 -0500] [26975] [INFO] Starting gunicorn 19.4.5
+[2016-11-18 14:53:39 -0500] [26975] [DEBUG] Arbiter booted
+[2016-11-18 14:53:39 -0500] [26975] [INFO] Listening at: http://0.0.0.0:22362 (26975)
+[2016-11-18 14:53:39 -0500] [26975] [INFO] Using worker: sync
+[2016-11-18 14:53:39 -0500] [26979] [INFO] Booting worker with pid: 26979
+[2016-11-18 14:53:39 -0500] [26980] [INFO] Booting worker with pid: 26980
+[2016-11-18 14:53:39 -0500] [26981] [INFO] Booting worker with pid: 26981
+[2016-11-18 14:53:39 -0500] [26982] [INFO] Booting worker with pid: 26982
+2016-11-18 14:53:40,059 Secret key: 'this is my secret key which is hard to guess, i should change this'
+2016-11-18 14:53:40,059 Hmm... it seems no custom code (custom.py) associated                         with this project.
+2016-11-18 14:53:40,067 /usr/local/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2016-11-18 14:53:40,078 Secret key: 'this is my secret key which is hard to guess, i should change this'
+2016-11-18 14:53:40,078 Hmm... it seems no custom code (custom.py) associated                         with this project.
+2016-11-18 14:53:40,080 /usr/local/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+[2016-11-18 14:53:40 -0500] [26983] [INFO] Booting worker with pid: 26983
+2016-11-18 14:53:40,105 Secret key: 'this is my secret key which is hard to guess, i should change this'
+2016-11-18 14:53:40,105 Hmm... it seems no custom code (custom.py) associated                         with this project.
+2016-11-18 14:53:40,107 /usr/local/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+[2016-11-18 14:53:40 -0500] [26984] [INFO] Booting worker with pid: 26984
+2016-11-18 14:53:40,193 Secret key: 'this is my secret key which is hard to guess, i should change this'
+2016-11-18 14:53:40,193 Hmm... it seems no custom code (custom.py) associated                         with this project.
+[2016-11-18 14:53:40 -0500] [26985] [INFO] Booting worker with pid: 26985
+2016-11-18 14:53:40,195 /usr/local/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+[2016-11-18 14:53:40 -0500] [26986] [INFO] Booting worker with pid: 26986
+[2016-11-18 14:53:40 -0500] [26987] [INFO] Booting worker with pid: 26987
+[2016-11-18 14:53:40 -0500] [26988] [INFO] Booting worker with pid: 26988
+2016-11-18 14:53:40,306 Secret key: 'this is my secret key which is hard to guess, i should change this'
+2016-11-18 14:53:40,307 Hmm... it seems no custom code (custom.py) associated                         with this project.
+2016-11-18 14:53:40,309 /usr/local/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+[2016-11-18 14:53:40 -0500] [26989] [INFO] Booting worker with pid: 26989
+2016-11-18 14:53:40,442 Secret key: 'this is my secret key which is hard to guess, i should change this'
+2016-11-18 14:53:40,443 Hmm... it seems no custom code (custom.py) associated                         with this project.
+2016-11-18 14:53:40,445 /usr/local/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2016-11-18 14:53:40,461 Secret key: 'this is my secret key which is hard to guess, i should change this'
+2016-11-18 14:53:40,462 Hmm... it seems no custom code (custom.py) associated                         with this project.
+2016-11-18 14:53:40,463 /usr/local/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+[2016-11-18 14:53:40 -0500] [26990] [INFO] Booting worker with pid: 26990
+2016-11-18 14:53:40,497 Secret key: 'this is my secret key which is hard to guess, i should change this'
+2016-11-18 14:53:40,497 Hmm... it seems no custom code (custom.py) associated                         with this project.
+2016-11-18 14:53:40,499 /usr/local/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2016-11-18 14:53:40,502 Secret key: 'this is my secret key which is hard to guess, i should change this'
+2016-11-18 14:53:40,502 Hmm... it seems no custom code (custom.py) associated                         with this project.
+2016-11-18 14:53:40,504 /usr/local/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2016-11-18 14:53:40,537 Secret key: 'this is my secret key which is hard to guess, i should change this'
+2016-11-18 14:53:40,537 Hmm... it seems no custom code (custom.py) associated                         with this project.
+2016-11-18 14:53:40,539 /usr/local/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+[2016-11-18 14:53:40 -0500] [26991] [INFO] Booting worker with pid: 26991
+2016-11-18 14:53:40,618 Secret key: 'this is my secret key which is hard to guess, i should change this'
+2016-11-18 14:53:40,618 Hmm... it seems no custom code (custom.py) associated                         with this project.
+2016-11-18 14:53:40,620 /usr/local/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+[2016-11-18 14:53:40 -0500] [26992] [INFO] Booting worker with pid: 26992
+2016-11-18 14:53:40,686 Secret key: 'this is my secret key which is hard to guess, i should change this'
+2016-11-18 14:53:40,686 Hmm... it seems no custom code (custom.py) associated                         with this project.
+2016-11-18 14:53:40,688 /usr/local/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+[2016-11-18 14:53:40 -0500] [26993] [INFO] Booting worker with pid: 26993
+[2016-11-18 14:53:40 -0500] [26994] [INFO] Booting worker with pid: 26994
+2016-11-18 14:53:40,789 Secret key: 'this is my secret key which is hard to guess, i should change this'
+2016-11-18 14:53:40,789 Hmm... it seems no custom code (custom.py) associated                         with this project.
+2016-11-18 14:53:40,791 /usr/local/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+[2016-11-18 14:53:40 -0500] [26995] [INFO] Booting worker with pid: 26995
+[2016-11-18 14:53:40 -0500] [26975] [DEBUG] 17 workers
+2016-11-18 14:53:40,836 Secret key: 'this is my secret key which is hard to guess, i should change this'
+2016-11-18 14:53:40,836 Hmm... it seems no custom code (custom.py) associated                         with this project.
+2016-11-18 14:53:40,838 /usr/local/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2016-11-18 14:53:40,911 Secret key: 'this is my secret key which is hard to guess, i should change this'
+2016-11-18 14:53:40,911 Hmm... it seems no custom code (custom.py) associated                         with this project.
+2016-11-18 14:53:40,913 /usr/local/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2016-11-18 14:53:40,971 Secret key: 'this is my secret key which is hard to guess, i should change this'
+2016-11-18 14:53:40,971 Hmm... it seems no custom code (custom.py) associated                         with this project.
+2016-11-18 14:53:40,973 /usr/local/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2016-11-18 14:53:41,002 Secret key: 'this is my secret key which is hard to guess, i should change this'
+2016-11-18 14:53:41,003 Hmm... it seems no custom code (custom.py) associated                         with this project.
+2016-11-18 14:53:41,005 /usr/local/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+[2016-11-18 14:53:41 -0500] [26989] [DEBUG] Closing connection. 
+[2016-11-18 14:53:41 -0500] [26992] [DEBUG] Closing connection. 
+[2016-11-18 14:53:41 -0500] [26990] [DEBUG] Closing connection. 
+[2016-11-18 14:53:41 -0500] [26989] [DEBUG] Closing connection. 
+[2016-11-18 14:53:41 -0500] [26988] [DEBUG] GET /ad
+[2016-11-18 14:53:42 -0500] [26991] [DEBUG] GET /consent
+[2016-11-18 14:53:42 -0500] [26991] [DEBUG] GET /static/js/utils.js
+[2016-11-18 14:53:42 -0500] [26986] [DEBUG] GET /static/css/general.css
+[2016-11-18 14:53:42 -0500] [26990] [DEBUG] GET /ad
+[2016-11-18 14:53:43 -0500] [26995] [DEBUG] GET /exp
+2016-11-18 14:53:43,672 Accessing /exp: debugEF3P8J debugXRXSTU debug173DXY 
+2016-11-18 14:53:43,680 given Counter({(0, 0): 8}) chose (0, 0)
+[2016-11-18 14:53:43 -0500] [26995] [DEBUG] GET /static/lib/jquery.min.js
+[2016-11-18 14:53:43 -0500] [26984] [DEBUG] GET /static/lib/seedrandom.js
+[2016-11-18 14:53:43 -0500] [26983] [DEBUG] GET /static/lib/underscore-min.js
+[2016-11-18 14:53:43 -0500] [26993] [DEBUG] GET /static/lib/backbone-min.js
+[2016-11-18 14:53:43 -0500] [26981] [DEBUG] GET /static/lib/jquery-ui.min.js
+[2016-11-18 14:53:43 -0500] [26994] [DEBUG] GET /static/lib/mustache.js
+[2016-11-18 14:53:43 -0500] [26993] [DEBUG] GET /static/css/jquery-ui.min.css
+[2016-11-18 14:53:43 -0500] [26982] [DEBUG] GET /static/js/task.js
+[2016-11-18 14:53:43 -0500] [26987] [DEBUG] GET /static/js/config.js
+[2016-11-18 14:53:43 -0500] [26985] [DEBUG] GET /static/js/psiturk.js
+[2016-11-18 14:53:43 -0500] [26987] [DEBUG] GET /static/json/stim.json
+[2016-11-18 14:53:43 -0500] [26993] [DEBUG] GET /sync/debug173DXY%3AdebugXRXSTU
+2016-11-18 14:53:43,851 GET /sync route with id: debug173DXY:debugXRXSTU
+[2016-11-18 14:53:43 -0500] [26994] [DEBUG] GET /trial.html
+[2016-11-18 14:53:43 -0500] [26994] [DEBUG] GET /submit.html
+[2016-11-18 14:53:43 -0500] [26994] [DEBUG] GET /physics_world.html
+[2016-11-18 14:53:43 -0500] [26994] [DEBUG] GET /static/images/stimuli/example_tower.png
+[2016-11-18 14:53:43 -0500] [26993] [DEBUG] GET /static/images/stimuli/example_tower_selected.png
+[2016-11-18 14:53:44 -0500] [26984] [DEBUG] GET /physics_world.html
+[2016-11-18 14:53:44 -0500] [26984] [DEBUG] GET /static/lib/brick_interface_exp.js
+[2016-11-18 14:53:44 -0500] [26991] [DEBUG] GET /static/lib/FileSaver.js
+[2016-11-18 14:53:44 -0500] [26993] [DEBUG] GET /static/lib/ivank.js
+[2016-11-18 14:53:44 -0500] [26994] [DEBUG] GET /static/lib/Box2dWeb-2.1.a.3.js
+[2016-11-18 14:53:44 -0500] [26988] [DEBUG] GET /static/lib/canvas-toBlob.js
+[2016-11-18 14:53:44 -0500] [26979] [DEBUG] GET /static/lib/jquery-1.10.2.js
+[2016-11-18 14:53:45 -0500] [26984] [DEBUG] GET /static/images/stimuli/snapshot_0.json
+[2016-11-18 14:53:46 -0500] [26982] [DEBUG] GET /static/images/wallpaper.png
+[2016-11-18 14:53:46 -0500] [26984] [DEBUG] GET /static/images/ground.png
+[2016-11-18 14:53:46 -0500] [26979] [DEBUG] GET /static/images/table_leg.png
+[2016-11-18 14:53:46 -0500] [26982] [DEBUG] GET /static/images/table_top.png
+[2016-11-18 14:53:46 -0500] [26979] [DEBUG] GET /static/images/brick.png
+[2016-11-18 14:53:53 -0500] [26987] [DEBUG] GET /static/images/stimuli/snapshot_1.json
+[2016-11-18 14:53:59 -0500] [26986] [DEBUG] GET /static/images/stimuli/snapshot_2.json
+[2016-11-18 14:53:59 -0500] [26986] [DEBUG] GET /static/images/wallpaper.png
+[2016-11-18 14:53:59 -0500] [26987] [DEBUG] GET /static/images/ground.png
+[2016-11-18 14:53:59 -0500] [26995] [DEBUG] GET /static/images/table_leg.png
+[2016-11-18 14:53:59 -0500] [26989] [DEBUG] GET /static/images/table_top.png
+[2016-11-18 14:53:59 -0500] [26988] [DEBUG] GET /static/images/brick.png
+[2016-11-18 14:54:05 -0500] [26988] [DEBUG] GET /static/images/stimuli/snapshot_3.json
+[2016-11-18 14:54:11 -0500] [26993] [DEBUG] GET /static/images/stimuli/snapshot_4.json
+[2016-11-18 14:54:11 -0500] [26995] [DEBUG] GET /static/images/ground.png
+[2016-11-18 14:54:11 -0500] [26993] [DEBUG] GET /static/images/wallpaper.png
+[2016-11-18 14:54:11 -0500] [26986] [DEBUG] GET /static/images/table_leg.png
+[2016-11-18 14:54:11 -0500] [26984] [DEBUG] GET /static/images/table_top.png
+[2016-11-18 14:54:11 -0500] [26988] [DEBUG] GET /static/images/brick.png
+[2016-11-18 14:54:12 -0500] [26995] [DEBUG] GET /physics_world2.html
+[2016-11-18 14:54:12 -0500] [26989] [DEBUG] GET /static/lib/brick_interface_exp.js
+[2016-11-18 14:54:12 -0500] [26991] [DEBUG] GET /static/lib/canvas-toBlob.js
+[2016-11-18 14:54:12 -0500] [26995] [DEBUG] GET /static/lib/jquery-1.10.2.js
+[2016-11-18 14:54:12 -0500] [26990] [DEBUG] GET /static/lib/Box2dWeb-2.1.a.3.js
+[2016-11-18 14:54:12 -0500] [26983] [DEBUG] GET /static/lib/FileSaver.js
+[2016-11-18 14:54:12 -0500] [26985] [DEBUG] GET /static/lib/ivank.js
+[2016-11-18 14:54:12 -0500] [26990] [DEBUG] GET /static/json/stimuli/5.json
+[2016-11-18 14:54:12 -0500] [26988] [DEBUG] GET /static/images/brick_special.png
+[2016-11-18 14:54:13 -0500] [26985] [DEBUG] GET /static/images/brick_filter.png
+[2016-11-18 14:54:20 -0500] [26994] [DEBUG] GET /physics_world2.html
+[2016-11-18 14:54:20 -0500] [26986] [DEBUG] GET /static/json/stimuli/12.json
+[2016-11-18 14:54:22 -0500] [26981] [DEBUG] GET /physics_world2.html
+[2016-11-18 14:54:23 -0500] [26993] [DEBUG] GET /static/lib/jquery-1.10.2.js
+[2016-11-18 14:54:23 -0500] [26984] [DEBUG] GET /static/lib/canvas-toBlob.js
+[2016-11-18 14:54:23 -0500] [26991] [DEBUG] GET /static/lib/Box2dWeb-2.1.a.3.js
+[2016-11-18 14:54:23 -0500] [26979] [DEBUG] GET /static/lib/brick_interface_exp.js
+[2016-11-18 14:54:23 -0500] [26981] [DEBUG] GET /static/lib/ivank.js
+[2016-11-18 14:54:23 -0500] [26985] [DEBUG] GET /static/lib/FileSaver.js
+[2016-11-18 14:54:23 -0500] [26985] [DEBUG] GET /static/json/stimuli/16.json
+[2016-11-18 14:54:23 -0500] [26992] [DEBUG] GET /static/images/wallpaper.png
+[2016-11-18 14:54:23 -0500] [26991] [DEBUG] GET /static/images/ground.png
+[2016-11-18 14:54:23 -0500] [26990] [DEBUG] GET /static/images/table_leg.png
+[2016-11-18 14:54:23 -0500] [26979] [DEBUG] GET /static/images/table_top.png
+[2016-11-18 14:54:23 -0500] [26991] [DEBUG] GET /static/images/brick_special.png
+[2016-11-18 14:54:23 -0500] [26984] [DEBUG] GET /static/images/brick.png
+[2016-11-18 14:54:23 -0500] [26980] [DEBUG] GET /static/images/brick_filter.png
+[2016-11-18 14:54:26 -0500] [26984] [DEBUG] GET /physics_world2.html
+[2016-11-18 14:54:26 -0500] [26984] [DEBUG] GET /static/json/stimuli/20.json
+[2016-11-18 14:54:34 -0500] [26987] [DEBUG] Closing connection. 
+[2016-11-18 14:54:34 -0500] [26989] [DEBUG] Closing connection. 
+[2016-11-18 14:54:34 -0500] [26987] [DEBUG] Closing connection. 
+[2016-11-18 14:54:34 -0500] [26989] [DEBUG] GET /ppid
+[2016-11-18 14:54:34 -0500] [26992] [INFO] Parent changed, shutting down: <Worker 26992>
+[2016-11-18 14:54:34 -0500] [26984] [INFO] Parent changed, shutting down: <Worker 26984>
+[2016-11-18 14:54:34 -0500] [26994] [INFO] Parent changed, shutting down: <Worker 26994>
+[2016-11-18 14:54:34 -0500] [26990] [INFO] Parent changed, shutting down: <Worker 26990>
+[2016-11-18 14:54:34 -0500] [26980] [DEBUG] Closing connection. 
+[2016-11-18 14:54:34 -0500] [26989] [INFO] Parent changed, shutting down: <Worker 26989>
+[2016-11-18 14:54:34 -0500] [26995] [INFO] Parent changed, shutting down: <Worker 26995>
+[2016-11-18 14:54:34 -0500] [26992] [INFO] Worker exiting (pid: 26992)
+[2016-11-18 14:54:34 -0500] [26988] [INFO] Parent changed, shutting down: <Worker 26988>
+[2016-11-18 14:54:34 -0500] [26994] [INFO] Worker exiting (pid: 26994)
+[2016-11-18 14:54:34 -0500] [26990] [INFO] Worker exiting (pid: 26990)
+[2016-11-18 14:54:34 -0500] [26984] [INFO] Worker exiting (pid: 26984)
+[2016-11-18 14:54:34 -0500] [26980] [INFO] Parent changed, shutting down: <Worker 26980>
+[2016-11-18 14:54:34 -0500] [26989] [INFO] Worker exiting (pid: 26989)
+[2016-11-18 14:54:34 -0500] [26995] [INFO] Worker exiting (pid: 26995)
+[2016-11-18 14:54:34 -0500] [26988] [INFO] Worker exiting (pid: 26988)
+[2016-11-18 14:54:34 -0500] [26980] [INFO] Worker exiting (pid: 26980)
+[2016-11-18 14:54:35 -0500] [26991] [INFO] Parent changed, shutting down: <Worker 26991>
+[2016-11-18 14:54:35 -0500] [26979] [INFO] Parent changed, shutting down: <Worker 26979>
+[2016-11-18 14:54:35 -0500] [26982] [INFO] Parent changed, shutting down: <Worker 26982>
+[2016-11-18 14:54:35 -0500] [26986] [INFO] Parent changed, shutting down: <Worker 26986>
+[2016-11-18 14:54:35 -0500] [26993] [INFO] Parent changed, shutting down: <Worker 26993>
+[2016-11-18 14:54:35 -0500] [26991] [INFO] Worker exiting (pid: 26991)
+[2016-11-18 14:54:35 -0500] [26983] [INFO] Parent changed, shutting down: <Worker 26983>
+[2016-11-18 14:54:35 -0500] [26979] [INFO] Worker exiting (pid: 26979)
+[2016-11-18 14:54:35 -0500] [26982] [INFO] Worker exiting (pid: 26982)
+[2016-11-18 14:54:35 -0500] [26986] [INFO] Worker exiting (pid: 26986)
+[2016-11-18 14:54:35 -0500] [26981] [DEBUG] Closing connection. 
+[2016-11-18 14:54:35 -0500] [26993] [INFO] Worker exiting (pid: 26993)
+[2016-11-18 14:54:35 -0500] [26983] [INFO] Worker exiting (pid: 26983)
+[2016-11-18 14:54:35 -0500] [26981] [INFO] Parent changed, shutting down: <Worker 26981>
+[2016-11-18 14:54:35 -0500] [26981] [INFO] Worker exiting (pid: 26981)
+[2016-11-18 14:54:35 -0500] [26987] [DEBUG] Closing connection. 
+[2016-11-18 14:54:35 -0500] [26985] [INFO] Parent changed, shutting down: <Worker 26985>
+[2016-11-18 14:54:35 -0500] [26985] [INFO] Worker exiting (pid: 26985)
+[2016-11-18 14:54:35 -0500] [26987] [INFO] Parent changed, shutting down: <Worker 26987>
+[2016-11-18 14:54:35 -0500] [26987] [INFO] Worker exiting (pid: 26987)
+2016-11-18 15:16:27,792 Hmm... it seems no custom code (custom.py) associated                     with this project.
+2016-11-18 15:16:27,798 /Users/tobi/psiturk/psiturkvn/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2016-11-18 15:19:09,419 Accessing /exp: 3RDTX9JRTY1NSMLH1ATQJ8Q91X6977 374TNBHA8BVFLPWYVNZE60VFAMQYQ9 ATKG4FI2S5MVL 
+2016-11-18 15:19:09,428 given Counter({(0, 0): 14}) chose (0, 0)
+2016-11-18 15:19:09,451 Starting new HTTPS connection (1): api.psiturk.org
+2016-11-18 15:19:09,719 "GET /api/ad/lookup/3RDTX9JRTY1NSMLH1ATQJ8Q91X6977 HTTP/1.1" 200 3418
+2016-11-18 15:19:11,743 GET /sync route with id: ATKG4FI2S5MVL:374TNBHA8BVFLPWYVNZE60VFAMQYQ9
+2016-11-18 15:19:22,302 Accessing /exp: 3W31J70BASWDLZZ4WOSQP3W3D18KC2 3PW9OPU9PQK130JAHN24WVM2NV2210 A2GB0RI43KU4Z 
+2016-11-18 15:19:22,307 given Counter({(0, 0): 15}) chose (0, 0)
+2016-11-18 15:19:22,311 Starting new HTTPS connection (1): api.psiturk.org
+2016-11-18 15:19:22,424 "GET /api/ad/lookup/3W31J70BASWDLZZ4WOSQP3W3D18KC2 HTTP/1.1" 200 3419
+2016-11-18 15:19:23,715 GET /sync route with id: A2GB0RI43KU4Z:3PW9OPU9PQK130JAHN24WVM2NV2210
+2016-11-18 15:20:02,312 Accessing /exp: 3RDTX9JRTY1NSMLH1ATQJ8Q91X6977 3L4PIM1GQTGFXQBY82OEBQ5K68SYRA A4J4GGMKJ68L0 
+2016-11-18 15:20:02,318 given Counter({(0, 0): 16}) chose (0, 0)
+2016-11-18 15:20:02,322 Starting new HTTPS connection (1): api.psiturk.org
+2016-11-18 15:20:02,452 "GET /api/ad/lookup/3RDTX9JRTY1NSMLH1ATQJ8Q91X6977 HTTP/1.1" 200 3419
+2016-11-18 15:20:03,405 GET /sync route with id: A4J4GGMKJ68L0:3L4PIM1GQTGFXQBY82OEBQ5K68SYRA
+2016-11-18 15:20:46,370 Accessing /exp: 3CMIQF80GNQAGLOYZ2ZKZPG2GMQ6QR 3WMINLGALB3AV6OCAZK3J9OR3GMCA8 A2WCXJZEXXR60A 
+2016-11-18 15:20:46,376 given Counter({(0, 0): 16}) chose (0, 0)
+2016-11-18 15:20:46,381 Starting new HTTPS connection (1): api.psiturk.org
+2016-11-18 15:20:46,538 "GET /api/ad/lookup/3CMIQF80GNQAGLOYZ2ZKZPG2GMQ6QR HTTP/1.1" 200 3418
+2016-11-18 15:20:52,110 GET /sync route with id: A2WCXJZEXXR60A:3WMINLGALB3AV6OCAZK3J9OR3GMCA8
+2016-11-18 15:21:45,567 GET /sync route with id: ARSEUCZ2GZATN:39ASUFLU6X71OHGJH0ICT5ZSPD8EX7
+2016-11-18 15:23:34,730 GET /sync route with id: A1DIGREVLNOXT3:3VD82FOHKQOZXAIDKIPLK48WSXQOCJ
+2016-11-18 15:23:37,424 Accessing /exp: 3R5LWXWHR08WMBEGXT3Y5OPK73GGX0 3MH9DQ757WC7RRIFIQXD91L08B6GUY A149ROBL26JWPJ 
+2016-11-18 15:23:37,432 already_did_exp_hit (1010) {'assignmentId': [u'3MH9DQ757WC7RRIFIQXD91L08B6GUY'], 'workerId': [u'A149ROBL26JWPJ'], 'hitId': [u'3R5LWXWHR08WMBEGXT3Y5OPK73GGX0'], 'mode': [u'live']}
+2016-11-18 15:23:44,302 GET /sync route with id: A7KLTVEIASF4J:35LDD5557A4TG59PZFR6GJWZ26KMKF
+2016-11-18 15:26:55,654 Accessing /exp: 38B7Q9C28G54OM7CI0OYDUQD6MM968 3D3VGR7TA0FEHNEAJHVOLW97X7XR3X A3L0DCUXI7X3A9 
+2016-11-18 15:26:55,660 given Counter({(0, 0): 20}) chose (0, 0)
+2016-11-18 15:26:55,665 Starting new HTTPS connection (1): api.psiturk.org
+2016-11-18 15:26:55,862 "GET /api/ad/lookup/38B7Q9C28G54OM7CI0OYDUQD6MM968 HTTP/1.1" 200 3419
+2016-11-18 15:26:56,419 GET /sync route with id: A3L0DCUXI7X3A9:3D3VGR7TA0FEHNEAJHVOLW97X7XR3X
+2016-11-18 15:27:35,696 Accessing /exp: 3RDTX9JRTY1NSMLH1ATQJ8Q91X6977 35LDD5557A4TG59PZFR6GJWZ26KMKF A7KLTVEIASF4J 
+2016-11-18 15:27:35,701 Starting new HTTPS connection (1): api.psiturk.org
+2016-11-18 15:27:35,809 "GET /api/ad/lookup/3RDTX9JRTY1NSMLH1ATQJ8Q91X6977 HTTP/1.1" 200 3419
+2016-11-18 15:27:36,502 GET /sync route with id: A7KLTVEIASF4J:35LDD5557A4TG59PZFR6GJWZ26KMKF
+2016-11-18 15:28:00,756 PUT /sync route with id: ATKG4FI2S5MVL:374TNBHA8BVFLPWYVNZE60VFAMQYQ9
+2016-11-18 15:28:00,951 saved data for ATKG4FI2S5MVL:374TNBHA8BVFLPWYVNZE60VFAMQYQ9 (current trial: 42)
+2016-11-18 15:28:01,324 Completed experiment ATKG4FI2S5MVL:374TNBHA8BVFLPWYVNZE60VFAMQYQ9
+2016-11-18 15:28:04,232 Submitted experiment for ATKG4FI2S5MVL:374TNBHA8BVFLPWYVNZE60VFAMQYQ9
+2016-11-18 15:29:33,400 Accessing /exp: 38B7Q9C28G54OM7CI0OYDUQD6MM968 39DD6S19JPBQTCGYII6XQQF3XD6EZ4 A3U74S280Z4B0 
+2016-11-18 15:29:33,408 given Counter({(0, 0): 22}) chose (0, 0)
+2016-11-18 15:29:33,411 Starting new HTTPS connection (1): api.psiturk.org
+2016-11-18 15:29:33,523 "GET /api/ad/lookup/38B7Q9C28G54OM7CI0OYDUQD6MM968 HTTP/1.1" 200 3419
+2016-11-18 15:29:35,759 GET /sync route with id: A3U74S280Z4B0:39DD6S19JPBQTCGYII6XQQF3XD6EZ4
+2016-11-18 15:29:36,324 GET /sync route with id: A10A25H4472NHN:38YMOXR4MUZIM2IE1D3SFYT8ZDE6WL
+2016-11-18 15:32:18,903 Accessing /exp: 38B7Q9C28G54OM7CI0OYDUQD6MM968 3PJ71Z61R42C3K492WHJ6IUGT1E19T A34930YXVQ8SUT 
+2016-11-18 15:32:18,928 given Counter({(0, 0): 22}) chose (0, 0)
+2016-11-18 15:32:18,933 Starting new HTTPS connection (1): api.psiturk.org
+2016-11-18 15:32:19,256 "GET /api/ad/lookup/38B7Q9C28G54OM7CI0OYDUQD6MM968 HTTP/1.1" 200 3419
+2016-11-18 15:32:20,789 GET /sync route with id: A34930YXVQ8SUT:3PJ71Z61R42C3K492WHJ6IUGT1E19T
+2016-11-18 15:33:37,848 Submitted experiment for ARSEUCZ2GZATN:39ASUFLU6X71OHGJH0ICT5ZSPD8EX7
+2016-11-18 15:34:01,605 Accessing /exp: 3CMIQF80GNQAGLOYZ2ZKZPG2GMQ6QR 3PMBY0YE273WQNE7IT63NED7XY4C9T A34SUZWGLXIWM8 
+2016-11-18 15:34:01,612 given Counter({(0, 0): 22}) chose (0, 0)
+2016-11-18 15:34:01,616 Starting new HTTPS connection (1): api.psiturk.org
+2016-11-18 15:34:01,802 "GET /api/ad/lookup/3CMIQF80GNQAGLOYZ2ZKZPG2GMQ6QR HTTP/1.1" 200 3419
+2016-11-18 15:35:29,628 Accessing /exp: 3RDTX9JRTY1NSMLH1ATQJ8Q91X6977 35LDD5557A4TG59PZFR6GJWZ26KMKF A7KLTVEIASF4J 
+2016-11-18 15:35:29,631 Starting new HTTPS connection (1): api.psiturk.org
+2016-11-18 15:35:29,765 "GET /api/ad/lookup/3RDTX9JRTY1NSMLH1ATQJ8Q91X6977 HTTP/1.1" 200 3419
+2016-11-18 15:35:30,417 GET /sync route with id: A7KLTVEIASF4J:35LDD5557A4TG59PZFR6GJWZ26KMKF
+2016-11-18 15:36:00,300 Hmm... it seems no custom code (custom.py) associated                     with this project.
+2016-11-18 15:36:00,303 /Users/tobi/psiturk/psiturkvn/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2016-11-18 15:36:39,959 Accessing /exp: 38B7Q9C28G54OM7CI0OYDUQD6MM968 37QW5D2ZRGMCJZKTANQP2NMEZV98SV A2NA2OJT15COZY 
+2016-11-18 15:36:39,962 already_did_exp_hit (1010) {'assignmentId': [u'37QW5D2ZRGMCJZKTANQP2NMEZV98SV'], 'workerId': [u'A2NA2OJT15COZY'], 'hitId': [u'38B7Q9C28G54OM7CI0OYDUQD6MM968'], 'mode': [u'live']}
+2016-11-18 15:37:33,602 Accessing /exp: 3CMIQF80GNQAGLOYZ2ZKZPG2GMQ6QR 320DUZ38G7MYDB7L6RTZ2ZCPRV8JG5 A1QG4WF9ZTZTK2 
+2016-11-18 15:37:33,608 given Counter({(0, 0): 23}) chose (0, 0)
+2016-11-18 15:37:33,629 Starting new HTTPS connection (1): api.psiturk.org
+2016-11-18 15:37:33,880 "GET /api/ad/lookup/3CMIQF80GNQAGLOYZ2ZKZPG2GMQ6QR HTTP/1.1" 200 3419
+2016-11-18 15:37:35,428 GET /sync route with id: A1QG4WF9ZTZTK2:320DUZ38G7MYDB7L6RTZ2ZCPRV8JG5
+2016-11-18 15:38:35,908 Hmm... it seems no custom code (custom.py) associated                     with this project.
+2016-11-18 15:38:35,910 /Users/tobi/psiturk/psiturkvn/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2016-11-18 15:38:37,426 Accessing /exp: 3W31J70BASWDLZZ4WOSQP3W3D18KC2 3BGYGHDBBXK8SL160R2I1EW7F1G22H A30RAYNDOWQ61S 
+2016-11-18 15:38:37,435 given Counter({(0, 0): 24}) chose (0, 0)
+2016-11-18 15:38:37,464 Starting new HTTPS connection (1): api.psiturk.org
+2016-11-18 15:38:37,592 "GET /api/ad/lookup/3W31J70BASWDLZZ4WOSQP3W3D18KC2 HTTP/1.1" 200 3419
+2016-11-18 15:38:38,871 GET /sync route with id: A30RAYNDOWQ61S:3BGYGHDBBXK8SL160R2I1EW7F1G22H
+2016-11-18 15:38:59,015 Accessing /exp: 38B7Q9C28G54OM7CI0OYDUQD6MM968 3H7XDTSHKCRKJV7KDQCERP6XTRHGWX A2ORPKVJKI0EIO 
+2016-11-18 15:38:59,023 given Counter({(0, 0): 25}) chose (0, 0)
+2016-11-18 15:38:59,027 Starting new HTTPS connection (1): api.psiturk.org
+2016-11-18 15:38:59,143 "GET /api/ad/lookup/38B7Q9C28G54OM7CI0OYDUQD6MM968 HTTP/1.1" 200 3419
+2016-11-18 15:38:59,731 GET /sync route with id: A2ORPKVJKI0EIO:3H7XDTSHKCRKJV7KDQCERP6XTRHGWX
+2016-11-18 15:39:02,919 PUT /sync route with id: A2WCXJZEXXR60A:3WMINLGALB3AV6OCAZK3J9OR3GMCA8
+2016-11-18 15:39:02,939 saved data for A2WCXJZEXXR60A:3WMINLGALB3AV6OCAZK3J9OR3GMCA8 (current trial: 42)
+2016-11-18 15:39:04,280 Completed experiment A2WCXJZEXXR60A:3WMINLGALB3AV6OCAZK3J9OR3GMCA8
+2016-11-18 15:39:11,797 Submitted experiment for A2WCXJZEXXR60A:3WMINLGALB3AV6OCAZK3J9OR3GMCA8
+2016-11-18 15:40:05,077 PUT /sync route with id: A2GB0RI43KU4Z:3PW9OPU9PQK130JAHN24WVM2NV2210
+2016-11-18 15:40:05,087 saved data for A2GB0RI43KU4Z:3PW9OPU9PQK130JAHN24WVM2NV2210 (current trial: 42)
+2016-11-18 15:40:05,331 Completed experiment A2GB0RI43KU4Z:3PW9OPU9PQK130JAHN24WVM2NV2210
+2016-11-18 15:40:17,648 Submitted experiment for A2GB0RI43KU4Z:3PW9OPU9PQK130JAHN24WVM2NV2210
+2016-11-18 15:40:22,727 PUT /sync route with id: A3L0DCUXI7X3A9:3D3VGR7TA0FEHNEAJHVOLW97X7XR3X
+2016-11-18 15:40:22,737 saved data for A3L0DCUXI7X3A9:3D3VGR7TA0FEHNEAJHVOLW97X7XR3X (current trial: 42)
+2016-11-18 15:40:22,908 Completed experiment A3L0DCUXI7X3A9:3D3VGR7TA0FEHNEAJHVOLW97X7XR3X
+2016-11-18 15:40:24,879 Submitted experiment for A3L0DCUXI7X3A9:3D3VGR7TA0FEHNEAJHVOLW97X7XR3X
+2016-11-18 15:40:47,616 Accessing /exp: 3RDTX9JRTY1NSMLH1ATQJ8Q91X6977 3PIWWX1FJJ684DXMEXE2ZC45JNPJJ9 A2I6ZS386UJVJE 
+2016-11-18 15:40:47,622 given Counter({(0, 0): 26}) chose (0, 0)
+2016-11-18 15:40:47,627 Starting new HTTPS connection (1): api.psiturk.org
+2016-11-18 15:40:48,084 "GET /api/ad/lookup/3RDTX9JRTY1NSMLH1ATQJ8Q91X6977 HTTP/1.1" 200 3419
+2016-11-18 15:40:49,225 GET /sync route with id: A2I6ZS386UJVJE:3PIWWX1FJJ684DXMEXE2ZC45JNPJJ9
+2016-11-18 15:41:30,740 PUT /sync route with id: A10A25H4472NHN:38YMOXR4MUZIM2IE1D3SFYT8ZDE6WL
+2016-11-18 15:41:30,755 saved data for A10A25H4472NHN:38YMOXR4MUZIM2IE1D3SFYT8ZDE6WL (current trial: 42)
+2016-11-18 15:41:31,235 Completed experiment A10A25H4472NHN:38YMOXR4MUZIM2IE1D3SFYT8ZDE6WL
+2016-11-18 15:41:37,607 Submitted experiment for A10A25H4472NHN:38YMOXR4MUZIM2IE1D3SFYT8ZDE6WL
+2016-11-18 15:42:50,774 Accessing /exp: 38B7Q9C28G54OM7CI0OYDUQD6MM968 35GMH2SV3EHEU82RG9VGAS8ZD93OEC A3RRDLX4HYGGPR 
+2016-11-18 15:42:50,781 given Counter({(0, 0): 27}) chose (0, 0)
+2016-11-18 15:42:50,786 Starting new HTTPS connection (1): api.psiturk.org
+2016-11-18 15:42:50,966 "GET /api/ad/lookup/38B7Q9C28G54OM7CI0OYDUQD6MM968 HTTP/1.1" 200 3419
+2016-11-18 15:42:52,202 GET /sync route with id: A3RRDLX4HYGGPR:35GMH2SV3EHEU82RG9VGAS8ZD93OEC
+2016-11-18 15:44:45,281 Accessing /exp: 3CMIQF80GNQAGLOYZ2ZKZPG2GMQ6QR 3OS46CRSLFZ57DI9B3YWTWAUS4C6VB A2106ZBHRHGX64 
+2016-11-18 15:44:45,287 given Counter({(0, 0): 28}) chose (0, 0)
+2016-11-18 15:44:45,291 Starting new HTTPS connection (1): api.psiturk.org
+2016-11-18 15:44:45,436 "GET /api/ad/lookup/3CMIQF80GNQAGLOYZ2ZKZPG2GMQ6QR HTTP/1.1" 200 3419
+2016-11-18 15:44:46,992 GET /sync route with id: A2106ZBHRHGX64:3OS46CRSLFZ57DI9B3YWTWAUS4C6VB
+2016-11-18 15:49:15,548 Accessing /exp: 3RDTX9JRTY1NSMLH1ATQJ8Q91X6977 358UUM7WRZ3WI6FXLTYEYDLN29JR72 A1R4KVYEV07CAJ 
+2016-11-18 15:49:15,554 given Counter({(0, 0): 29}) chose (0, 0)
+2016-11-18 15:49:15,558 Starting new HTTPS connection (1): api.psiturk.org
+2016-11-18 15:49:15,844 "GET /api/ad/lookup/3RDTX9JRTY1NSMLH1ATQJ8Q91X6977 HTTP/1.1" 200 3419
+2016-11-18 15:49:16,857 GET /sync route with id: A1R4KVYEV07CAJ:358UUM7WRZ3WI6FXLTYEYDLN29JR72
+2016-11-18 15:49:27,052 PUT /sync route with id: A3RRDLX4HYGGPR:35GMH2SV3EHEU82RG9VGAS8ZD93OEC
+2016-11-18 15:49:27,148 saved data for A3RRDLX4HYGGPR:35GMH2SV3EHEU82RG9VGAS8ZD93OEC (current trial: 42)
+2016-11-18 15:49:27,465 Completed experiment A3RRDLX4HYGGPR:35GMH2SV3EHEU82RG9VGAS8ZD93OEC
+2016-11-18 15:49:30,547 Submitted experiment for A3RRDLX4HYGGPR:35GMH2SV3EHEU82RG9VGAS8ZD93OEC
+2016-11-18 15:49:31,415 PUT /sync route with id: A2I6ZS386UJVJE:3PIWWX1FJJ684DXMEXE2ZC45JNPJJ9
+2016-11-18 15:49:31,432 saved data for A2I6ZS386UJVJE:3PIWWX1FJJ684DXMEXE2ZC45JNPJJ9 (current trial: 42)
+2016-11-18 15:49:31,672 Completed experiment A2I6ZS386UJVJE:3PIWWX1FJJ684DXMEXE2ZC45JNPJJ9
+2016-11-18 15:49:44,545 Submitted experiment for A2I6ZS386UJVJE:3PIWWX1FJJ684DXMEXE2ZC45JNPJJ9
+2016-11-18 15:52:03,816 Accessing /exp: 3CMIQF80GNQAGLOYZ2ZKZPG2GMQ6QR 3KYQYYSHYV7922ORKEKW4AQEDX2ODJ A1JXSNKXAXT9OU 
+2016-11-18 15:52:03,823 given Counter({(0, 0): 30}) chose (0, 0)
+2016-11-18 15:52:03,827 Starting new HTTPS connection (1): api.psiturk.org
+2016-11-18 15:52:04,009 "GET /api/ad/lookup/3CMIQF80GNQAGLOYZ2ZKZPG2GMQ6QR HTTP/1.1" 200 3419
+2016-11-18 15:52:05,267 GET /sync route with id: A1JXSNKXAXT9OU:3KYQYYSHYV7922ORKEKW4AQEDX2ODJ
+2016-11-18 15:52:32,847 Accessing /exp: 3R5LWXWHR08WMBEGXT3Y5OPK73GGX0 3U8YCDAGXPGIOU0DNFO5E81VY9BQ00 A1U6A617Q95MTZ 
+2016-11-18 15:52:32,854 given Counter({(0, 0): 31}) chose (0, 0)
+2016-11-18 15:52:32,858 Starting new HTTPS connection (1): api.psiturk.org
+2016-11-18 15:52:32,978 "GET /api/ad/lookup/3R5LWXWHR08WMBEGXT3Y5OPK73GGX0 HTTP/1.1" 200 3418
+2016-11-18 15:52:48,094 GET /sync route with id: A1U6A617Q95MTZ:3U8YCDAGXPGIOU0DNFO5E81VY9BQ00
+2016-11-18 15:55:02,720 Accessing /exp: 3CMIQF80GNQAGLOYZ2ZKZPG2GMQ6QR 3TE3O857308PW5IRFHHJ2M4FRTXR2M A4E1UYPDHE8D8 
+2016-11-18 15:55:02,727 given Counter({(0, 0): 30}) chose (0, 0)
+2016-11-18 15:55:02,731 Starting new HTTPS connection (1): api.psiturk.org
+2016-11-18 15:55:02,848 "GET /api/ad/lookup/3CMIQF80GNQAGLOYZ2ZKZPG2GMQ6QR HTTP/1.1" 200 3419
+2016-11-18 15:55:03,637 GET /sync route with id: A4E1UYPDHE8D8:3TE3O857308PW5IRFHHJ2M4FRTXR2M
+2016-11-18 15:55:33,075 Accessing /exp: 3W31J70BASWDLZZ4WOSQP3W3D18KC2 3WEV0KO0OMSO0UGKRV15OF0FAM6SDL ACRKDBKAS8GM1 
+2016-11-18 15:55:33,100 given Counter({(0, 0): 31}) chose (0, 0)
+2016-11-18 15:55:33,104 Starting new HTTPS connection (1): api.psiturk.org
+2016-11-18 15:55:33,215 "GET /api/ad/lookup/3W31J70BASWDLZZ4WOSQP3W3D18KC2 HTTP/1.1" 200 3419
+2016-11-18 15:55:39,732 PUT /sync route with id: A1R4KVYEV07CAJ:358UUM7WRZ3WI6FXLTYEYDLN29JR72
+2016-11-18 15:55:39,889 saved data for A1R4KVYEV07CAJ:358UUM7WRZ3WI6FXLTYEYDLN29JR72 (current trial: 42)
+2016-11-18 15:55:40,117 Completed experiment A1R4KVYEV07CAJ:358UUM7WRZ3WI6FXLTYEYDLN29JR72
+2016-11-18 15:55:43,007 GET /sync route with id: ACRKDBKAS8GM1:3WEV0KO0OMSO0UGKRV15OF0FAM6SDL
+2016-11-18 15:55:45,139 Submitted experiment for A1R4KVYEV07CAJ:358UUM7WRZ3WI6FXLTYEYDLN29JR72
+2016-11-18 15:56:23,617 PUT /sync route with id: A34SUZWGLXIWM8:3PMBY0YE273WQNE7IT63NED7XY4C9T
+2016-11-18 15:56:24,898 saved data for A34SUZWGLXIWM8:3PMBY0YE273WQNE7IT63NED7XY4C9T (current trial: 42)
+2016-11-18 15:56:26,928 Completed experiment A34SUZWGLXIWM8:3PMBY0YE273WQNE7IT63NED7XY4C9T
+2016-11-18 15:56:31,482 Accessing /exp: debugJAFV4R debugYUHB0X None 
+2016-11-18 15:56:31,487 given Counter({(0, 0): 32}) chose (0, 0)
+2016-11-18 15:56:31,492 Starting new HTTPS connection (1): api.psiturk.org
+2016-11-18 15:56:31,646 "GET /api/ad/lookup/debugJAFV4R HTTP/1.1" 404 285
+2016-11-18 15:56:31,651 hit_not_registered_with_ad_server (1018) {'assignmentId': [u'debugYUHB0X'], 'workerId': [u'None'], 'hitId': [u'debugJAFV4R'], 'mode': [u'live']}
+2016-11-18 15:56:38,370 Submitted experiment for A34SUZWGLXIWM8:3PMBY0YE273WQNE7IT63NED7XY4C9T
+2016-11-18 15:56:44,806 Accessing /exp: 3R5LWXWHR08WMBEGXT3Y5OPK73GGX0 3KRVW3HTZNLR4OMX4O0875N9J0XMSW A3AO2N7BNFDGF3 
+2016-11-18 15:56:44,813 given Counter({(0, 0): 33}) chose (0, 0)
+2016-11-18 15:56:44,818 Starting new HTTPS connection (1): api.psiturk.org
+2016-11-18 15:56:44,937 "GET /api/ad/lookup/3R5LWXWHR08WMBEGXT3Y5OPK73GGX0 HTTP/1.1" 200 3418
+2016-11-18 15:56:51,275 GET /sync route with id: A3AO2N7BNFDGF3:3KRVW3HTZNLR4OMX4O0875N9J0XMSW
+2016-11-18 15:56:53,721 Accessing /exp: 3CMIQF80GNQAGLOYZ2ZKZPG2GMQ6QR 35USIKEBNRGSZ8909CC5JFGH61BN6C A17R9PYLUB516A 
+2016-11-18 15:56:53,729 given Counter({(0, 0): 34}) chose (0, 0)
+2016-11-18 15:56:53,733 Starting new HTTPS connection (1): api.psiturk.org
+2016-11-18 15:56:53,843 "GET /api/ad/lookup/3CMIQF80GNQAGLOYZ2ZKZPG2GMQ6QR HTTP/1.1" 200 3419
+2016-11-18 15:56:55,402 GET /sync route with id: A17R9PYLUB516A:35USIKEBNRGSZ8909CC5JFGH61BN6C
+2016-11-18 15:57:17,747 Accessing /exp: 3RDTX9JRTY1NSMLH1ATQJ8Q91X6977 35LDD5557A4TG59PZFR6GJWZ26KMKF A7KLTVEIASF4J 
+2016-11-18 15:57:17,751 Starting new HTTPS connection (1): api.psiturk.org
+2016-11-18 15:57:17,856 "GET /api/ad/lookup/3RDTX9JRTY1NSMLH1ATQJ8Q91X6977 HTTP/1.1" 200 3419
+2016-11-18 15:57:18,780 GET /sync route with id: A7KLTVEIASF4J:35LDD5557A4TG59PZFR6GJWZ26KMKF
+2016-11-18 15:57:35,670 PUT /sync route with id: A1QG4WF9ZTZTK2:320DUZ38G7MYDB7L6RTZ2ZCPRV8JG5
+2016-11-18 15:57:35,851 saved data for A1QG4WF9ZTZTK2:320DUZ38G7MYDB7L6RTZ2ZCPRV8JG5 (current trial: 42)
+2016-11-18 15:57:36,169 Completed experiment A1QG4WF9ZTZTK2:320DUZ38G7MYDB7L6RTZ2ZCPRV8JG5
+2016-11-18 15:58:04,947 Submitted experiment for A1QG4WF9ZTZTK2:320DUZ38G7MYDB7L6RTZ2ZCPRV8JG5
+2016-11-18 15:58:23,574 Accessing /exp: 3RDTX9JRTY1NSMLH1ATQJ8Q91X6977 3570Y55XZPJO802KSRU2CMRD4ZHGYW AMG9Y1YLBTKIV 
+2016-11-18 15:58:23,580 given Counter({(0, 0): 35}) chose (0, 0)
+2016-11-18 15:58:23,584 Starting new HTTPS connection (1): api.psiturk.org
+2016-11-18 15:58:23,752 "GET /api/ad/lookup/3RDTX9JRTY1NSMLH1ATQJ8Q91X6977 HTTP/1.1" 200 3419
+2016-11-18 15:58:25,379 GET /sync route with id: AMG9Y1YLBTKIV:3570Y55XZPJO802KSRU2CMRD4ZHGYW
+2016-11-18 15:58:33,632 Accessing /exp: 3R5LWXWHR08WMBEGXT3Y5OPK73GGX0 3KRVW3HTZNLR4OMX4O0875N9J0XMSW A3AO2N7BNFDGF3 
+2016-11-18 15:58:33,636 Starting new HTTPS connection (1): api.psiturk.org
+2016-11-18 15:58:33,737 "GET /api/ad/lookup/3R5LWXWHR08WMBEGXT3Y5OPK73GGX0 HTTP/1.1" 200 3418
+2016-11-18 15:58:34,778 GET /sync route with id: A3AO2N7BNFDGF3:3KRVW3HTZNLR4OMX4O0875N9J0XMSW
+2016-11-18 16:00:59,983 Accessing /exp: 3R5LWXWHR08WMBEGXT3Y5OPK73GGX0 37Z929RLG98VHJCHDL1KTJI1D8UST4 A324FQ64NCN2YS 
+2016-11-18 16:00:59,991 given Counter({(0, 0): 36}) chose (0, 0)
+2016-11-18 16:00:59,995 Starting new HTTPS connection (1): api.psiturk.org
+2016-11-18 16:01:00,518 "GET /api/ad/lookup/3R5LWXWHR08WMBEGXT3Y5OPK73GGX0 HTTP/1.1" 200 3418
+2016-11-18 16:01:02,027 GET /sync route with id: A324FQ64NCN2YS:37Z929RLG98VHJCHDL1KTJI1D8UST4
+2016-11-18 16:02:07,988 Accessing /exp: 38B7Q9C28G54OM7CI0OYDUQD6MM968 3SKEMFQBZ35EVG7L5EHNB1V4I1WK8Q AMPMTF5IAAMK8 
+2016-11-18 16:02:07,997 given Counter({(0, 0): 37}) chose (0, 0)
+2016-11-18 16:02:08,003 Starting new HTTPS connection (1): api.psiturk.org
+2016-11-18 16:02:08,183 "GET /api/ad/lookup/38B7Q9C28G54OM7CI0OYDUQD6MM968 HTTP/1.1" 200 3419
+2016-11-18 16:02:11,792 GET /sync route with id: AMPMTF5IAAMK8:3SKEMFQBZ35EVG7L5EHNB1V4I1WK8Q
+2016-11-18 16:02:35,785 PUT /sync route with id: A7KLTVEIASF4J:35LDD5557A4TG59PZFR6GJWZ26KMKF
+2016-11-18 16:02:35,805 saved data for A7KLTVEIASF4J:35LDD5557A4TG59PZFR6GJWZ26KMKF (current trial: 42)
+2016-11-18 16:02:35,951 Completed experiment A7KLTVEIASF4J:35LDD5557A4TG59PZFR6GJWZ26KMKF
+2016-11-18 16:02:38,742 Submitted experiment for A7KLTVEIASF4J:35LDD5557A4TG59PZFR6GJWZ26KMKF
+2016-11-18 16:02:48,967 PUT /sync route with id: A2ORPKVJKI0EIO:3H7XDTSHKCRKJV7KDQCERP6XTRHGWX
+2016-11-18 16:02:48,978 saved data for A2ORPKVJKI0EIO:3H7XDTSHKCRKJV7KDQCERP6XTRHGWX (current trial: 42)
+2016-11-18 16:02:49,124 Completed experiment A2ORPKVJKI0EIO:3H7XDTSHKCRKJV7KDQCERP6XTRHGWX
+2016-11-18 16:02:50,800 Submitted experiment for A2ORPKVJKI0EIO:3H7XDTSHKCRKJV7KDQCERP6XTRHGWX
+2016-11-18 16:03:06,775 PUT /sync route with id: A2106ZBHRHGX64:3OS46CRSLFZ57DI9B3YWTWAUS4C6VB
+2016-11-18 16:03:06,785 saved data for A2106ZBHRHGX64:3OS46CRSLFZ57DI9B3YWTWAUS4C6VB (current trial: 42)
+2016-11-18 16:03:07,198 Completed experiment A2106ZBHRHGX64:3OS46CRSLFZ57DI9B3YWTWAUS4C6VB
+2016-11-18 16:03:14,288 PUT /sync route with id: A30RAYNDOWQ61S:3BGYGHDBBXK8SL160R2I1EW7F1G22H
+2016-11-18 16:03:14,445 saved data for A30RAYNDOWQ61S:3BGYGHDBBXK8SL160R2I1EW7F1G22H (current trial: 42)
+2016-11-18 16:03:14,745 Completed experiment A30RAYNDOWQ61S:3BGYGHDBBXK8SL160R2I1EW7F1G22H
+2016-11-18 16:03:27,339 Accessing /exp: 3RDTX9JRTY1NSMLH1ATQJ8Q91X6977 3DHE4R9OCWBY7F9DZ6N73IQ8PKN2G2 AADRVG2QVZH75 
+2016-11-18 16:03:27,347 given Counter({(0, 0): 38}) chose (0, 0)
+2016-11-18 16:03:27,351 Starting new HTTPS connection (1): api.psiturk.org
+2016-11-18 16:03:27,714 "GET /api/ad/lookup/3RDTX9JRTY1NSMLH1ATQJ8Q91X6977 HTTP/1.1" 200 3419
+2016-11-18 16:03:41,102 Submitted experiment for A2106ZBHRHGX64:3OS46CRSLFZ57DI9B3YWTWAUS4C6VB
+2016-11-18 16:05:03,197 PUT /sync route with id: A3AO2N7BNFDGF3:3KRVW3HTZNLR4OMX4O0875N9J0XMSW
+2016-11-18 16:05:03,279 saved data for A3AO2N7BNFDGF3:3KRVW3HTZNLR4OMX4O0875N9J0XMSW (current trial: 42)
+2016-11-18 16:05:03,534 Completed experiment A3AO2N7BNFDGF3:3KRVW3HTZNLR4OMX4O0875N9J0XMSW
+2016-11-18 16:05:05,665 Submitted experiment for A3AO2N7BNFDGF3:3KRVW3HTZNLR4OMX4O0875N9J0XMSW
+2016-11-18 16:05:44,807 PUT /sync route with id: AMG9Y1YLBTKIV:3570Y55XZPJO802KSRU2CMRD4ZHGYW
+2016-11-18 16:05:44,836 saved data for AMG9Y1YLBTKIV:3570Y55XZPJO802KSRU2CMRD4ZHGYW (current trial: 42)
+2016-11-18 16:05:45,780 Completed experiment AMG9Y1YLBTKIV:3570Y55XZPJO802KSRU2CMRD4ZHGYW
+2016-11-18 16:08:18,233 PUT /sync route with id: A17R9PYLUB516A:35USIKEBNRGSZ8909CC5JFGH61BN6C
+2016-11-18 16:08:18,246 saved data for A17R9PYLUB516A:35USIKEBNRGSZ8909CC5JFGH61BN6C (current trial: 42)
+2016-11-18 16:08:19,413 Completed experiment A17R9PYLUB516A:35USIKEBNRGSZ8909CC5JFGH61BN6C
+2016-11-18 16:08:25,644 Submitted experiment for A17R9PYLUB516A:35USIKEBNRGSZ8909CC5JFGH61BN6C
+2016-11-18 16:09:56,214 PUT /sync route with id: A1U6A617Q95MTZ:3U8YCDAGXPGIOU0DNFO5E81VY9BQ00
+2016-11-18 16:09:56,557 saved data for A1U6A617Q95MTZ:3U8YCDAGXPGIOU0DNFO5E81VY9BQ00 (current trial: 42)
+2016-11-18 16:09:58,016 Completed experiment A1U6A617Q95MTZ:3U8YCDAGXPGIOU0DNFO5E81VY9BQ00
+2016-11-18 16:12:31,490 PUT /sync route with id: A4E1UYPDHE8D8:3TE3O857308PW5IRFHHJ2M4FRTXR2M
+2016-11-18 16:12:31,503 saved data for A4E1UYPDHE8D8:3TE3O857308PW5IRFHHJ2M4FRTXR2M (current trial: 42)
+2016-11-18 16:13:19,833 Submitted experiment for AADRVG2QVZH75:3DHE4R9OCWBY7F9DZ6N73IQ8PKN2G2
+2016-11-18 16:16:25,051 Accessing /exp: 3R5LWXWHR08WMBEGXT3Y5OPK73GGX0 358010RM5ETIQS25CQ7MT9NEP8BVXU AJMETTYO14HBA 
+2016-11-18 16:16:25,059 given Counter({(0, 0): 37}) chose (0, 0)
+2016-11-18 16:16:25,063 Starting new HTTPS connection (1): api.psiturk.org
+2016-11-18 16:16:25,185 "GET /api/ad/lookup/3R5LWXWHR08WMBEGXT3Y5OPK73GGX0 HTTP/1.1" 200 3419
+2016-11-18 16:21:25,794 Accessing /exp: 3RDTX9JRTY1NSMLH1ATQJ8Q91X6977 30LSNF239UVC36F8PUNAOU3O4XGI2B A1R5KAK3MP7GWW 
+2016-11-18 16:21:25,801 given Counter({(0, 0): 37}) chose (0, 0)
+2016-11-18 16:21:25,806 Starting new HTTPS connection (1): api.psiturk.org
+2016-11-18 16:21:25,947 "GET /api/ad/lookup/3RDTX9JRTY1NSMLH1ATQJ8Q91X6977 HTTP/1.1" 200 3419
+2016-11-18 16:21:27,742 GET /sync route with id: A1R5KAK3MP7GWW:30LSNF239UVC36F8PUNAOU3O4XGI2B
+2016-11-18 16:26:30,390 PUT /sync route with id: ACRKDBKAS8GM1:3WEV0KO0OMSO0UGKRV15OF0FAM6SDL
+2016-11-18 16:26:31,859 saved data for ACRKDBKAS8GM1:3WEV0KO0OMSO0UGKRV15OF0FAM6SDL (current trial: 42)
+2016-11-18 16:28:05,939 GET /sync route with id: A1LMXY8R59ZUHU:30LSNF239UVC36F8PUNAOU3O4XGI2B
+2016-11-18 16:30:06,075 Accessing /exp: 3RDTX9JRTY1NSMLH1ATQJ8Q91X6977 3YWRV122CSZSYCCXZSLPHO42KSW8UD A2FXD55FJV1RSV 
+2016-11-18 16:30:06,082 given Counter({(0, 0): 41}) chose (0, 0)
+2016-11-18 16:30:06,086 Starting new HTTPS connection (1): api.psiturk.org
+2016-11-18 16:30:06,308 "GET /api/ad/lookup/3RDTX9JRTY1NSMLH1ATQJ8Q91X6977 HTTP/1.1" 200 3419
+2016-11-18 16:38:58,502 PUT /sync route with id: A7E8THKOFNEHU:324G5B4FB388ICVYRGFZEHK0TJM07F
+2016-11-18 16:38:58,581 saved data for A7E8THKOFNEHU:324G5B4FB388ICVYRGFZEHK0TJM07F (current trial: 42)
+2016-11-18 16:44:43,039 GET /sync route with id: A10XW6SNPNQX16:3M81GAB8A0JJ8H3NLVLUYPXEPDABQ9
+2016-11-18 16:48:00,318 Submitted experiment for A1IKK576F8WY0N:32VNZTT0A74ZZJXEJV07V11DB7V4RX
+2016-11-18 16:53:54,470 Hmm... it seems no custom code (custom.py) associated                     with this project.
+2016-11-18 16:53:54,473 /Users/tobi/psiturk/psiturkvn/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2016-11-18 16:55:11,106 PUT /sync route with id: A64JDJKE9DYCT:3HWRJOOET52TS0UKNQCPUXI0AY4SEB
+2016-11-18 16:55:11,123 saved data for A64JDJKE9DYCT:3HWRJOOET52TS0UKNQCPUXI0AY4SEB (current trial: 42)
+2016-11-18 16:55:11,583 Completed experiment A64JDJKE9DYCT:3HWRJOOET52TS0UKNQCPUXI0AY4SEB
+2016-11-18 16:55:22,337 Submitted experiment for A64JDJKE9DYCT:3HWRJOOET52TS0UKNQCPUXI0AY4SEB
+2016-11-18 17:02:55,895 PUT /sync route with id: A1BXEU20OCUGVZ:369J354OFDAMPGSEM8ZATV7K5PR6GP
+2016-11-18 17:02:55,956 saved data for A1BXEU20OCUGVZ:369J354OFDAMPGSEM8ZATV7K5PR6GP (current trial: 42)
+2016-11-18 17:02:56,141 Completed experiment A1BXEU20OCUGVZ:369J354OFDAMPGSEM8ZATV7K5PR6GP
+2016-11-18 17:03:17,696 PUT /sync route with id: A10XW6SNPNQX16:3M81GAB8A0JJ8H3NLVLUYPXEPDABQ9
+2016-11-18 17:03:17,820 saved data for A10XW6SNPNQX16:3M81GAB8A0JJ8H3NLVLUYPXEPDABQ9 (current trial: 42)
+2016-11-18 17:03:18,313 Completed experiment A10XW6SNPNQX16:3M81GAB8A0JJ8H3NLVLUYPXEPDABQ9
+2016-11-18 17:03:25,520 Submitted experiment for A10XW6SNPNQX16:3M81GAB8A0JJ8H3NLVLUYPXEPDABQ9
+2016-11-18 17:03:57,461 Submitted experiment for A1BXEU20OCUGVZ:369J354OFDAMPGSEM8ZATV7K5PR6GP
+[2016-11-21 16:46:38 -0500] [12990] [DEBUG] Current configuration:
+  proxy_protocol: False
+  worker_connections: 1000
+  statsd_host: None
+  max_requests_jitter: 0
+  post_fork: <function post_fork at 0x1084e3668>
+  pythonpath: None
+  enable_stdio_inheritance: False
+  worker_class: sync
+  ssl_version: 3
+  suppress_ragged_eofs: True
+  syslog: False
+  syslog_facility: user
+  when_ready: <function when_ready at 0x1084e3398>
+  pre_fork: <function pre_fork at 0x1084e3500>
+  cert_reqs: 0
+  preload_app: False
+  keepalive: 2
+  accesslog: None
+  group: 20
+  graceful_timeout: 30
+  do_handshake_on_connect: False
+  spew: False
+  workers: 9
+  proc_name: psiturk_experiment_server
+  sendfile: None
+  pidfile: None
+  umask: 0
+  on_reload: <function on_reload at 0x1084e3230>
+  pre_exec: <function pre_exec at 0x1084e3c08>
+  worker_tmp_dir: None
+  post_worker_init: <function post_worker_init at 0x1084e37d0>
+  limit_request_fields: 100
+  on_exit: <function on_exit at 0x10854c140>
+  config: None
+  secure_scheme_headers: {'X-FORWARDED-PROTOCOL': 'ssl', 'X-FORWARDED-PROTO': 'https', 'X-FORWARDED-SSL': 'on'}
+  proxy_allow_ips: ['127.0.0.1']
+  pre_request: <function pre_request at 0x1084e3d70>
+  post_request: <function post_request at 0x1084e3e60>
+  user: 501
+  forwarded_allow_ips: ['127.0.0.1']
+  worker_int: <function worker_int at 0x1084e3938>
+  threads: 1
+  max_requests: 0
+  limit_request_line: 0
+  access_log_format: %(h)s %(l)s %(u)s %(t)s "%(r)s" %(s)s %(b)s "%(f)s" "%(a)s"
+  certfile: None
+  worker_exit: <function worker_exit at 0x1084e7050>
+  chdir: /Users/tobi/Dropbox (MIT)/work/projects/towers/code/javascript/Experiment_3
+  paste: None
+  default_proc_name: gunicorn
+  errorlog: server.log
+  loglevel: debug
+  logconfig: None
+  syslog_addr: unix:///var/run/syslog
+  syslog_prefix: None
+  daemon: False
+  ciphers: TLSv1
+  on_starting: <function on_starting at 0x1084e30c8>
+  worker_abort: <function worker_abort at 0x1084e3aa0>
+  bind: ['0.0.0.0:22362']
+  raw_env: []
+  reload: False
+  check_config: False
+  limit_request_field_size: 8190
+  nworkers_changed: <function nworkers_changed at 0x1084e71b8>
+  timeout: 30
+  ca_certs: None
+  django_settings: None
+  tmp_upload_dir: None
+  keyfile: None
+  backlog: 2048
+  logger_class: gunicorn.glogging.Logger
+  statsd_prefix: 
+[2016-11-21 16:46:38 -0500] [12990] [INFO] Starting gunicorn 19.4.5
+[2016-11-21 16:46:38 -0500] [12990] [DEBUG] Arbiter booted
+[2016-11-21 16:46:38 -0500] [12990] [INFO] Listening at: http://0.0.0.0:22362 (12990)
+[2016-11-21 16:46:38 -0500] [12990] [INFO] Using worker: sync
+[2016-11-21 16:46:38 -0500] [12996] [INFO] Booting worker with pid: 12996
+[2016-11-21 16:46:38 -0500] [13001] [INFO] Booting worker with pid: 13001
+[2016-11-21 16:46:38 -0500] [13002] [INFO] Booting worker with pid: 13002
+[2016-11-21 16:46:38 -0500] [13003] [INFO] Booting worker with pid: 13003
+[2016-11-21 16:46:38 -0500] [13004] [INFO] Booting worker with pid: 13004
+[2016-11-21 16:46:38 -0500] [13005] [INFO] Booting worker with pid: 13005
+[2016-11-21 16:46:38 -0500] [13006] [INFO] Booting worker with pid: 13006
+[2016-11-21 16:46:38 -0500] [13007] [INFO] Booting worker with pid: 13007
+[2016-11-21 16:46:38 -0500] [13008] [INFO] Booting worker with pid: 13008
+[2016-11-21 16:46:38 -0500] [12990] [DEBUG] 9 workers
+2016-11-21 16:46:38,861 Secret key: 'this is my secret key which is hard to guess, i should change this'
+2016-11-21 16:46:38,863 Hmm... it seems no custom code (custom.py) associated                         with this project.
+2016-11-21 16:46:38,940 Secret key: 'this is my secret key which is hard to guess, i should change this'
+2016-11-21 16:46:38,941 Hmm... it seems no custom code (custom.py) associated                         with this project.
+2016-11-21 16:46:38,947 /usr/local/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2016-11-21 16:46:38,988 /usr/local/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2016-11-21 16:46:39,019 Secret key: 'this is my secret key which is hard to guess, i should change this'
+2016-11-21 16:46:39,020 Hmm... it seems no custom code (custom.py) associated                         with this project.
+2016-11-21 16:46:39,023 /usr/local/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2016-11-21 16:46:39,221 Secret key: 'this is my secret key which is hard to guess, i should change this'
+2016-11-21 16:46:39,222 Hmm... it seems no custom code (custom.py) associated                         with this project.
+2016-11-21 16:46:39,226 /usr/local/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2016-11-21 16:46:39,231 Secret key: 'this is my secret key which is hard to guess, i should change this'
+2016-11-21 16:46:39,233 Hmm... it seems no custom code (custom.py) associated                         with this project.
+2016-11-21 16:46:39,235 Secret key: 'this is my secret key which is hard to guess, i should change this'
+2016-11-21 16:46:39,235 Hmm... it seems no custom code (custom.py) associated                         with this project.
+2016-11-21 16:46:39,238 /usr/local/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2016-11-21 16:46:39,239 /usr/local/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2016-11-21 16:46:39,239 Secret key: 'this is my secret key which is hard to guess, i should change this'
+2016-11-21 16:46:39,240 Hmm... it seems no custom code (custom.py) associated                         with this project.
+2016-11-21 16:46:39,243 /usr/local/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+[2016-11-21 16:46:39 -0500] [13001] [DEBUG] Closing connection. 
+2016-11-21 16:46:39,303 Secret key: 'this is my secret key which is hard to guess, i should change this'
+2016-11-21 16:46:39,303 Hmm... it seems no custom code (custom.py) associated                         with this project.
+2016-11-21 16:46:39,306 /usr/local/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2016-11-21 16:46:39,316 Secret key: 'this is my secret key which is hard to guess, i should change this'
+2016-11-21 16:46:39,316 Hmm... it seems no custom code (custom.py) associated                         with this project.
+2016-11-21 16:46:39,318 /usr/local/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+[2016-11-21 16:46:41 -0500] [13008] [DEBUG] Closing connection. 
+[2016-11-21 16:46:41 -0500] [13008] [DEBUG] Closing connection. 
+[2016-11-21 16:46:41 -0500] [13008] [DEBUG] Closing connection. 
+[2016-11-21 16:46:41 -0500] [13008] [DEBUG] GET /ad
+[2016-11-21 16:46:43 -0500] [12996] [DEBUG] GET /consent
+[2016-11-21 16:46:43 -0500] [12996] [DEBUG] GET /static/js/utils.js
+[2016-11-21 16:46:44 -0500] [12996] [DEBUG] GET /static/css/general.css
+[2016-11-21 16:46:45 -0500] [13004] [DEBUG] GET /exp
+2016-11-21 16:46:45,460 Accessing /exp: debug3129UA debugUHV9NC debug0L5HIG 
+2016-11-21 16:46:45,487 given Counter({(0, 0): 38}) chose (0, 0)
+[2016-11-21 16:46:45 -0500] [13003] [DEBUG] GET /static/lib/jquery.min.js
+[2016-11-21 16:46:45 -0500] [13004] [DEBUG] GET /static/lib/seedrandom.js
+[2016-11-21 16:46:45 -0500] [12996] [DEBUG] GET /static/lib/underscore-min.js
+[2016-11-21 16:46:45 -0500] [13006] [DEBUG] GET /static/lib/backbone-min.js
+[2016-11-21 16:46:45 -0500] [13005] [DEBUG] GET /static/lib/jquery-ui.min.js
+[2016-11-21 16:46:45 -0500] [13007] [DEBUG] GET /static/lib/mustache.js
+[2016-11-21 16:46:45 -0500] [13001] [DEBUG] GET /static/css/jquery-ui.min.css
+[2016-11-21 16:46:45 -0500] [13001] [DEBUG] GET /static/js/config.js
+[2016-11-21 16:46:45 -0500] [13005] [DEBUG] GET /static/js/psiturk.js
+[2016-11-21 16:46:45 -0500] [13007] [DEBUG] GET /static/js/task.js
+[2016-11-21 16:46:46 -0500] [13007] [DEBUG] GET /static/json/stim.json
+[2016-11-21 16:46:46 -0500] [13008] [DEBUG] GET /sync/debug0L5HIG%3AdebugUHV9NC
+2016-11-21 16:46:46,061 GET /sync route with id: debug0L5HIG:debugUHV9NC
+[2016-11-21 16:46:46 -0500] [13007] [DEBUG] GET /trial.html
+[2016-11-21 16:46:46 -0500] [13007] [DEBUG] GET /submit.html
+[2016-11-21 16:46:46 -0500] [13008] [DEBUG] GET /physics_world.html
+[2016-11-21 16:46:46 -0500] [13008] [DEBUG] GET /static/images/stimuli/example_tower.png
+[2016-11-21 16:46:46 -0500] [13005] [DEBUG] GET /static/images/stimuli/example_tower_selected.png
+[2016-11-21 16:46:47 -0500] [13005] [DEBUG] GET /physics_world.html
+[2016-11-21 16:46:47 -0500] [13005] [DEBUG] GET /static/lib/Box2dWeb-2.1.a.3.js
+[2016-11-21 16:46:47 -0500] [13003] [DEBUG] GET /static/lib/ivank.js
+[2016-11-21 16:46:47 -0500] [12996] [DEBUG] GET /static/lib/brick_interface_exp.js
+[2016-11-21 16:46:47 -0500] [13006] [DEBUG] GET /static/lib/jquery-1.10.2.js
+[2016-11-21 16:46:47 -0500] [13008] [DEBUG] GET /static/lib/FileSaver.js
+[2016-11-21 16:46:47 -0500] [13007] [DEBUG] GET /static/lib/canvas-toBlob.js
+[2016-11-21 16:46:49 -0500] [13006] [DEBUG] GET /static/images/stimuli/snapshot_0.json
+[2016-11-21 16:46:49 -0500] [12996] [DEBUG] GET /static/images/wallpaper.png
+[2016-11-21 16:46:49 -0500] [13003] [DEBUG] GET /static/images/ground.png
+[2016-11-21 16:46:49 -0500] [13008] [DEBUG] GET /static/images/table_leg.png
+[2016-11-21 16:46:49 -0500] [13004] [DEBUG] GET /static/images/brick.png
+[2016-11-21 16:46:49 -0500] [13005] [DEBUG] GET /static/images/table_top.png
+[2016-11-21 16:46:58 -0500] [13005] [DEBUG] Closing connection. 
+[2016-11-21 16:46:59 -0500] [13005] [DEBUG] Closing connection. 
+[2016-11-21 16:46:59 -0500] [13003] [DEBUG] Closing connection. 
+[2016-11-21 16:46:59 -0500] [13008] [DEBUG] GET /ppid
+[2016-11-21 16:46:59 -0500] [13005] [INFO] Parent changed, shutting down: <Worker 13005>
+[2016-11-21 16:46:59 -0500] [13008] [DEBUG] Closing connection. 
+[2016-11-21 16:46:59 -0500] [13004] [INFO] Parent changed, shutting down: <Worker 13004>
+[2016-11-21 16:46:59 -0500] [12996] [INFO] Parent changed, shutting down: <Worker 12996>
+[2016-11-21 16:46:59 -0500] [13005] [INFO] Worker exiting (pid: 13005)
+[2016-11-21 16:46:59 -0500] [13008] [INFO] Parent changed, shutting down: <Worker 13008>
+[2016-11-21 16:46:59 -0500] [12996] [INFO] Worker exiting (pid: 12996)
+[2016-11-21 16:46:59 -0500] [13004] [INFO] Worker exiting (pid: 13004)
+[2016-11-21 16:46:59 -0500] [13008] [INFO] Worker exiting (pid: 13008)
+[2016-11-21 16:47:00 -0500] [13003] [INFO] Parent changed, shutting down: <Worker 13003>
+[2016-11-21 16:47:00 -0500] [13002] [DEBUG] Closing connection. 
+[2016-11-21 16:47:00 -0500] [13003] [INFO] Worker exiting (pid: 13003)
+[2016-11-21 16:47:00 -0500] [13002] [INFO] Parent changed, shutting down: <Worker 13002>
+[2016-11-21 16:47:00 -0500] [13002] [INFO] Worker exiting (pid: 13002)
+[2016-11-21 16:47:00 -0500] [13001] [INFO] Parent changed, shutting down: <Worker 13001>
+[2016-11-21 16:47:00 -0500] [13001] [INFO] Worker exiting (pid: 13001)
+[2016-11-21 16:47:00 -0500] [13006] [INFO] Parent changed, shutting down: <Worker 13006>
+[2016-11-21 16:47:00 -0500] [13007] [DEBUG] Closing connection. 
+[2016-11-21 16:47:00 -0500] [13006] [INFO] Worker exiting (pid: 13006)
+[2016-11-21 16:47:00 -0500] [13007] [INFO] Parent changed, shutting down: <Worker 13007>
+[2016-11-21 16:47:00 -0500] [13007] [INFO] Worker exiting (pid: 13007)
+[2016-11-22 14:58:20 -0500] [9338] [DEBUG] Current configuration:
+  proxy_protocol: False
+  worker_connections: 1000
+  statsd_host: None
+  max_requests_jitter: 0
+  post_fork: <function post_fork at 0x10ca3f668>
+  pythonpath: None
+  enable_stdio_inheritance: False
+  worker_class: sync
+  ssl_version: 3
+  suppress_ragged_eofs: True
+  syslog: False
+  syslog_facility: user
+  when_ready: <function when_ready at 0x10ca3f398>
+  pre_fork: <function pre_fork at 0x10ca3f500>
+  cert_reqs: 0
+  preload_app: False
+  keepalive: 2
+  accesslog: None
+  group: 20
+  graceful_timeout: 30
+  do_handshake_on_connect: False
+  spew: False
+  workers: 9
+  proc_name: psiturk_experiment_server
+  sendfile: None
+  pidfile: None
+  umask: 0
+  on_reload: <function on_reload at 0x10ca3f230>
+  pre_exec: <function pre_exec at 0x10ca3fc08>
+  worker_tmp_dir: None
+  post_worker_init: <function post_worker_init at 0x10ca3f7d0>
+  limit_request_fields: 100
+  on_exit: <function on_exit at 0x10caa8140>
+  config: None
+  secure_scheme_headers: {'X-FORWARDED-PROTOCOL': 'ssl', 'X-FORWARDED-PROTO': 'https', 'X-FORWARDED-SSL': 'on'}
+  proxy_allow_ips: ['127.0.0.1']
+  pre_request: <function pre_request at 0x10ca3fd70>
+  post_request: <function post_request at 0x10ca3fe60>
+  user: 501
+  forwarded_allow_ips: ['127.0.0.1']
+  worker_int: <function worker_int at 0x10ca3f938>
+  threads: 1
+  max_requests: 0
+  limit_request_line: 0
+  access_log_format: %(h)s %(l)s %(u)s %(t)s "%(r)s" %(s)s %(b)s "%(f)s" "%(a)s"
+  certfile: None
+  worker_exit: <function worker_exit at 0x10ca43050>
+  chdir: /Users/tobi/Dropbox (MIT)/work/projects/towers/code/javascript/Experiment_3
+  paste: None
+  default_proc_name: gunicorn
+  errorlog: server.log
+  loglevel: debug
+  logconfig: None
+  syslog_addr: unix:///var/run/syslog
+  syslog_prefix: None
+  daemon: False
+  ciphers: TLSv1
+  on_starting: <function on_starting at 0x10ca3f0c8>
+  worker_abort: <function worker_abort at 0x10ca3faa0>
+  bind: ['0.0.0.0:22362']
+  raw_env: []
+  reload: False
+  check_config: False
+  limit_request_field_size: 8190
+  nworkers_changed: <function nworkers_changed at 0x10ca431b8>
+  timeout: 30
+  ca_certs: None
+  django_settings: None
+  tmp_upload_dir: None
+  keyfile: None
+  backlog: 2048
+  logger_class: gunicorn.glogging.Logger
+  statsd_prefix: 
+[2016-11-22 14:58:20 -0500] [9338] [INFO] Starting gunicorn 19.4.5
+[2016-11-22 14:58:20 -0500] [9338] [DEBUG] Arbiter booted
+[2016-11-22 14:58:20 -0500] [9338] [INFO] Listening at: http://0.0.0.0:22362 (9338)
+[2016-11-22 14:58:20 -0500] [9338] [INFO] Using worker: sync
+[2016-11-22 14:58:20 -0500] [9346] [INFO] Booting worker with pid: 9346
+[2016-11-22 14:58:20 -0500] [9348] [INFO] Booting worker with pid: 9348
+[2016-11-22 14:58:20 -0500] [9350] [INFO] Booting worker with pid: 9350
+[2016-11-22 14:58:20 -0500] [9351] [INFO] Booting worker with pid: 9351
+[2016-11-22 14:58:20 -0500] [9352] [INFO] Booting worker with pid: 9352
+[2016-11-22 14:58:20 -0500] [9353] [INFO] Booting worker with pid: 9353
+[2016-11-22 14:58:20 -0500] [9354] [INFO] Booting worker with pid: 9354
+[2016-11-22 14:58:20 -0500] [9355] [INFO] Booting worker with pid: 9355
+[2016-11-22 14:58:21 -0500] [9356] [INFO] Booting worker with pid: 9356
+[2016-11-22 14:58:21 -0500] [9338] [DEBUG] 9 workers
+2016-11-22 14:58:21,309 Secret key: 'this is my secret key which is hard to guess, i should change this'
+2016-11-22 14:58:21,310 Hmm... it seems no custom code (custom.py) associated                         with this project.
+2016-11-22 14:58:21,313 /usr/local/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2016-11-22 14:58:21,410 Secret key: 'this is my secret key which is hard to guess, i should change this'
+2016-11-22 14:58:21,411 Hmm... it seems no custom code (custom.py) associated                         with this project.
+2016-11-22 14:58:21,415 /usr/local/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2016-11-22 14:58:21,515 Secret key: 'this is my secret key which is hard to guess, i should change this'
+2016-11-22 14:58:21,516 Hmm... it seems no custom code (custom.py) associated                         with this project.
+2016-11-22 14:58:21,520 /usr/local/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2016-11-22 14:58:21,626 Secret key: 'this is my secret key which is hard to guess, i should change this'
+2016-11-22 14:58:21,626 Hmm... it seems no custom code (custom.py) associated                         with this project.
+2016-11-22 14:58:21,630 /usr/local/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2016-11-22 14:58:21,657 Secret key: 'this is my secret key which is hard to guess, i should change this'
+2016-11-22 14:58:21,659 Hmm... it seems no custom code (custom.py) associated                         with this project.
+2016-11-22 14:58:21,666 /usr/local/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2016-11-22 14:58:21,740 Secret key: 'this is my secret key which is hard to guess, i should change this'
+2016-11-22 14:58:21,740 Hmm... it seems no custom code (custom.py) associated                         with this project.
+2016-11-22 14:58:21,744 /usr/local/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2016-11-22 14:58:21,760 Secret key: 'this is my secret key which is hard to guess, i should change this'
+2016-11-22 14:58:21,761 Hmm... it seems no custom code (custom.py) associated                         with this project.
+2016-11-22 14:58:21,764 /usr/local/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2016-11-22 14:58:21,799 Secret key: 'this is my secret key which is hard to guess, i should change this'
+2016-11-22 14:58:21,800 Hmm... it seems no custom code (custom.py) associated                         with this project.
+2016-11-22 14:58:21,801 Secret key: 'this is my secret key which is hard to guess, i should change this'
+2016-11-22 14:58:21,801 Hmm... it seems no custom code (custom.py) associated                         with this project.
+2016-11-22 14:58:21,804 /usr/local/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2016-11-22 14:58:21,804 /usr/local/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+[2016-11-22 14:58:21 -0500] [9350] [DEBUG] Closing connection. 
+[2016-11-22 14:58:23 -0500] [9355] [DEBUG] Closing connection. 
+[2016-11-22 14:58:23 -0500] [9348] [DEBUG] Closing connection. 
+[2016-11-22 14:58:23 -0500] [9352] [DEBUG] Closing connection. 
+[2016-11-22 14:58:23 -0500] [9348] [DEBUG] GET /ad
+[2016-11-22 14:58:25 -0500] [9355] [DEBUG] GET /consent
+[2016-11-22 14:58:25 -0500] [9353] [DEBUG] GET /static/js/utils.js
+[2016-11-22 14:58:25 -0500] [9351] [DEBUG] GET /static/css/general.css
+[2016-11-22 14:58:26 -0500] [9346] [DEBUG] GET /exp
+2016-11-22 14:58:26,872 Accessing /exp: debugSJN39B debugLQ3G3Z debugYJAOAH 
+2016-11-22 14:58:26,883 given Counter({(0, 0): 38}) chose (0, 0)
+[2016-11-22 14:58:27 -0500] [9356] [DEBUG] GET /static/lib/seedrandom.js
+[2016-11-22 14:58:27 -0500] [9346] [DEBUG] GET /static/lib/jquery.min.js
+[2016-11-22 14:58:27 -0500] [9351] [DEBUG] GET /static/lib/underscore-min.js
+[2016-11-22 14:58:27 -0500] [9353] [DEBUG] GET /static/lib/backbone-min.js
+[2016-11-22 14:58:27 -0500] [9354] [DEBUG] GET /static/lib/jquery-ui.min.js
+[2016-11-22 14:58:27 -0500] [9348] [DEBUG] GET /static/lib/mustache.js
+[2016-11-22 14:58:27 -0500] [9350] [DEBUG] GET /static/css/jquery-ui.min.css
+[2016-11-22 14:58:27 -0500] [9352] [DEBUG] GET /static/js/config.js
+[2016-11-22 14:58:27 -0500] [9351] [DEBUG] GET /static/js/psiturk.js
+[2016-11-22 14:58:27 -0500] [9351] [DEBUG] GET /static/js/task.js
+[2016-11-22 14:58:27 -0500] [9352] [DEBUG] GET /static/json/stim.json
+[2016-11-22 14:58:27 -0500] [9354] [DEBUG] GET /sync/debugYJAOAH%3AdebugLQ3G3Z
+2016-11-22 14:58:27,396 GET /sync route with id: debugYJAOAH:debugLQ3G3Z
+[2016-11-22 14:58:27 -0500] [9352] [DEBUG] GET /trial.html
+[2016-11-22 14:58:27 -0500] [9353] [DEBUG] GET /submit.html
+[2016-11-22 14:58:27 -0500] [9354] [DEBUG] GET /physics_world.html
+[2016-11-22 14:58:27 -0500] [9346] [DEBUG] GET /static/images/stimuli/example_tower.png
+[2016-11-22 14:58:27 -0500] [9348] [DEBUG] GET /static/images/stimuli/example_tower_selected.png
+[2016-11-22 14:58:34 -0500] [9353] [DEBUG] GET /physics_world.html
+[2016-11-22 14:58:34 -0500] [9353] [DEBUG] GET /static/lib/Box2dWeb-2.1.a.3.js
+[2016-11-22 14:58:34 -0500] [9346] [DEBUG] GET /static/lib/canvas-toBlob.js
+[2016-11-22 14:58:34 -0500] [9348] [DEBUG] GET /static/lib/ivank.js
+[2016-11-22 14:58:34 -0500] [9355] [DEBUG] GET /static/lib/FileSaver.js
+[2016-11-22 14:58:34 -0500] [9352] [DEBUG] GET /static/lib/brick_interface_exp.js
+[2016-11-22 14:58:34 -0500] [9354] [DEBUG] GET /static/lib/jquery-1.10.2.js
+[2016-11-22 14:58:35 -0500] [9355] [DEBUG] GET /static/images/stimuli/snapshot_0.json
+[2016-11-22 14:58:35 -0500] [9355] [DEBUG] GET /static/images/wallpaper.png
+[2016-11-22 14:58:35 -0500] [9354] [DEBUG] GET /static/images/ground.png
+[2016-11-22 14:58:35 -0500] [9350] [DEBUG] GET /static/images/table_leg.png
+[2016-11-22 14:58:35 -0500] [9353] [DEBUG] GET /static/images/table_top.png
+[2016-11-22 14:58:35 -0500] [9346] [DEBUG] GET /static/images/brick.png
+[2016-11-22 14:58:41 -0500] [9350] [DEBUG] GET /static/images/stimuli/snapshot_1.json
+[2016-11-22 14:58:47 -0500] [9350] [DEBUG] GET /static/images/stimuli/snapshot_2.json
+[2016-11-22 14:58:54 -0500] [9348] [DEBUG] GET /static/images/stimuli/snapshot_3.json
+[2016-11-22 14:59:00 -0500] [9346] [DEBUG] GET /static/images/stimuli/snapshot_4.json
+[2016-11-22 14:59:02 -0500] [9350] [DEBUG] GET /physics_world2.html
+[2016-11-22 14:59:02 -0500] [9354] [DEBUG] GET /static/lib/canvas-toBlob.js
+[2016-11-22 14:59:02 -0500] [9346] [DEBUG] GET /static/lib/ivank.js
+[2016-11-22 14:59:02 -0500] [9350] [DEBUG] GET /static/lib/Box2dWeb-2.1.a.3.js
+[2016-11-22 14:59:02 -0500] [9351] [DEBUG] GET /static/lib/FileSaver.js
+[2016-11-22 14:59:02 -0500] [9356] [DEBUG] GET /static/lib/jquery-1.10.2.js
+[2016-11-22 14:59:02 -0500] [9353] [DEBUG] GET /static/lib/brick_interface_exp.js
+[2016-11-22 14:59:02 -0500] [9351] [DEBUG] GET /static/json/stimuli/17.json
+[2016-11-22 14:59:02 -0500] [9351] [DEBUG] GET /static/images/wallpaper.png
+[2016-11-22 14:59:02 -0500] [9351] [DEBUG] GET /static/images/ground.png
+[2016-11-22 14:59:02 -0500] [9355] [DEBUG] GET /static/images/table_leg.png
+[2016-11-22 14:59:02 -0500] [9353] [DEBUG] GET /static/images/table_top.png
+[2016-11-22 14:59:02 -0500] [9353] [DEBUG] GET /static/images/brick.png
+[2016-11-22 14:59:02 -0500] [9354] [DEBUG] GET /static/images/brick_special.png
+[2016-11-22 14:59:05 -0500] [9354] [DEBUG] GET /static/images/brick_filter.png
+[2016-11-22 14:59:18 -0500] [9350] [DEBUG] GET /physics_world2.html
+[2016-11-22 14:59:18 -0500] [9353] [DEBUG] GET /static/lib/Box2dWeb-2.1.a.3.js
+[2016-11-22 14:59:18 -0500] [9346] [DEBUG] GET /static/lib/ivank.js
+[2016-11-22 14:59:18 -0500] [9346] [DEBUG] GET /static/lib/canvas-toBlob.js
+[2016-11-22 14:59:18 -0500] [9353] [DEBUG] GET /static/lib/jquery-1.10.2.js
+[2016-11-22 14:59:18 -0500] [9352] [DEBUG] GET /static/lib/FileSaver.js
+[2016-11-22 14:59:18 -0500] [9348] [DEBUG] GET /static/lib/brick_interface_exp.js
+[2016-11-22 14:59:18 -0500] [9353] [DEBUG] GET /static/json/stimuli/20.json
+[2016-11-22 14:59:18 -0500] [9351] [DEBUG] GET /static/images/wallpaper.png
+[2016-11-22 14:59:18 -0500] [9354] [DEBUG] GET /static/images/table_leg.png
+[2016-11-22 14:59:18 -0500] [9353] [DEBUG] GET /static/images/ground.png
+[2016-11-22 14:59:18 -0500] [9351] [DEBUG] GET /static/images/table_top.png
+[2016-11-22 14:59:18 -0500] [9353] [DEBUG] GET /static/images/brick_special.png
+[2016-11-22 14:59:18 -0500] [9352] [DEBUG] GET /static/images/brick.png
+[2016-11-22 14:59:21 -0500] [9353] [DEBUG] GET /physics_world2.html
+[2016-11-22 14:59:21 -0500] [9346] [DEBUG] GET /static/json/stimuli/26.json
+[2016-11-22 14:59:25 -0500] [9348] [DEBUG] GET /physics_world2.html
+[2016-11-22 14:59:25 -0500] [9348] [DEBUG] GET /static/json/stimuli/21.json
+[2016-11-22 14:59:27 -0500] [9352] [DEBUG] GET /static/images/brick_filter.png
+[2016-11-22 14:59:43 -0500] [9352] [DEBUG] Closing connection. 
+[2016-11-22 14:59:44 -0500] [9352] [DEBUG] Closing connection. 
+[2016-11-22 14:59:44 -0500] [9346] [DEBUG] Closing connection. 
+[2016-11-22 14:59:44 -0500] [9354] [DEBUG] GET /ppid
+[2016-11-22 14:59:44 -0500] [9353] [INFO] Parent changed, shutting down: <Worker 9353>
+[2016-11-22 14:59:44 -0500] [9354] [INFO] Parent changed, shutting down: <Worker 9354>
+[2016-11-22 14:59:44 -0500] [9352] [INFO] Parent changed, shutting down: <Worker 9352>
+[2016-11-22 14:59:44 -0500] [9348] [DEBUG] Closing connection. 
+[2016-11-22 14:59:44 -0500] [9353] [INFO] Worker exiting (pid: 9353)
+[2016-11-22 14:59:44 -0500] [9352] [INFO] Worker exiting (pid: 9352)
+[2016-11-22 14:59:44 -0500] [9354] [INFO] Worker exiting (pid: 9354)
+[2016-11-22 14:59:44 -0500] [9348] [INFO] Parent changed, shutting down: <Worker 9348>
+[2016-11-22 14:59:44 -0500] [9348] [INFO] Worker exiting (pid: 9348)
+[2016-11-22 14:59:44 -0500] [9346] [INFO] Parent changed, shutting down: <Worker 9346>
+[2016-11-22 14:59:44 -0500] [9351] [INFO] Parent changed, shutting down: <Worker 9351>
+[2016-11-22 14:59:44 -0500] [9350] [DEBUG] Closing connection. 
+[2016-11-22 14:59:44 -0500] [9346] [INFO] Worker exiting (pid: 9346)
+[2016-11-22 14:59:44 -0500] [9351] [INFO] Worker exiting (pid: 9351)
+[2016-11-22 14:59:44 -0500] [9350] [INFO] Parent changed, shutting down: <Worker 9350>
+[2016-11-22 14:59:44 -0500] [9350] [INFO] Worker exiting (pid: 9350)
+[2016-11-22 14:59:45 -0500] [9355] [INFO] Parent changed, shutting down: <Worker 9355>
+[2016-11-22 14:59:45 -0500] [9356] [DEBUG] Closing connection. 
+[2016-11-22 14:59:45 -0500] [9355] [INFO] Worker exiting (pid: 9355)
+[2016-11-22 14:59:45 -0500] [9356] [INFO] Parent changed, shutting down: <Worker 9356>
+[2016-11-22 14:59:45 -0500] [9356] [INFO] Worker exiting (pid: 9356)
+[2017-01-20 03:12:53 -0500] [94876] [DEBUG] Current configuration:
+  proxy_protocol: False
+  worker_connections: 1000
+  statsd_host: None
+  max_requests_jitter: 0
+  post_fork: <function post_fork at 0x1013db8c0>
+  pythonpath: None
+  enable_stdio_inheritance: False
+  worker_class: sync
+  ssl_version: 3
+  suppress_ragged_eofs: True
+  syslog: False
+  syslog_facility: user
+  when_ready: <function when_ready at 0x1013db5f0>
+  pre_fork: <function pre_fork at 0x1013db758>
+  cert_reqs: 0
+  preload_app: False
+  keepalive: 2
+  accesslog: None
+  group: 20
+  graceful_timeout: 30
+  do_handshake_on_connect: False
+  spew: False
+  workers: 17
+  proc_name: psiturk_experiment_server
+  sendfile: None
+  pidfile: None
+  umask: 0
+  on_reload: <function on_reload at 0x1013db488>
+  pre_exec: <function pre_exec at 0x1013dbe60>
+  worker_tmp_dir: None
+  post_worker_init: <function post_worker_init at 0x1013dba28>
+  limit_request_fields: 100
+  on_exit: <function on_exit at 0x101463050>
+  config: None
+  secure_scheme_headers: {'X-FORWARDED-PROTOCOL': 'ssl', 'X-FORWARDED-PROTO': 'https', 'X-FORWARDED-SSL': 'on'}
+  proxy_allow_ips: ['127.0.0.1']
+  pre_request: <function pre_request at 0x1013df050>
+  post_request: <function post_request at 0x1013df140>
+  user: 501
+  forwarded_allow_ips: ['127.0.0.1']
+  worker_int: <function worker_int at 0x1013dbb90>
+  threads: 1
+  max_requests: 0
+  limit_request_line: 0
+  access_log_format: %(h)s %(l)s %(u)s %(t)s "%(r)s" %(s)s %(b)s "%(f)s" "%(a)s"
+  certfile: None
+  worker_exit: <function worker_exit at 0x1013df2a8>
+  chdir: /Users/liang/Dropbox (MIT)/towers/code/javascript/Experiment_3
+  paste: None
+  default_proc_name: gunicorn
+  errorlog: server.log
+  loglevel: debug
+  logconfig: None
+  syslog_addr: unix:///var/run/syslog
+  syslog_prefix: None
+  daemon: False
+  ciphers: TLSv1
+  on_starting: <function on_starting at 0x1013db320>
+  worker_abort: <function worker_abort at 0x1013dbcf8>
+  bind: ['0.0.0.0:22362']
+  raw_env: []
+  reload: False
+  check_config: False
+  limit_request_field_size: 8190
+  nworkers_changed: <function nworkers_changed at 0x1013df410>
+  timeout: 30
+  ca_certs: None
+  django_settings: None
+  tmp_upload_dir: None
+  keyfile: None
+  backlog: 2048
+  logger_class: gunicorn.glogging.Logger
+  statsd_prefix: 
+[2017-01-20 03:12:53 -0500] [94876] [INFO] Starting gunicorn 19.4.5
+[2017-01-20 03:12:53 -0500] [94876] [DEBUG] Arbiter booted
+[2017-01-20 03:12:53 -0500] [94876] [INFO] Listening at: http://0.0.0.0:22362 (94876)
+[2017-01-20 03:12:53 -0500] [94876] [INFO] Using worker: sync
+[2017-01-20 03:12:53 -0500] [94880] [INFO] Booting worker with pid: 94880
+[2017-01-20 03:12:53 -0500] [94881] [INFO] Booting worker with pid: 94881
+[2017-01-20 03:12:53 -0500] [94882] [INFO] Booting worker with pid: 94882
+[2017-01-20 03:12:53 -0500] [94883] [INFO] Booting worker with pid: 94883
+2017-01-20 03:12:53,990 Secret key: 'this is my secret key which is hard to guess, i should change this'
+2017-01-20 03:12:53,991 Hmm... it seems no custom code (custom.py) associated                         with this project.
+2017-01-20 03:12:53,991 Secret key: 'this is my secret key which is hard to guess, i should change this'
+2017-01-20 03:12:53,991 Hmm... it seems no custom code (custom.py) associated                         with this project.
+2017-01-20 03:12:54,000 /usr/local/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2017-01-20 03:12:54,000 /usr/local/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+[2017-01-20 03:12:54 -0500] [94884] [INFO] Booting worker with pid: 94884
+[2017-01-20 03:12:54 -0500] [94885] [INFO] Booting worker with pid: 94885
+2017-01-20 03:12:54,078 Secret key: 'this is my secret key which is hard to guess, i should change this'
+2017-01-20 03:12:54,078 Hmm... it seems no custom code (custom.py) associated                         with this project.
+2017-01-20 03:12:54,080 /usr/local/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+[2017-01-20 03:12:54 -0500] [94886] [INFO] Booting worker with pid: 94886
+2017-01-20 03:12:54,141 Secret key: 'this is my secret key which is hard to guess, i should change this'
+2017-01-20 03:12:54,142 Hmm... it seems no custom code (custom.py) associated                         with this project.
+2017-01-20 03:12:54,144 /usr/local/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+[2017-01-20 03:12:54 -0500] [94887] [INFO] Booting worker with pid: 94887
+2017-01-20 03:12:54,221 Secret key: 'this is my secret key which is hard to guess, i should change this'
+2017-01-20 03:12:54,221 Hmm... it seems no custom code (custom.py) associated                         with this project.
+2017-01-20 03:12:54,223 /usr/local/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+[2017-01-20 03:12:54 -0500] [94888] [INFO] Booting worker with pid: 94888
+2017-01-20 03:12:54,245 Secret key: 'this is my secret key which is hard to guess, i should change this'
+2017-01-20 03:12:54,246 Hmm... it seems no custom code (custom.py) associated                         with this project.
+2017-01-20 03:12:54,247 /usr/local/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+[2017-01-20 03:12:54 -0500] [94889] [INFO] Booting worker with pid: 94889
+2017-01-20 03:12:54,336 Secret key: 'this is my secret key which is hard to guess, i should change this'
+2017-01-20 03:12:54,336 Hmm... it seems no custom code (custom.py) associated                         with this project.
+2017-01-20 03:12:54,338 /usr/local/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2017-01-20 03:12:54,344 Secret key: 'this is my secret key which is hard to guess, i should change this'
+2017-01-20 03:12:54,344 Hmm... it seems no custom code (custom.py) associated                         with this project.
+2017-01-20 03:12:54,346 /usr/local/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+[2017-01-20 03:12:54 -0500] [94890] [INFO] Booting worker with pid: 94890
+2017-01-20 03:12:54,429 Secret key: 'this is my secret key which is hard to guess, i should change this'
+2017-01-20 03:12:54,430 Hmm... it seems no custom code (custom.py) associated                         with this project.
+2017-01-20 03:12:54,431 /usr/local/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+[2017-01-20 03:12:54 -0500] [94891] [INFO] Booting worker with pid: 94891
+[2017-01-20 03:12:54 -0500] [94892] [INFO] Booting worker with pid: 94892
+2017-01-20 03:12:54,518 Secret key: 'this is my secret key which is hard to guess, i should change this'
+2017-01-20 03:12:54,518 Hmm... it seems no custom code (custom.py) associated                         with this project.
+2017-01-20 03:12:54,520 /usr/local/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+[2017-01-20 03:12:54 -0500] [94893] [INFO] Booting worker with pid: 94893
+[2017-01-20 03:12:54 -0500] [94894] [INFO] Booting worker with pid: 94894
+2017-01-20 03:12:54,577 Secret key: 'this is my secret key which is hard to guess, i should change this'
+2017-01-20 03:12:54,578 Hmm... it seems no custom code (custom.py) associated                         with this project.
+2017-01-20 03:12:54,580 /usr/local/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+[2017-01-20 03:12:54 -0500] [94895] [INFO] Booting worker with pid: 94895
+[2017-01-20 03:12:54 -0500] [94896] [INFO] Booting worker with pid: 94896
+2017-01-20 03:12:54,670 Secret key: 'this is my secret key which is hard to guess, i should change this'
+2017-01-20 03:12:54,671 Hmm... it seems no custom code (custom.py) associated                         with this project.
+2017-01-20 03:12:54,673 /usr/local/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2017-01-20 03:12:54,702 Secret key: 'this is my secret key which is hard to guess, i should change this'
+2017-01-20 03:12:54,702 Hmm... it seems no custom code (custom.py) associated                         with this project.
+2017-01-20 03:12:54,704 /usr/local/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+[2017-01-20 03:12:54 -0500] [94876] [DEBUG] 17 workers
+2017-01-20 03:12:54,767 Secret key: 'this is my secret key which is hard to guess, i should change this'
+2017-01-20 03:12:54,767 Hmm... it seems no custom code (custom.py) associated                         with this project.
+2017-01-20 03:12:54,769 /usr/local/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2017-01-20 03:12:54,787 Secret key: 'this is my secret key which is hard to guess, i should change this'
+2017-01-20 03:12:54,788 Hmm... it seems no custom code (custom.py) associated                         with this project.
+2017-01-20 03:12:54,789 /usr/local/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2017-01-20 03:12:54,808 Secret key: 'this is my secret key which is hard to guess, i should change this'
+2017-01-20 03:12:54,808 Hmm... it seems no custom code (custom.py) associated                         with this project.
+2017-01-20 03:12:54,809 /usr/local/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2017-01-20 03:12:54,872 Secret key: 'this is my secret key which is hard to guess, i should change this'
+2017-01-20 03:12:54,872 Hmm... it seems no custom code (custom.py) associated                         with this project.
+2017-01-20 03:12:54,874 /usr/local/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+[2017-01-20 03:12:55 -0500] [94893] [DEBUG] Closing connection. 
+[2017-01-20 03:12:58 -0500] [94893] [DEBUG] Closing connection. 
+[2017-01-20 03:12:58 -0500] [94893] [DEBUG] Closing connection. 
+[2017-01-20 03:12:58 -0500] [94880] [DEBUG] Closing connection. 
+[2017-01-20 03:12:58 -0500] [94880] [DEBUG] GET /ad
+[2017-01-20 03:12:58 -0500] [94889] [DEBUG] GET /favicon.ico
+[2017-01-20 03:13:00 -0500] [94887] [DEBUG] GET /consent
+[2017-01-20 03:13:00 -0500] [94882] [DEBUG] GET /static/css/general.css
+[2017-01-20 03:13:00 -0500] [94881] [DEBUG] GET /static/js/utils.js
+[2017-01-20 03:13:00 -0500] [94889] [DEBUG] GET /ad
+[2017-01-20 03:13:02 -0500] [94882] [DEBUG] GET /exp
+2017-01-20 03:13:02,077 Accessing /exp: debug55TRTR debug2ZF1CP debugPOIXMZ 
+2017-01-20 03:13:02,103 given Counter({(0, 0): 38}) chose (0, 0)
+[2017-01-20 03:13:02 -0500] [94889] [DEBUG] GET /static/lib/seedrandom.js
+[2017-01-20 03:13:02 -0500] [94882] [DEBUG] GET /static/lib/jquery.min.js
+[2017-01-20 03:13:02 -0500] [94887] [DEBUG] GET /static/lib/underscore-min.js
+[2017-01-20 03:13:02 -0500] [94894] [DEBUG] GET /static/lib/jquery-ui.min.js
+[2017-01-20 03:13:02 -0500] [94884] [DEBUG] GET /static/lib/backbone-min.js
+[2017-01-20 03:13:02 -0500] [94888] [DEBUG] GET /static/lib/mustache.js
+[2017-01-20 03:13:02 -0500] [94889] [DEBUG] GET /static/css/jquery-ui.min.css
+[2017-01-20 03:13:02 -0500] [94882] [DEBUG] GET /static/js/config.js
+[2017-01-20 03:13:02 -0500] [94889] [DEBUG] GET /static/js/psiturk.js
+[2017-01-20 03:13:02 -0500] [94882] [DEBUG] GET /static/js/task.js
+[2017-01-20 03:13:02 -0500] [94882] [DEBUG] GET /static/json/stim.json
+[2017-01-20 03:13:02 -0500] [94886] [DEBUG] GET /sync/debugPOIXMZ%3Adebug2ZF1CP
+2017-01-20 03:13:02,276 GET /sync route with id: debugPOIXMZ:debug2ZF1CP
+[2017-01-20 03:13:02 -0500] [94892] [DEBUG] GET /trial.html
+[2017-01-20 03:13:02 -0500] [94895] [DEBUG] GET /submit.html
+[2017-01-20 03:13:02 -0500] [94894] [DEBUG] GET /physics_world.html
+[2017-01-20 03:13:02 -0500] [94881] [DEBUG] GET /static/images/stimuli/example_tower.png
+[2017-01-20 03:13:02 -0500] [94888] [DEBUG] GET /static/images/stimuli/example_tower_selected.png
+[2017-01-20 03:13:03 -0500] [94889] [DEBUG] GET /physics_world.html
+[2017-01-20 03:13:03 -0500] [94881] [DEBUG] GET /static/lib/Box2dWeb-2.1.a.3.js
+[2017-01-20 03:13:03 -0500] [94894] [DEBUG] GET /static/lib/ivank.js
+[2017-01-20 03:13:03 -0500] [94882] [DEBUG] GET /static/lib/canvas-toBlob.js
+[2017-01-20 03:13:03 -0500] [94889] [DEBUG] GET /static/lib/FileSaver.js
+[2017-01-20 03:13:03 -0500] [94883] [DEBUG] GET /static/lib/jquery-1.10.2.js
+[2017-01-20 03:13:03 -0500] [94885] [DEBUG] GET /static/lib/brick_interface_exp.js
+[2017-01-20 03:13:04 -0500] [94889] [DEBUG] GET /static/images/stimuli/snapshot_0.json
+[2017-01-20 03:13:04 -0500] [94882] [DEBUG] GET /static/images/wallpaper.png
+[2017-01-20 03:13:04 -0500] [94896] [DEBUG] GET /static/images/ground.png
+[2017-01-20 03:13:04 -0500] [94882] [DEBUG] GET /static/images/table_leg.png
+[2017-01-20 03:13:04 -0500] [94880] [DEBUG] GET /static/images/table_top.png
+[2017-01-20 03:13:04 -0500] [94882] [DEBUG] GET /static/images/brick.png
+[2017-01-20 03:13:31 -0500] [94880] [DEBUG] GET /exp
+2017-01-20 03:13:31,789 Accessing /exp: debug55TRTR debug2ZF1CP debugPOIXMZ 
+[2017-01-20 03:13:31 -0500] [94887] [DEBUG] GET /static/js/config.js
+[2017-01-20 03:13:31 -0500] [94893] [DEBUG] GET /static/css/jquery-ui.min.css
+[2017-01-20 03:13:31 -0500] [94888] [DEBUG] GET /static/json/stim.json
+[2017-01-20 03:13:31 -0500] [94889] [DEBUG] GET /static/js/task.js
+[2017-01-20 03:13:31 -0500] [94886] [DEBUG] GET /static/lib/seedrandom.js
+[2017-01-20 03:13:31 -0500] [94887] [DEBUG] GET /static/lib/underscore-min.js
+[2017-01-20 03:13:31 -0500] [94891] [DEBUG] GET /static/lib/mustache.js
+[2017-01-20 03:13:31 -0500] [94889] [DEBUG] GET /static/images/stimuli/example_tower_selected.png
+[2017-01-20 03:13:31 -0500] [94880] [DEBUG] GET /static/lib/backbone-min.js
+[2017-01-20 03:13:31 -0500] [94887] [DEBUG] GET /static/lib/jquery-ui.min.js
+[2017-01-20 03:13:31 -0500] [94884] [DEBUG] GET /static/images/stimuli/example_tower.png
+[2017-01-20 03:13:31 -0500] [94884] [DEBUG] GET /static/lib/jquery.min.js
+[2017-01-20 03:13:31 -0500] [94893] [DEBUG] GET /static/lib/jquery.min.js
+[2017-01-20 03:13:31 -0500] [94895] [DEBUG] GET /static/lib/backbone-min.js
+[2017-01-20 03:13:31 -0500] [94884] [DEBUG] GET /static/lib/seedrandom.js
+[2017-01-20 03:13:31 -0500] [94886] [DEBUG] GET /static/lib/underscore-min.js
+[2017-01-20 03:13:31 -0500] [94880] [DEBUG] GET /static/lib/jquery-ui.min.js
+[2017-01-20 03:13:31 -0500] [94883] [DEBUG] GET /static/lib/mustache.js
+[2017-01-20 03:13:31 -0500] [94883] [DEBUG] GET /static/css/jquery-ui.min.css
+[2017-01-20 03:13:31 -0500] [94880] [DEBUG] GET /static/css/general.css
+[2017-01-20 03:13:31 -0500] [94892] [DEBUG] GET /static/js/psiturk.js
+[2017-01-20 03:13:31 -0500] [94893] [DEBUG] GET /static/js/config.js
+[2017-01-20 03:13:31 -0500] [94885] [DEBUG] GET /static/js/utils.js
+[2017-01-20 03:13:31 -0500] [94885] [DEBUG] GET /static/js/task.js
+[2017-01-20 03:13:31 -0500] [94894] [DEBUG] GET /sync/debugPOIXMZ%3Adebug2ZF1CP
+2017-01-20 03:13:31,891 GET /sync route with id: debugPOIXMZ:debug2ZF1CP
+[2017-01-20 03:13:31 -0500] [94892] [DEBUG] GET /trial.html
+[2017-01-20 03:13:31 -0500] [94892] [DEBUG] GET /submit.html
+[2017-01-20 03:13:31 -0500] [94889] [DEBUG] GET /physics_world.html
+[2017-01-20 03:13:31 -0500] [94893] [DEBUG] GET /static/images/stimuli/example_tower_selected.png
+[2017-01-20 03:13:31 -0500] [94896] [DEBUG] GET /static/images/stimuli/example_tower.png
+[2017-01-20 03:13:32 -0500] [94893] [DEBUG] GET /physics_world.html
+[2017-01-20 03:13:32 -0500] [94883] [DEBUG] GET /static/images/ground.png
+[2017-01-20 03:13:32 -0500] [94895] [DEBUG] GET /static/images/table_top.png
+[2017-01-20 03:13:32 -0500] [94890] [DEBUG] GET /static/lib/FileSaver.js
+[2017-01-20 03:13:32 -0500] [94884] [DEBUG] GET /static/lib/ivank.js
+[2017-01-20 03:13:32 -0500] [94892] [DEBUG] GET /static/images/brick.png
+[2017-01-20 03:13:32 -0500] [94895] [DEBUG] GET /static/lib/brick_interface_exp.js
+[2017-01-20 03:13:32 -0500] [94883] [DEBUG] GET /static/images/table_leg.png
+[2017-01-20 03:13:32 -0500] [94882] [DEBUG] GET /static/lib/jquery-1.10.2.js
+[2017-01-20 03:13:32 -0500] [94883] [DEBUG] GET /static/images/wallpaper.png
+[2017-01-20 03:13:32 -0500] [94895] [DEBUG] GET /static/lib/canvas-toBlob.js
+[2017-01-20 03:13:32 -0500] [94893] [DEBUG] GET /static/images/stimuli/snapshot_0.json
+[2017-01-20 03:13:32 -0500] [94886] [DEBUG] GET /static/lib/Box2dWeb-2.1.a.3.js
+[2017-01-20 03:13:32 -0500] [94884] [DEBUG] GET /static/lib/ivank.js
+[2017-01-20 03:13:32 -0500] [94887] [DEBUG] GET /static/lib/canvas-toBlob.js
+[2017-01-20 03:13:32 -0500] [94883] [DEBUG] GET /static/lib/Box2dWeb-2.1.a.3.js
+[2017-01-20 03:13:32 -0500] [94889] [DEBUG] GET /static/lib/FileSaver.js
+[2017-01-20 03:13:32 -0500] [94894] [DEBUG] GET /static/lib/jquery-1.10.2.js
+[2017-01-20 03:13:32 -0500] [94890] [DEBUG] GET /static/lib/brick_interface_exp.js
+[2017-01-20 03:13:33 -0500] [94887] [DEBUG] GET /physics_world2.html
+[2017-01-20 03:13:33 -0500] [94881] [DEBUG] GET /static/json/stimuli/13.json
+[2017-01-20 03:13:33 -0500] [94881] [DEBUG] GET /static/images/wallpaper.png
+[2017-01-20 03:13:33 -0500] [94886] [DEBUG] GET /static/images/ground.png
+[2017-01-20 03:13:33 -0500] [94895] [DEBUG] GET /static/images/table_leg.png
+[2017-01-20 03:13:33 -0500] [94894] [DEBUG] GET /static/images/table_top.png
+[2017-01-20 03:13:33 -0500] [94895] [DEBUG] GET /static/images/brick_special.png
+[2017-01-20 03:13:33 -0500] [94886] [DEBUG] GET /static/images/brick.png
+[2017-01-20 03:13:35 -0500] [94881] [DEBUG] GET /static/images/brick_filter.png
+[2017-01-20 03:13:40 -0500] [94896] [DEBUG] GET /physics_world2.html
+[2017-01-20 03:13:40 -0500] [94893] [DEBUG] GET /static/json/stimuli/10.json
+[2017-01-20 03:13:43 -0500] [94887] [DEBUG] GET /static/images/brick_special.png
+[2017-01-20 03:13:43 -0500] [94893] [DEBUG] GET /static/json/stimuli/13.json
+[2017-01-20 03:13:43 -0500] [94888] [DEBUG] GET /physics_world2.html
+[2017-01-20 03:13:43 -0500] [94887] [DEBUG] GET /static/lib/ivank.js
+[2017-01-20 03:13:43 -0500] [94885] [DEBUG] GET /static/lib/brick_interface_exp.js
+[2017-01-20 03:13:43 -0500] [94896] [DEBUG] GET /static/lib/FileSaver.js
+[2017-01-20 03:13:43 -0500] [94880] [DEBUG] GET /static/lib/Box2dWeb-2.1.a.3.js
+[2017-01-20 03:13:43 -0500] [94889] [DEBUG] GET /static/lib/canvas-toBlob.js
+[2017-01-20 03:13:43 -0500] [94882] [DEBUG] GET /static/lib/jquery-1.10.2.js
+[2017-01-20 03:13:43 -0500] [94881] [DEBUG] GET /static/json/stimuli/41.json
+[2017-01-20 03:13:43 -0500] [94890] [DEBUG] GET /static/images/wallpaper.png
+[2017-01-20 03:13:43 -0500] [94892] [DEBUG] GET /static/images/ground.png
+[2017-01-20 03:13:43 -0500] [94891] [DEBUG] GET /static/images/table_leg.png
+[2017-01-20 03:13:43 -0500] [94896] [DEBUG] GET /static/images/table_top.png
+[2017-01-20 03:13:43 -0500] [94896] [DEBUG] GET /static/images/brick_special.png
+[2017-01-20 03:13:43 -0500] [94887] [DEBUG] GET /static/images/brick.png
+[2017-01-20 03:13:45 -0500] [94893] [DEBUG] GET /static/images/brick_filter.png
+[2017-01-20 03:13:47 -0500] [94887] [DEBUG] GET /physics_world2.html
+[2017-01-20 03:13:47 -0500] [94892] [DEBUG] GET /static/json/stimuli/7.json
+[2017-01-20 03:13:50 -0500] [94883] [DEBUG] GET /physics_world2.html
+[2017-01-20 03:13:50 -0500] [94888] [DEBUG] GET /static/json/stimuli/9.json
+[2017-01-20 03:14:06 -0500] [94894] [DEBUG] Closing connection. 
+[2017-01-20 03:14:08 -0500] [94891] [DEBUG] Closing connection. 
+[2017-01-20 03:14:08 -0500] [94888] [DEBUG] Closing connection. 
+[2017-01-20 03:14:08 -0500] [94888] [DEBUG] GET /ppid
+[2017-01-20 03:14:08 -0500] [94888] [DEBUG] Closing connection. 
+[2017-01-20 03:14:08 -0500] [94891] [INFO] Parent changed, shutting down: <Worker 94891>
+[2017-01-20 03:14:08 -0500] [94885] [INFO] Parent changed, shutting down: <Worker 94885>
+[2017-01-20 03:14:08 -0500] [94892] [INFO] Parent changed, shutting down: <Worker 94892>
+[2017-01-20 03:14:08 -0500] [94893] [INFO] Parent changed, shutting down: <Worker 94893>
+[2017-01-20 03:14:08 -0500] [94886] [INFO] Parent changed, shutting down: <Worker 94886>
+[2017-01-20 03:14:08 -0500] [94884] [INFO] Parent changed, shutting down: <Worker 94884>
+[2017-01-20 03:14:08 -0500] [94882] [INFO] Parent changed, shutting down: <Worker 94882>
+[2017-01-20 03:14:08 -0500] [94888] [INFO] Parent changed, shutting down: <Worker 94888>
+[2017-01-20 03:14:08 -0500] [94891] [INFO] Worker exiting (pid: 94891)
+[2017-01-20 03:14:08 -0500] [94885] [INFO] Worker exiting (pid: 94885)
+[2017-01-20 03:14:08 -0500] [94893] [INFO] Worker exiting (pid: 94893)
+[2017-01-20 03:14:08 -0500] [94892] [INFO] Worker exiting (pid: 94892)
+[2017-01-20 03:14:08 -0500] [94884] [INFO] Worker exiting (pid: 94884)
+[2017-01-20 03:14:08 -0500] [94886] [INFO] Worker exiting (pid: 94886)
+[2017-01-20 03:14:08 -0500] [94882] [INFO] Worker exiting (pid: 94882)
+[2017-01-20 03:14:08 -0500] [94888] [INFO] Worker exiting (pid: 94888)
+[2017-01-20 03:14:08 -0500] [94887] [INFO] Parent changed, shutting down: <Worker 94887>
+[2017-01-20 03:14:08 -0500] [94880] [INFO] Parent changed, shutting down: <Worker 94880>
+[2017-01-20 03:14:08 -0500] [94894] [INFO] Parent changed, shutting down: <Worker 94894>
+[2017-01-20 03:14:08 -0500] [94883] [DEBUG] Closing connection. 
+[2017-01-20 03:14:08 -0500] [94890] [INFO] Parent changed, shutting down: <Worker 94890>
+[2017-01-20 03:14:08 -0500] [94895] [INFO] Parent changed, shutting down: <Worker 94895>
+[2017-01-20 03:14:08 -0500] [94896] [INFO] Parent changed, shutting down: <Worker 94896>
+[2017-01-20 03:14:08 -0500] [94889] [INFO] Parent changed, shutting down: <Worker 94889>
+[2017-01-20 03:14:08 -0500] [94887] [INFO] Worker exiting (pid: 94887)
+[2017-01-20 03:14:08 -0500] [94880] [INFO] Worker exiting (pid: 94880)
+[2017-01-20 03:14:08 -0500] [94889] [INFO] Worker exiting (pid: 94889)
+[2017-01-20 03:14:08 -0500] [94883] [INFO] Parent changed, shutting down: <Worker 94883>
+[2017-01-20 03:14:08 -0500] [94894] [INFO] Worker exiting (pid: 94894)
+[2017-01-20 03:14:08 -0500] [94895] [INFO] Worker exiting (pid: 94895)
+[2017-01-20 03:14:08 -0500] [94890] [INFO] Worker exiting (pid: 94890)
+[2017-01-20 03:14:08 -0500] [94896] [INFO] Worker exiting (pid: 94896)
+[2017-01-20 03:14:08 -0500] [94883] [INFO] Worker exiting (pid: 94883)
+[2017-01-20 03:14:09 -0500] [94881] [DEBUG] Closing connection. 
+[2017-01-20 03:14:09 -0500] [94881] [INFO] Parent changed, shutting down: <Worker 94881>
+[2017-01-20 03:14:09 -0500] [94881] [INFO] Worker exiting (pid: 94881)

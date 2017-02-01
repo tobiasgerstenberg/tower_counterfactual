@@ -186,6 +186,7 @@ function getWorldFeatures(data) {
 	var max_height = 100;
 	var brick_count = 0;
 	var above_count = 0;
+	avg_edge_distance = 0;
 	for (var i = 0; i < bricks_array.length; i++) {
 		brick = bricks_array[i]
 		if (brick.GetPosition().x < 0) {continue;}
@@ -194,9 +195,10 @@ function getWorldFeatures(data) {
 			above_count++;
 		}
 		avg_x += (fullX / 2) - brick.GetPosition().x;
+		avg_edge_distance += (1.5 - Math.abs(fullX / 2 - brick.GetPosition().x))
 		avg_y += brick.GetPosition().y;
 		// a bit tricky to get the angle to make sure it's within our range
-		ang = (brick.GetAngle() % (Math.PI/2) + Math.PI/2) % (Math.PI/2);
+		ang = (brick.GetAngle() % (Math.PI/2) + Math.PI/2) % (Math.PI/4);
 		angle_dev += Math.min(Math.PI/2 - ang, ang);
 		if (brick.GetPosition().y < max_height) {
 			max_height = brick.GetPosition().y;
@@ -209,6 +211,7 @@ function getWorldFeatures(data) {
 	avg_x /= -brick_count;
 	avg_y /= brick_count;
 	avg_y = fullY - table_height - avg_y;
+	avg_edge_distance /= brick_count;
 	angle_dev /= brick_count;
 	max_height = fullY - table_height - max_height;
 	brick_y = fullY - table_height - theBrick.GetPosition().y;
@@ -218,8 +221,9 @@ function getWorldFeatures(data) {
 		'above_contact_general':contact_bfs.length - 1,
 		'above_contact_selective':contact_bfs_selective.length - 1,
 		'edge_distance':edge_distance,
-		'brick_angle':(theBrick.GetAngle() + 2*Math.PI) % (Math.PI / 2),
+		'brick_angle':(theBrick.GetAngle() + 2*Math.PI) % (Math.PI / 4),
 		'brick_y':brick_y,
+		'avg_edge_distance':avg_edge_distance,
 		'avg_x':avg_x,
 		'avg_y':avg_y,
 		'avg_angle':angle_dev,

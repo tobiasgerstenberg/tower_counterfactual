@@ -13,7 +13,7 @@ create a 'features/' folder beforehand to avoid errors!
 
 var option = process.argv[2]
 
-var trials = data_source2.trials;
+var trials = data_source.trials;
 
 var worldFeatureSimulation = function (dt) {
 	var worldFeatList = {}
@@ -42,7 +42,7 @@ var brickFeatureSimulation = function (dt) {
 }
 
 if (option === 'world') {
-	var file = './features/world2.json';
+	var file = './features/world1.json';
 	var feats = worldFeatureSimulation(trials);
 	jsonfile.writeFile(file, feats, function (err) {
 		console.error(err)

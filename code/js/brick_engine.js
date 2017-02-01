@@ -208,15 +208,18 @@ function getWorldFeatures(data) {
 	//averaging by dividing the sum by the number of bricks
 	avg_x /= -brick_count;
 	avg_y /= brick_count;
-	avg_y = fullY - table_height - avg_y
+	avg_y = fullY - table_height - avg_y;
 	angle_dev /= brick_count;
 	max_height = fullY - table_height - max_height;
+	brick_y = fullY - table_height - theBrick.GetPosition().y;
 
 	var feature_list = {
 		'above_naive':above_count,
 		'above_contact_general':contact_bfs.length - 1,
 		'above_contact_selective':contact_bfs_selective.length - 1,
 		'edge_distance':edge_distance,
+		'brick_angle':(theBrick.GetAngle() + 2*Math.PI) % (Math.PI / 2),
+		'brick_y':brick_y,
 		'avg_x':avg_x,
 		'avg_y':avg_y,
 		'avg_angle':angle_dev,

@@ -42,7 +42,7 @@ var brickFeatureSimulation = function (dt) {
 }
 
 if (option === 'world') {
-	var file = './features/world.json';
+	var file = './features/world2.json';
 	var feats = worldFeatureSimulation(trials);
 	jsonfile.writeFile(file, feats, function (err) {
 		console.error(err)

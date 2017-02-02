@@ -414,7 +414,7 @@ function clickBricks() {
 }
 
 function AddBrick(e) {
-	var bd = new BitmapData('figures/brick.png');
+	var bd = new BitmapData('../figures/brick.png');
 	var bm = new Bitmap(bd);
 	//Resize the image and location depending on the pixel ratio/zoom level
 	bm.scaleX = ratio;
@@ -424,7 +424,7 @@ function AddBrick(e) {
 	bm.y = e.target.mouseY / ratio;
 
 	bricks_array.push(
-		createBox(brick_width, brick_height, bm.x, bm.y, clickAng * Math.PI / 180, b2Body.b2_dynamicBody, brick_density, default_brick_friction, brick_restitution, "brick_" + bricks_array.length, 'figures/brick.png')
+		createBox(brick_width, brick_height, bm.x, bm.y, clickAng * Math.PI / 180, b2Body.b2_dynamicBody, brick_density, default_brick_friction, brick_restitution, "brick_" + bricks_array.length, '../figures/brick.png')
 	)
 	console.log(bricks_array)
 }
@@ -651,7 +651,7 @@ function setupWorld() {
 			stage = new Stage("c");
 		}
 		endVis();
-		var bg = new Bitmap(new BitmapData("figures/wallpaper.png"));
+		var bg = new Bitmap(new BitmapData("../figures/wallpaper.png"));
 		bg.scaleX = bg.scaleY = scale;
 		stage.addChild(bg);
 	}
@@ -667,13 +667,13 @@ function setupWorld() {
 		friction = 1,
 		restitution = 0,
 		userData = "box",
-		img = "figures/ground.png"
+		img = "../figures/ground.png"
 	);
 
 	//table
-	createBox(0.1, 0.4, centerX - 1, fullY - 0.4 - 0.2, 0, b2Body.b2_staticBody, table_density, table_friction, table_restitution, "left_leg", "figures/table_leg.png");
-	createBox(0.1, 0.4, centerX + 1, fullY - 0.4 - 0.2, 0, b2Body.b2_staticBody, table_density, table_friction, table_restitution, "right_leg", "figures/table_leg.png");
-	createBox(1.5, 0.1, centerX, fullY - 0.1 - 0.80 - 0.18, 0, b2Body.b2_staticBody, table_density, table_friction, table_restitution, "table", "figures/table_top.png");
+	createBox(0.1, 0.4, centerX - 1, fullY - 0.4 - 0.2, 0, b2Body.b2_staticBody, table_density, table_friction, table_restitution, "left_leg", "../figures/table_leg.png");
+	createBox(0.1, 0.4, centerX + 1, fullY - 0.4 - 0.2, 0, b2Body.b2_staticBody, table_density, table_friction, table_restitution, "right_leg", "../figures/table_leg.png");
+	createBox(1.5, 0.1, centerX, fullY - 0.1 - 0.80 - 0.18, 0, b2Body.b2_staticBody, table_density, table_friction, table_restitution, "table", "../figures/table_top.png");
 	settle(100);
 }
 
@@ -683,7 +683,7 @@ function generateBrickPositions() {
 	//check how many bricks to actually initialize with
 	var bricks_num = (loading_data) ? brick_positions_loaded.length : bricks_num_default;
 	for (var i = 0; i < bricks_num; i++) {
-		var brick_image = (i === brick_special) ? "figures/brick_special.png" : "figures/brick.png";
+		var brick_image = (i === brick_special) ? "../figures/brick_special.png" : "../figures/brick.png";
 		if (loading_data) {
 			var brick_x = brick_positions_loaded[i].x;
 			var brick_y = brick_positions_loaded[i].y;

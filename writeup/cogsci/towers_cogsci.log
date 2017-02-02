@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  1 FEB 2017 11:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  1 FEB 2017 11:36
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1537,8 +1537,8 @@ Package rerunfilecheck Warning: File `towers_cogsci.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `towers_cogsci.out':
-(rerunfilecheck)             Before: 2102BA966D0834D2E99E40E1A53519B3;1602
-(rerunfilecheck)             After:  E7D550757B86B7526023B85CBC015B2C;1603.
+(rerunfilecheck)             Before: E7D550757B86B7526023B85CBC015B2C;1603
+(rerunfilecheck)             After:  2102BA966D0834D2E99E40E1A53519B3;1602.
 
 LaTeX Warning: There were multiply-defined labels.
 
@@ -1560,7 +1560,7 @@ ve/2015/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/local/texlive/2015/tex
 mf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2015/texmf-dist/fo
 nts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/
 urw/times/utmri8a.pfb>
-Output written on towers_cogsci.pdf (7 pages, 9163030 bytes).
+Output written on towers_cogsci.pdf (7 pages, 9163028 bytes).
 PDF statistics:
  822 PDF objects out of 1000 (max. 8388607)
  515 compressed objects within 6 object streams

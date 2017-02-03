@@ -137,6 +137,13 @@ html {
 	color:#666;
 }
 
+.help-text {
+  font-size:16pt;
+  width:80vw;
+  margin:auto;
+  
+}
+
 button {
 	font-family: courier;
 	border-radius:0;
@@ -182,7 +189,7 @@ input[type=number]::-webkit-inner-spin-button {
     position:relative;
 }    
 input[type=number]::-webkit-inner-spin-button { 
-    background: #eee url('figures/lol.png') no-repeat 50% 50%;  
+    background: #eee url('../figures/arrows.png') no-repeat 50% 50%;  
     width: 14px;
     height: 14px;
     padding: 4px;

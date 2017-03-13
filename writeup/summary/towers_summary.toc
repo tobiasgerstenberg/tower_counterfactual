@@ -1,9 +1,0 @@
-\contentsline {section}{\numberline {1}Experiment 5: Selection with new stimuli}{2}{section.1}
-\contentsline {subsection}{\numberline {1.1}Methods}{2}{subsection.1.1}
-\contentsline {subsection}{\numberline {1.2}Results}{2}{subsection.1.2}
-\contentsline {subsubsection}{\numberline {1.2.1}Empirical selections}{2}{subsubsection.1.2.1}
-\contentsline {subsubsection}{\numberline {1.2.2}Local-above noise}{3}{subsubsection.1.2.2}
-\contentsline {subsubsection}{\numberline {1.2.3}Local noise}{4}{subsubsection.1.2.3}
-\contentsline {subsubsection}{\numberline {1.2.4}Global noise}{5}{subsubsection.1.2.4}
-\contentsline {section}{\numberline {A}Feedback}{6}{appendix.A}
-\contentsline {subsection}{\numberline {A.1}Participants' comments in Experiment 1}{6}{subsection.A.1}

@@ -856,6 +856,12 @@ function removeBrick(noiseType, noiseLevel, brickFric, fricVar) {
 		contact_list.forEach(function (brick) {
 			brick.ApplyImpulse(new b2Vec2(noiseGauss(), noiseGauss()), brick.GetPosition())
 		})
+	} else if (noiseType === "impulse-lae-downwards") {
+		var contact_list = getExtendedContactsAbove(theBrick);
+		contact_list.forEach(function (brick) {
+			brick.ApplyImpulse(new b2Vec2(noiseGauss(), Math.abs(noiseGauss())), brick.GetPosition())
+		})
+		console.log('asdf')
 	} else if (noiseType === "impulse-global") {
 		bricks_array.forEach(function(brick) {
 			brick.ApplyImpulse(new b2Vec2(noiseGauss(), noiseGauss()), brick.GetPosition())

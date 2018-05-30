@@ -23,8 +23,8 @@ library(gtools) #used for mixed sorting
 library(grid)
 library(corrr)
 library(Hmisc)
-library(dplyr)
-library(tidyr)
+library(tidyverse)
+
 
 # Misc functions ------------------------------------------------------------------------------
 
